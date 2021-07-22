@@ -1,0 +1,1 @@
+Liga;dia;mes;ano;hr;minuto;confronto;casa;fora;link

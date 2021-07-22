@@ -1,0 +1,994 @@
+"CONFRONTO_CASA","CONFRONTO_FORA","posse_dif_casa","posse_dif_fora","ataques_dif_casa","ataques_dif_fora","ataques_perigosos_dif_casa","ataques_perigosos_dif_fora","chutes_livres_dif_casa","chutes_livres_dif_fora","conjunto_de_peças_dif_casa","conjunto_de_peças_dif_fora","penaltis_dif_casa","penaltis_dif_fora","tiros_fora_do_alvo_dif_casa","tiros_fora_do_alvo_dif_fora","chaves_dif_casa","chaves_dif_fora","cantos_dif_casa","cantos_dif_fora","faltas_dif_casa","faltas_dif_fora","ResultFT"
+Fortaleza,Flamengo,0,18,0,10,0,5,0,7,1,0,0,0,1,0,0,0,0,0,6,0,EMPATE
+Goiás,Sport Recife,0,20,0,11,0,11,0,0,0,2,0,2,3,0,6,0,0,0,1,0,CASA
+Atlético Mineiro,Coritiba,32,0,30,0,21,0,0,1,0,1,4,0,2,0,8,0,10,0,3,0,CASA
+Corinthians,Goiás,18,0,14,0,7,0,2,0,0,6,0,4,2,0,3,0,8,0,0,3,CASA
+Fortaleza,Ceará,2,0,0,0,18,0,0,0,0,4,0,1,6,0,0,6,4,0,0,0,FORA
+Flamengo,Bahia,0,8,8,0,0,0,4,0,2,0,0,3,1,0,0,5,1,0,0,5,CASA
+Vasco da Gama,Santos,0,34,0,24,0,18,0,11,9,0,0,4,0,8,0,6,0,1,11,0,CASA
+Bragantino,Athletico PR,18,0,27,0,34,0,11,0,0,11,9,0,12,0,17,0,13,0,0,12,FORA
+Coritiba,Botafogo,0,16,0,12,0,4,5,0,0,4,0,3,0,3,0,0,0,7,0,4,FORA
+Internacional,Palmeiras,0,14,0,13,0,24,9,0,7,0,0,0,0,7,0,10,0,4,0,8,CASA
+Sport Recife,Grêmio,0,20,0,8,0,8,0,11,0,0,0,2,0,2,0,11,0,4,10,0,EMPATE
+Atlético GO,Fluminense,0,4,1,0,6,0,0,5,0,4,2,0,4,0,18,0,5,0,3,0,CASA
+São Paulo,Atlético Mineiro,0,2,7,0,8,0,2,0,0,6,0,2,5,0,0,4,2,0,0,1,CASA
+Vasco da Gama,Fluminense,0,4,5,0,12,0,0,6,0,7,0,0,5,0,8,0,2,0,5,0,EMPATE
+Corinthians,São Paulo,0,20,0,13,0,7,0,2,0,4,0,3,2,0,0,8,0,0,1,0,CASA
+Sport Recife,Coritiba,10,0,9,0,7,0,0,7,0,1,3,0,2,0,0,3,1,0,6,0,CASA
+Flamengo,Santos,12,0,25,0,24,0,0,4,0,6,0,3,0,0,0,0,2,0,2,0,CASA
+Goiás,Grêmio,0,32,0,12,0,17,0,0,2,0,0,4,1,0,0,10,0,5,2,0,EMPATE
+Ceará,Atlético GO,0,24,0,10,0,8,3,0,0,4,0,3,2,0,0,16,0,6,0,4,FORA
+Internacional,Botafogo,0,0,3,0,0,1,0,5,2,0,0,1,0,2,7,0,0,2,5,0,CASA
+Palmeiras,Bahia,16,0,17,0,0,2,5,0,2,0,0,4,2,0,0,10,0,0,0,9,CASA
+Athletico PR,Atlético Mineiro,0,6,0,11,0,7,0,5,0,0,2,0,3,0,3,0,2,0,6,0,FORA
+Bragantino,Fortaleza,0,4,11,0,10,0,3,0,0,0,3,0,2,0,0,9,0,3,0,1,CASA
+São Paulo,Botafogo,30,0,0,14,23,0,0,7,0,12,10,0,2,0,6,0,12,0,6,0,CASA
+Atlético GO,Goiás,26,0,10,0,13,0,2,0,1,0,3,0,0,3,11,0,14,0,0,5,FORA
+Atlético Mineiro,Internacional,10,0,7,0,1,0,0,1,0,0,0,0,0,0,0,8,0,1,0,0,EMPATE
+Grêmio,Vasco da Gama,10,0,16,0,10,0,0,2,0,2,4,0,7,0,1,0,2,0,0,0,CASA
+São Paulo,Sport Recife,28,0,18,0,21,0,3,0,0,4,6,0,1,0,4,0,10,0,0,0,CASA
+Coritiba,Bragantino,0,14,0,20,0,24,7,0,9,0,0,4,0,9,11,0,0,9,0,11,EMPATE
+Fluminense,Athletico PR,34,0,17,0,18,0,0,1,0,3,9,0,4,0,0,0,13,0,0,2,CASA
+Bahia,Ceará,8,0,13,0,0,6,5,0,2,0,0,1,0,0,9,0,2,0,0,7,FORA
+Botafogo,Flamengo,0,20,0,4,0,13,8,0,3,0,1,0,0,0,6,0,0,2,0,8,FORA
+Santos,Palmeiras,12,0,8,0,14,0,0,0,0,10,1,0,4,0,8,0,1,0,0,2,EMPATE
+Goiás,São Paulo,0,28,0,22,0,13,0,2,3,0,1,0,0,3,1,0,0,7,3,0,FORA
+Fortaleza,Corinthians,0,16,0,0,8,0,0,1,0,5,3,0,4,0,0,3,0,1,0,1,EMPATE
+Fluminense,Bragantino,0,2,0,36,0,20,2,0,0,1,0,5,1,0,0,9,0,0,0,6,EMPATE
+Grêmio,Goiás,30,0,31,0,25,0,3,0,0,5,6,0,9,0,0,1,6,0,0,4,CASA
+Vasco da Gama,Ceará,32,0,30,0,12,0,5,0,0,2,3,0,2,0,6,0,5,0,0,3,FORA
+Atlético GO,Internacional,0,6,0,3,1,0,0,3,3,0,0,4,1,0,7,0,0,1,2,0,EMPATE
+Bahia,São Paulo,0,24,0,17,0,2,1,0,0,1,0,0,0,1,3,0,0,4,0,1,FORA
+Santos,Sport Recife,16,0,10,0,0,0,4,0,0,4,1,0,3,0,4,0,1,0,0,7,CASA
+Palmeiras,Athletico PR,16,0,35,0,26,0,0,4,0,6,3,0,7,0,0,0,9,0,2,0,CASA
+Fortaleza,Goiás,18,0,9,0,19,0,0,0,0,5,6,0,5,0,0,1,2,0,0,2,EMPATE
+Atlético Mineiro,Botafogo,18,0,19,0,12,0,0,4,2,0,1,0,1,0,0,4,8,0,6,0,CASA
+Coritiba,Corinthians,0,0,1,0,9,0,13,0,0,3,2,0,2,0,0,4,1,0,0,13,FORA
+Ceará,São Paulo,0,22,11,0,1,0,0,7,4,0,3,0,0,8,7,0,0,0,6,0,EMPATE
+Sport Recife,Atlético GO,8,0,10,0,7,0,0,0,0,5,0,2,0,1,1,0,5,0,2,0,FORA
+Corinthians,Grêmio,0,32,0,27,0,16,0,0,7,0,0,4,0,3,0,9,0,8,0,2,EMPATE
+Internacional,Fluminense,8,0,10,0,9,0,0,2,1,0,2,0,0,1,5,0,0,0,0,1,FORA
+Botafogo,Fortaleza,24,0,15,0,24,0,0,4,0,7,0,1,3,0,16,0,1,0,2,0,FORA
+São Paulo,Vasco da Gama,30,0,16,0,24,0,13,0,0,12,2,0,9,0,15,0,3,0,0,12,EMPATE
+Ceará,Atlético Mineiro,0,8,0,6,0,4,2,0,0,0,1,0,0,3,0,5,0,5,0,3,EMPATE
+Goiás,Palmeiras,10,0,0,6,10,0,0,5,0,6,0,2,0,0,7,0,0,3,3,0,CASA
+Athletico PR,Santos,22,0,31,0,20,0,0,10,0,2,1,0,7,0,0,3,7,0,8,0,CASA
+Flamengo,Coritiba,14,0,13,0,18,0,4,0,0,8,5,0,6,0,3,0,0,0,0,4,CASA
+Bragantino,Bahia,0,2,12,0,1,0,0,3,1,0,1,0,2,0,0,11,0,4,3,0,CASA
+Vasco da Gama,Fortaleza,0,4,4,0,3,0,8,0,0,3,1,0,0,5,4,0,0,7,0,8,EMPATE
+Atlético Mineiro,Athletico PR,28,0,25,0,9,0,16,0,0,7,5,0,3,0,8,0,8,0,0,16,FORA
+Botafogo,Bragantino,10,0,13,0,7,0,1,0,0,0,3,0,0,0,9,0,4,0,0,3,FORA
+Coritiba,Bahia,4,0,0,10,0,4,0,0,2,0,0,0,0,2,0,6,2,0,0,1,FORA
+Palmeiras,Fluminense,0,6,4,0,0,0,0,7,3,0,0,1,0,6,0,0,0,2,7,0,CASA
+Flamengo,Atlético GO,24,0,7,0,7,0,0,0,0,4,4,0,2,0,1,0,7,0,0,0,EMPATE
+Fortaleza,São Paulo,0,2,0,6,0,16,4,0,4,0,0,1,0,0,0,8,0,1,0,3,FORA
+Corinthians,Atlético Mineiro,0,30,0,40,0,21,0,17,8,0,0,2,0,1,8,0,0,0,17,0,FORA
+Grêmio,Ceará,14,0,28,0,0,0,4,0,0,0,1,0,0,1,0,0,0,0,0,5,CASA
+Goiás,Athletico PR,0,0,16,0,0,1,0,5,0,0,0,5,4,0,6,0,0,2,2,0,FORA
+Sport Recife,Vasco da Gama,10,0,0,3,7,0,5,0,4,0,3,0,0,2,2,0,2,0,0,5,FORA
+Santos,Internacional,0,10,0,15,2,0,0,3,3,0,0,3,0,2,0,16,0,5,4,0,CASA
+Bahia,Fortaleza,0,26,0,31,0,16,0,5,0,2,4,0,1,0,0,1,0,3,4,0,CASA
+Fluminense,Grêmio,18,0,1,0,1,0,2,0,4,0,1,0,0,3,0,5,0,1,0,2,FORA
+Ceará,Sport Recife,12,0,20,0,25,0,0,8,0,11,4,0,11,0,0,2,8,0,4,0,EMPATE
+Atlético Mineiro,Flamengo,0,36,0,26,0,11,0,6,2,0,0,5,0,0,0,8,0,4,6,0,CASA
+Bahia,Botafogo,18,0,1,0,14,0,0,4,0,3,3,0,1,0,5,0,0,0,3,0,CASA
+Bragantino,Santos,6,0,17,0,8,0,8,0,0,5,2,0,1,0,0,8,0,0,0,7,EMPATE
+Vasco da Gama,Palmeiras,0,20,0,11,0,24,4,0,0,1,1,0,3,0,0,4,0,4,0,5,FORA
+Internacional,Coritiba,24,0,38,0,12,0,6,0,3,0,1,0,0,2,8,0,6,0,0,4,EMPATE
+Atlético GO,Corinthians,0,4,0,1,7,0,5,0,0,6,1,0,6,0,0,3,4,0,0,8,EMPATE
+São Paulo,Goiás,30,0,10,0,19,0,10,0,0,7,9,0,2,0,2,0,8,0,0,10,CASA
+Athletico PR,Fortaleza,22,0,3,0,12,0,0,6,0,2,2,0,2,0,16,0,7,0,8,0,CASA
+Grêmio,Bragantino,4,0,14,0,1,0,0,3,0,0,0,4,0,0,0,2,0,1,0,3,CASA
+Palmeiras,Atlético Mineiro,0,26,0,11,0,10,0,0,0,1,3,0,0,0,0,11,0,6,0,1,CASA
+Goiás,Vasco da Gama,0,10,0,19,0,3,9,0,0,0,9,0,0,1,0,11,0,4,0,5,EMPATE
+Santos,Bahia,0,2,8,0,0,2,0,3,5,0,0,1,0,6,0,8,0,2,4,0,CASA
+Flamengo,São Paulo,18,0,16,0,13,0,0,3,0,1,2,0,0,1,10,0,2,0,1,0,FORA
+Sport Recife,Athletico PR,0,18,1,0,0,9,0,2,5,0,0,0,0,0,0,5,0,3,3,0,CASA
+Fortaleza,Fluminense,0,18,0,37,0,14,5,0,1,0,0,2,0,2,0,5,0,4,0,4,FORA
+Corinthians,Internacional,0,28,0,27,0,11,0,4,6,0,2,0,0,3,0,1,0,2,3,0,CASA
+Coritiba,Atlético GO,0,28,0,23,0,18,0,7,8,0,0,5,0,4,0,0,0,12,6,0,CASA
+Botafogo,Ceará,18,0,5,0,8,0,0,1,0,0,3,0,0,1,0,1,2,0,0,1,EMPATE
+Vasco da Gama,Corinthians,22,0,12,0,5,0,7,0,0,3,3,0,3,0,2,0,3,0,0,5,FORA
+Botafogo,Goiás,22,0,31,0,38,0,0,10,0,3,5,0,2,0,11,0,6,0,7,0,EMPATE
+Bahia,Atlético Mineiro,0,40,0,29,0,28,0,0,9,0,0,2,0,10,0,16,0,6,1,0,CASA
+Bragantino,Sport Recife,8,0,17,0,24,0,0,0,0,14,0,2,9,0,5,0,2,0,0,1,CASA
+Fortaleza,Palmeiras,2,0,0,6,0,15,7,0,3,0,0,1,0,0,0,4,0,6,0,6,CASA
+Internacional,Vasco da Gama,12,0,9,0,6,0,0,8,0,1,2,0,0,0,0,0,2,0,7,0,CASA
+Corinthians,Flamengo,0,14,0,18,0,4,0,0,0,2,4,0,5,0,0,1,7,0,1,0,FORA
+São Paulo,Grêmio,6,0,0,0,0,0,0,8,3,0,0,1,0,1,0,3,0,5,8,0,EMPATE
+Fluminense,Ceará,10,0,2,0,0,5,0,0,5,0,0,2,0,7,0,6,1,0,0,0,EMPATE
+Coritiba,Santos,4,0,14,0,5,0,7,0,0,13,5,0,8,0,5,0,8,0,0,10,FORA
+Atlético GO,Athletico PR,0,16,0,2,0,21,10,0,0,3,0,5,3,0,10,0,0,9,0,11,EMPATE
+Goiás,Bahia,0,6,8,0,0,21,4,0,4,0,2,0,0,3,0,5,3,0,0,1,EMPATE
+Flamengo,Bragantino,26,0,16,0,18,0,0,2,2,0,3,0,0,1,26,0,4,0,4,0,EMPATE
+Atlético Mineiro,Fluminense,24,0,24,0,18,0,5,0,1,0,5,0,0,1,9,0,5,0,0,2,EMPATE
+Sport Recife,Internacional,0,8,0,28,0,10,14,0,4,0,0,2,0,1,3,0,0,5,0,13,FORA
+Athletico PR,Corinthians,24,0,30,0,18,0,0,5,2,0,4,0,0,1,0,6,6,0,4,0,FORA
+Santos,Atlético GO,6,0,8,0,6,0,4,0,0,2,4,0,3,0,0,12,5,0,0,3,FORA
+Grêmio,Botafogo,2,0,11,0,0,8,1,0,3,0,0,0,0,3,4,0,0,3,0,2,CASA
+Palmeiras,Coritiba,8,0,26,0,13,0,9,0,0,10,0,0,5,0,0,1,4,0,0,9,FORA
+Flamengo,Goiás,26,0,28,0,34,0,5,0,0,11,7,0,9,0,6,0,4,0,0,1,CASA
+Internacional,Athletico PR,0,6,0,3,0,11,0,6,1,0,1,0,0,3,1,0,5,0,5,0,CASA
+Ceará,Corinthians,0,6,5,0,4,0,0,1,0,6,1,0,6,0,0,8,0,0,0,0,CASA
+Sport Recife,Botafogo,4,0,24,0,14,0,3,0,0,12,0,0,2,0,3,0,0,3,0,2,FORA
+Atlético GO,Bragantino,8,0,5,0,5,0,7,0,0,7,1,0,3,0,0,5,0,3,0,5,CASA
+Fluminense,Bahia,0,0,2,0,2,0,0,9,9,0,1,0,0,7,1,0,0,1,9,0,CASA
+Santos,Grêmio,6,0,10,0,0,2,0,7,0,0,0,0,0,3,6,0,0,3,6,0,CASA
+Atlético Mineiro,Goiás,34,0,24,0,35,0,0,7,0,13,5,0,8,0,4,0,7,0,2,0,CASA
+Palmeiras,São Paulo,0,6,2,0,5,0,0,0,0,1,1,0,0,2,0,1,4,0,0,2,FORA
+Coritiba,Fortaleza,0,12,0,14,7,0,0,7,0,8,0,1,1,0,0,2,0,2,5,0,EMPATE
+Vasco da Gama,Flamengo,0,14,0,17,0,18,9,0,0,0,2,0,2,0,0,6,0,0,0,9,FORA
+Bragantino,Internacional,2,0,0,6,4,0,3,0,0,3,0,3,1,0,3,0,5,0,0,6,FORA
+Athletico PR,Ceará,16,0,10,0,8,0,1,0,0,3,0,2,4,0,4,0,0,0,0,2,EMPATE
+Botafogo,Palmeiras,0,22,0,14,0,11,2,0,6,0,0,0,0,7,0,8,0,3,0,1,CASA
+Fortaleza,Atlético Mineiro,0,28,0,20,0,22,13,0,13,0,0,0,0,6,0,7,0,7,0,11,CASA
+São Paulo,Atlético GO,0,2,0,28,0,3,0,5,0,2,0,1,3,0,0,6,2,0,4,0,CASA
+Goiás,Fluminense,0,4,0,11,0,8,0,1,0,4,1,0,3,0,0,4,1,0,4,0,FORA
+Flamengo,Sport Recife,20,0,20,0,24,0,1,0,0,1,3,0,0,4,1,0,2,0,0,3,CASA
+Grêmio,Coritiba,0,8,6,0,0,8,6,0,3,0,2,0,0,2,0,8,0,0,0,3,CASA
+Bahia,Vasco da Gama,0,10,0,6,0,3,0,2,0,0,1,0,0,3,1,0,0,2,2,0,CASA
+Corinthians,Santos,16,0,21,0,21,0,0,1,0,2,2,0,5,0,11,0,3,0,1,0,EMPATE
+Atlético Mineiro,Vasco da Gama,16,0,12,0,28,0,0,18,0,9,2,0,6,0,1,0,3,0,14,0,CASA
+Bahia,Sport Recife,24,0,14,0,22,0,0,3,0,3,12,0,4,0,14,0,11,0,3,0,FORA
+Fortaleza,Atlético GO,12,0,10,0,2,0,4,0,0,0,4,0,2,0,1,0,7,0,0,5,EMPATE
+Goiás,Santos,4,0,12,0,9,0,0,5,0,7,0,0,3,0,3,0,0,2,1,0,FORA
+Flamengo,Athletico PR,0,6,0,3,9,0,2,0,0,3,1,0,0,0,0,4,0,1,0,2,CASA
+Coritiba,São Paulo,0,38,0,29,0,35,2,0,6,0,0,5,0,7,0,17,0,9,0,1,EMPATE
+Botafogo,Fluminense,8,0,15,0,14,0,4,0,0,4,1,0,4,0,4,0,3,0,0,1,EMPATE
+Bragantino,Corinthians,0,6,9,0,0,1,0,5,0,1,0,0,2,0,2,0,0,5,4,0,EMPATE
+Palmeiras,Ceará,20,0,0,2,8,0,8,0,0,2,5,0,8,0,2,0,5,0,0,9,CASA
+Grêmio,Internacional,0,2,0,13,0,4,2,0,0,1,3,0,4,0,6,0,0,0,0,2,EMPATE
+Botafogo,Bahia,20,0,21,0,18,0,0,4,0,1,0,0,4,0,0,1,3,0,3,0,FORA
+Corinthians,Atlético GO,0,8,0,8,0,19,0,8,1,0,0,2,0,0,4,0,0,3,9,0,EMPATE
+Fluminense,Coritiba,0,8,0,17,0,2,5,0,2,0,0,1,1,0,1,0,1,0,0,2,CASA
+Santos,Fortaleza,4,0,0,7,5,0,9,0,0,1,2,0,2,0,0,8,4,0,0,9,EMPATE
+Ceará,Goiás,16,0,20,0,14,0,0,5,0,8,1,0,2,0,14,0,4,0,0,1,EMPATE
+Atlético GO,Botafogo,0,2,0,7,5,0,0,4,0,6,0,2,1,0,0,2,1,0,2,0,EMPATE
+Palmeiras,Flamengo,8,0,0,7,20,0,1,0,0,9,3,0,4,0,10,0,1,0,0,2,EMPATE
+Vasco da Gama,Bragantino,10,0,23,0,11,0,5,0,7,0,0,1,0,2,5,0,0,3,0,9,EMPATE
+Atlético Mineiro,Grêmio,12,0,1,0,18,0,0,8,0,4,5,0,2,0,0,3,5,0,9,0,CASA
+Internacional,São Paulo,0,16,21,0,0,4,0,3,11,0,0,4,0,9,0,8,0,3,1,0,EMPATE
+Athletico PR,Bahia,0,2,14,0,0,1,0,4,0,6,1,0,2,0,0,8,0,5,6,0,CASA
+Sport Recife,Corinthians,0,10,2,0,0,15,5,0,4,0,1,0,0,6,0,5,0,5,0,2,CASA
+Sport Recife,Fluminense,0,36,0,82,0,33,0,2,6,0,0,4,0,5,0,15,0,3,0,0,CASA
+Botafogo,Santos,0,6,0,2,0,10,0,0,1,0,0,8,0,7,0,0,0,2,0,0,EMPATE
+Grêmio,Palmeiras,24,0,16,0,13,0,2,0,1,0,0,0,0,2,14,0,3,0,0,0,EMPATE
+Coritiba,Vasco da Gama,8,0,9,0,0,2,0,2,0,0,0,2,3,0,6,0,0,0,0,1,CASA
+Atlético GO,Atlético Mineiro,0,12,0,15,0,1,1,0,0,2,3,0,0,1,0,7,2,0,2,0,FORA
+Bragantino,Ceará,0,20,0,13,3,0,0,15,3,0,1,0,0,0,0,13,0,4,14,0,CASA
+Fortaleza,Internacional,0,24,0,32,0,15,13,0,5,0,0,0,0,5,0,4,0,4,0,11,CASA
+Corinthians,Bahia,0,32,0,12,0,28,1,0,11,0,0,4,0,6,0,11,0,7,3,0,CASA
+Botafogo,Vasco da Gama,6,0,0,3,7,0,0,8,3,0,2,0,1,0,0,8,1,0,9,0,FORA
+Palmeiras,Sport Recife,20,0,17,0,29,0,0,3,0,7,3,0,4,0,6,0,4,0,1,0,EMPATE
+Atlético Mineiro,Bragantino,24,0,23,0,18,0,0,2,0,2,0,0,0,2,0,2,5,0,0,4,CASA
+Bahia,Atlético GO,0,6,2,0,0,4,2,0,3,0,0,2,0,1,1,0,0,0,0,7,FORA
+Ceará,Flamengo,0,18,0,9,0,18,0,1,7,0,0,1,0,4,0,0,0,2,1,0,CASA
+Goiás,Internacional,0,58,0,29,0,45,8,0,8,0,0,4,0,2,0,11,0,12,0,4,CASA
+Fluminense,Corinthians,2,0,15,0,7,0,2,0,0,0,0,2,3,0,0,7,0,3,0,1,CASA
+Grêmio,Fortaleza,18,0,0,8,15,0,0,1,0,7,2,0,5,0,7,0,4,0,0,2,EMPATE
+Santos,São Paulo,8,0,9,0,0,5,1,0,0,3,0,0,2,0,2,0,3,0,1,0,EMPATE
+Athletico PR,Coritiba,0,4,0,7,5,0,0,9,3,0,1,0,0,0,4,0,3,0,9,0,CASA
+Vasco da Gama,Atlético GO,8,0,0,2,0,3,9,0,2,0,1,0,0,3,0,2,0,3,0,10,FORA
+Corinthians,Palmeiras,0,2,0,2,0,10,6,0,10,0,0,3,0,1,0,0,0,1,0,3,FORA
+Internacional,Ceará,22,0,19,0,1,0,1,0,0,0,8,0,2,0,3,0,7,0,1,0,CASA
+Bahia,Grêmio,8,0,0,16,3,0,0,2,2,0,0,0,1,0,1,0,4,0,3,0,FORA
+Fluminense,Flamengo,6,0,18,0,9,0,3,0,1,0,0,2,2,0,2,0,1,0,0,3,FORA
+Santos,Atlético Mineiro,0,4,0,17,0,9,0,1,2,0,0,4,0,0,0,18,0,1,0,4,CASA
+São Paulo,Bragantino,12,0,16,0,24,0,0,1,0,2,4,0,3,0,0,0,4,0,0,3,EMPATE
+Fortaleza,Sport Recife,18,0,0,10,14,0,0,12,0,8,1,0,6,0,5,0,6,0,14,0,CASA
+Goiás,Coritiba,4,0,0,3,6,0,0,12,0,2,4,0,6,0,11,0,7,0,15,0,EMPATE
+Athletico PR,Botafogo,20,0,23,0,21,0,0,8,0,2,0,2,5,0,0,15,4,0,6,0,EMPATE
+Sport Recife,Goiás,4,0,8,0,14,0,0,1,2,0,1,0,1,0,0,1,5,0,1,0,CASA
+Coritiba,Atlético Mineiro,0,14,0,12,0,16,7,0,7,0,2,0,0,4,3,0,0,0,0,5,FORA
+Atlético GO,Grêmio,6,0,0,11,0,2,0,2,0,3,0,0,2,0,0,10,0,0,3,0,EMPATE
+Vasco da Gama,Athletico PR,0,26,0,6,0,16,8,0,0,4,0,2,1,0,3,0,0,0,0,9,CASA
+São Paulo,Fluminense,6,0,11,0,11,0,0,4,0,7,0,3,2,0,8,0,1,0,5,0,CASA
+Internacional,Bahia,28,0,45,0,20,0,1,0,0,0,1,0,0,0,0,4,3,0,1,0,EMPATE
+Bragantino,Palmeiras,0,14,0,2,3,0,0,10,0,3,1,0,4,0,0,2,2,0,13,0,FORA
+Ceará,Santos,16,0,25,0,17,0,0,1,0,3,4,0,1,0,6,0,2,0,4,0,FORA
+Corinthians,Botafogo,16,0,16,0,2,0,0,8,8,0,2,0,0,3,1,0,6,0,9,0,EMPATE
+Flamengo,Fortaleza,30,0,33,0,46,0,9,0,0,11,6,0,8,0,4,0,9,0,0,7,CASA
+Atlético Mineiro,São Paulo,0,8,14,0,10,0,0,9,0,3,0,2,0,3,0,28,2,0,6,0,CASA
+Grêmio,Sport Recife,36,0,33,0,40,0,2,0,0,13,11,0,12,0,10,0,10,0,0,2,FORA
+Palmeiras,Internacional,0,8,0,4,0,5,1,0,1,0,0,1,0,0,0,3,1,0,0,1,EMPATE
+Santos,Vasco da Gama,18,0,9,0,9,0,4,0,0,1,2,0,4,0,0,2,7,0,0,5,EMPATE
+Botafogo,Coritiba,12,0,27,0,21,0,0,2,0,2,3,0,3,0,8,0,0,0,1,0,EMPATE
+Bahia,Flamengo,0,14,0,3,0,17,11,0,6,0,0,2,0,4,0,8,0,1,0,11,FORA
+Athletico PR,Bragantino,2,0,5,0,0,12,0,4,6,0,2,0,0,3,0,13,0,6,4,0,EMPATE
+Fluminense,Atlético GO,0,18,0,11,0,29,3,0,9,0,0,0,0,4,0,9,0,7,0,3,EMPATE
+Goiás,Corinthians,0,12,0,12,0,6,0,5,3,0,0,0,0,1,1,0,0,3,2,0,FORA
+Ceará,Fortaleza,0,30,0,29,0,9,0,5,3,0,3,0,1,0,0,21,0,4,4,0,CASA
+Atlético GO,Ceará,2,0,0,9,3,0,0,2,0,6,1,0,3,0,8,0,0,0,4,0,FORA
+Santos,Flamengo,20,0,33,0,10,0,9,0,0,7,1,0,9,0,0,1,7,0,0,12,FORA
+Coritiba,Sport Recife,22,0,17,0,0,11,5,0,7,0,1,0,2,0,0,7,3,0,0,2,CASA
+São Paulo,Corinthians,16,0,39,0,18,0,5,0,0,4,0,0,5,0,4,0,3,0,0,6,CASA
+Fortaleza,Bragantino,12,0,4,0,0,2,0,10,0,0,0,0,3,0,14,0,0,1,11,0,CASA
+Fluminense,Vasco da Gama,0,12,0,21,0,16,0,3,0,2,0,3,2,0,4,0,0,2,0,1,CASA
+Bahia,Palmeiras,0,2,0,22,0,9,4,0,4,0,0,3,1,0,0,3,6,0,0,0,EMPATE
+Botafogo,Internacional,2,0,0,14,0,2,8,0,1,0,1,0,0,0,5,0,1,0,0,10,FORA
+São Paulo,Athletico PR,10,0,0,3,9,0,0,0,0,5,3,0,5,0,7,0,3,0,0,1,CASA
+Ceará,Bahia,0,10,0,6,6,0,0,14,0,0,0,4,0,2,0,2,0,5,15,0,CASA
+Vasco da Gama,Grêmio,0,8,0,0,0,4,0,6,0,1,0,0,0,1,0,2,2,0,6,0,EMPATE
+Palmeiras,Santos,2,0,6,0,12,0,0,10,0,2,2,0,3,0,0,2,0,1,5,0,CASA
+Bragantino,Coritiba,2,0,32,0,11,0,2,0,0,8,0,1,4,0,3,0,7,0,0,5,FORA
+Flamengo,Botafogo,30,0,29,0,19,0,3,0,1,0,4,0,0,0,2,0,1,0,0,2,EMPATE
+Goiás,Atlético GO,0,34,0,39,0,20,0,12,7,0,0,5,0,6,0,9,0,8,8,0,CASA
+Internacional,Atlético Mineiro,0,20,0,39,0,28,1,0,7,0,0,1,0,3,0,6,0,3,0,2,CASA
+Athletico PR,Fluminense,34,0,41,0,22,0,0,8,0,5,2,0,1,0,2,0,5,0,9,0,FORA
+São Paulo,Bahia,30,0,40,0,32,0,1,0,0,9,1,0,9,0,11,0,0,1,0,4,EMPATE
+Ceará,Vasco da Gama,16,0,31,0,33,0,0,3,0,9,4,0,10,0,1,0,11,0,4,0,FORA
+Sport Recife,Santos,0,24,0,13,0,1,0,5,6,0,3,0,0,9,1,0,0,1,3,0,FORA
+Botafogo,Atlético Mineiro,0,34,0,15,0,32,2,0,14,0,0,7,0,10,0,14,0,9,0,3,CASA
+Corinthians,Coritiba,22,0,34,0,24,0,0,6,0,8,8,0,3,0,0,12,10,0,10,0,CASA
+Internacional,Atlético GO,26,0,46,0,19,0,0,1,0,1,0,0,0,2,3,0,1,0,3,0,CASA
+Goiás,Fortaleza,0,6,11,0,7,0,0,2,0,2,4,0,1,0,0,0,0,4,0,0,FORA
+Athletico PR,Palmeiras,8,0,6,0,5,0,0,0,0,2,0,1,0,2,5,0,0,3,0,0,FORA
+Flamengo,Grêmio,16,0,0,0,12,0,4,0,0,1,1,0,0,2,6,0,0,1,0,3,EMPATE
+Bragantino,Fluminense,6,0,0,6,6,0,0,7,2,0,0,0,0,0,0,7,2,0,6,0,CASA
+Santos,Athletico PR,0,38,0,21,0,22,13,0,4,0,0,0,0,0,0,6,0,4,0,13,CASA
+Fortaleza,Botafogo,12,0,16,0,7,0,0,4,0,0,0,3,2,0,3,0,0,3,3,0,EMPATE
+Atlético GO,Sport Recife,0,32,0,5,0,19,0,0,9,0,0,0,0,2,0,17,0,5,2,0,EMPATE
+Fluminense,Internacional,0,8,0,13,0,8,7,0,0,0,0,1,0,3,0,1,0,3,0,9,CASA
+Vasco da Gama,São Paulo,0,14,0,13,0,9,0,1,0,0,0,4,1,0,0,8,0,1,1,0,CASA
+Bahia,Bragantino,0,28,0,28,0,23,0,1,4,0,2,0,0,5,0,7,0,4,0,0,CASA
+Atlético Mineiro,Ceará,18,0,0,2,7,0,0,2,0,1,4,0,0,2,7,0,4,0,2,0,CASA
+Palmeiras,Goiás,22,0,14,0,9,0,6,0,0,9,0,3,4,0,3,0,4,0,0,4,EMPATE
+Coritiba,Flamengo,0,28,0,36,0,12,0,10,0,1,0,3,0,2,15,0,0,0,7,0,FORA
+Grêmio,Corinthians,14,0,0,9,22,0,0,4,0,4,7,0,6,0,10,0,2,0,3,0,EMPATE
+Vasco da Gama,Sport Recife,0,12,1,0,0,7,0,12,3,0,3,0,0,6,0,10,0,3,17,0,CASA
+Internacional,Santos,20,0,39,0,30,0,0,13,0,7,6,0,6,0,0,2,5,0,12,0,CASA
+São Paulo,Fortaleza,0,0,0,2,2,0,3,0,0,3,0,2,2,0,0,1,0,2,0,2,CASA
+Fluminense,Palmeiras,12,0,1,0,0,3,8,0,3,0,0,0,2,0,2,0,0,0,0,13,EMPATE
+Ceará,Grêmio,0,12,0,12,0,3,0,11,0,1,0,1,0,0,0,0,0,6,10,0,EMPATE
+Bahia,Coritiba,0,18,0,8,0,6,5,0,0,0,0,0,0,1,4,0,0,5,0,2,CASA
+Atlético GO,Flamengo,0,18,0,34,0,13,4,0,1,0,1,0,0,0,0,7,6,0,0,5,CASA
+Bragantino,Botafogo,8,0,18,0,30,0,0,4,0,5,4,0,7,0,3,0,9,0,4,0,EMPATE
+Atlético Mineiro,Corinthians,16,0,20,0,38,0,0,9,0,8,8,0,3,0,8,0,4,0,6,0,CASA
+Athletico PR,Goiás,40,0,43,0,25,0,3,0,0,4,0,0,3,0,2,0,0,0,0,2,CASA
+Grêmio,Fluminense,4,0,7,0,1,0,0,9,0,1,1,0,2,0,12,0,3,0,9,0,CASA
+Flamengo,Atlético Mineiro,16,0,13,0,3,0,12,0,0,7,0,2,9,0,15,0,7,0,0,10,FORA
+Santos,Bragantino,0,4,0,2,0,18,6,0,4,0,0,4,0,4,0,1,2,0,0,8,EMPATE
+Sport Recife,Ceará,0,10,0,11,0,2,0,1,0,2,0,3,0,3,1,0,0,2,0,2,CASA
+Coritiba,Internacional,0,16,0,15,0,15,10,0,1,0,0,3,0,2,0,4,0,4,0,9,FORA
+Fortaleza,Athletico PR,0,16,0,5,9,0,0,4,0,2,0,0,0,1,0,4,0,0,4,0,FORA
+Internacional,Atlético Mineiro,28,0,1,0,18,0,5,0,0,8,5,0,4,0,5,0,15,0,0,6,CASA
+Cruzeiro,Palmeiras,20,0,4,0,0,9,1,0,0,2,0,0,1,0,0,0,1,0,1,0,FORA
+Fortaleza,Bahia,16,0,8,0,0,10,5,0,3,0,0,2,0,0,6,0,0,1,0,6,CASA
+Corinthians,Fluminense,16,0,24,0,28,0,0,5,0,10,2,0,0,0,7,0,0,2,7,0,FORA
+Santos,Flamengo,6,0,0,5,5,0,0,1,0,6,2,0,3,0,3,0,0,2,0,3,CASA
+Vasco da Gama,Chapecoense,2,0,12,0,15,0,0,6,0,8,5,0,7,0,0,1,5,0,7,0,EMPATE
+Botafogo,Ceará,0,2,5,0,0,6,9,0,0,7,2,0,1,0,0,12,0,3,0,5,EMPATE
+Avaí,Athletico PR,0,12,12,0,0,3,5,0,1,0,0,4,0,2,9,0,0,4,0,0,EMPATE
+Goiás,Grêmio,0,4,0,0,12,0,0,12,0,8,0,0,5,0,9,0,3,0,13,0,CASA
+CSA,São Paulo,0,0,0,0,10,0,7,0,0,5,4,0,5,0,0,0,2,0,0,7,FORA
+Flamengo,Avaí,22,0,2,0,20,0,0,3,0,8,7,0,3,0,7,0,5,0,3,0,CASA
+Grêmio,Cruzeiro,14,0,10,0,0,0,7,0,3,0,2,0,0,5,9,0,0,1,0,6,CASA
+Palmeiras,Goiás,0,12,0,5,0,2,0,5,4,0,0,0,0,4,0,3,0,1,5,0,CASA
+Bahia,Vasco da Gama,2,0,12,0,11,0,0,9,0,6,0,0,2,0,0,7,0,4,9,0,EMPATE
+São Paulo,Internacional,0,4,0,20,3,0,0,4,1,0,6,0,1,0,0,1,6,0,2,0,CASA
+Fluminense,Fortaleza,12,0,12,0,20,0,0,7,0,2,0,1,0,5,13,0,5,0,8,0,EMPATE
+Chapecoense,CSA,8,0,26,0,19,0,0,7,0,9,0,1,5,0,0,5,0,3,7,0,CASA
+Atlético Mineiro,Botafogo,0,8,1,0,8,0,0,1,0,7,3,0,6,0,0,2,3,0,0,0,CASA
+Ceará,Corinthians,0,20,0,11,0,2,0,0,0,0,1,0,0,2,0,3,5,0,0,2,FORA
+Athletico PR,Santos,2,0,7,0,13,0,0,6,4,0,0,0,0,4,8,0,3,0,6,0,CASA
+Vasco da Gama,Cruzeiro,0,10,0,5,0,9,4,0,5,0,0,2,0,3,0,2,0,15,0,4,CASA
+Grêmio,São Paulo,2,0,19,0,7,0,4,0,0,3,0,2,1,0,3,0,0,5,0,2,CASA
+Santos,Chapecoense,36,0,44,0,27,0,2,0,0,9,2,0,2,0,10,0,1,0,0,3,CASA
+Atlético Mineiro,Corinthians,0,6,0,1,0,2,0,5,1,0,4,0,0,4,0,12,1,0,6,0,CASA
+CSA,Bahia,0,8,3,0,0,1,0,2,0,3,0,6,1,0,6,0,0,3,0,2,FORA
+Palmeiras,Flamengo,0,6,0,17,0,0,0,0,0,3,0,0,4,0,6,0,0,3,0,3,FORA
+Avaí,Fluminense,0,8,3,0,0,5,0,7,2,0,0,0,0,1,2,0,0,1,6,0,EMPATE
+Goiás,Fortaleza,18,0,15,0,25,0,2,0,0,10,0,1,6,0,19,0,8,0,0,3,FORA
+Botafogo,Internacional,0,4,12,0,2,0,5,0,0,0,0,7,0,3,7,0,0,4,0,5,FORA
+Cruzeiro,CSA,44,0,27,0,34,0,7,0,0,12,7,0,5,0,28,0,8,0,0,7,FORA
+São Paulo,Vasco da Gama,10,0,14,0,18,0,0,14,0,7,2,0,5,0,9,0,0,0,12,0,CASA
+Fortaleza,Santos,0,26,0,23,0,21,3,0,5,0,0,0,0,0,0,2,0,3,0,0,CASA
+Fluminense,Palmeiras,0,2,0,14,0,11,5,0,4,0,0,2,0,0,0,4,0,5,0,3,CASA
+Corinthians,Avaí,30,0,29,0,27,0,0,1,0,9,7,0,8,0,4,0,4,0,0,0,CASA
+Flamengo,Ceará,34,0,33,0,40,0,0,0,0,11,3,0,10,0,10,0,10,0,2,0,CASA
+Athletico PR,Grêmio,8,0,7,0,17,0,0,11,0,5,2,0,6,0,0,0,4,0,14,0,CASA
+Bahia,Atlético Mineiro,14,0,2,0,15,0,9,0,0,3,1,0,2,0,0,4,6,0,0,7,EMPATE
+Internacional,Goiás,28,0,7,0,14,0,0,0,0,11,6,0,6,0,4,0,8,0,1,0,FORA
+Chapecoense,Botafogo,16,0,4,0,17,0,6,0,0,9,3,0,8,0,9,0,3,0,0,5,FORA
+CSA,Fluminense,0,8,0,0,0,8,0,0,0,2,0,3,1,0,0,4,2,0,0,0,FORA
+Internacional,Fortaleza,14,0,13,0,19,0,0,0,0,4,8,0,2,0,11,0,4,0,2,0,EMPATE
+Ceará,São Paulo,8,0,20,0,18,0,3,0,0,8,5,0,3,0,0,3,7,0,0,3,EMPATE
+Avaí,Chapecoense,20,0,17,0,4,0,5,0,0,2,0,0,0,0,0,8,0,0,0,6,FORA
+Botafogo,Corinthians,0,36,0,0,0,17,7,0,9,0,0,4,0,11,0,7,0,6,0,6,CASA
+Atlético Mineiro,Athletico PR,0,12,0,0,16,0,3,0,0,4,2,0,6,0,6,0,2,0,0,5,FORA
+Palmeiras,Grêmio,0,12,0,30,10,0,3,0,0,12,4,0,5,0,6,0,0,0,0,2,FORA
+Goiás,Bahia,0,6,0,0,0,2,7,0,0,0,1,0,0,0,0,4,0,1,0,9,CASA
+Santos,Cruzeiro,14,0,6,0,15,0,0,0,0,6,1,0,6,0,0,1,6,0,0,4,CASA
+Cruzeiro,Avaí,46,0,39,0,32,0,5,0,0,5,0,0,3,0,6,0,15,0,0,3,EMPATE
+Vasco da Gama,Goiás,0,6,6,0,11,0,0,5,1,0,0,2,0,0,10,0,0,11,3,0,EMPATE
+Fortaleza,CSA,28,0,12,0,7,0,11,0,0,3,1,0,0,1,5,0,1,0,0,10,CASA
+Corinthians,Internacional,0,8,0,9,0,5,7,0,0,1,0,0,0,2,0,5,2,0,0,9,EMPATE
+Chapecoense,Ceará,0,14,0,24,0,14,6,0,3,0,0,0,0,0,0,13,1,0,0,3,CASA
+Athletico PR,Botafogo,16,0,7,0,10,0,0,14,0,8,4,0,7,0,5,0,3,0,10,0,CASA
+Grêmio,Flamengo,32,0,34,0,32,0,4,0,0,6,3,0,8,0,10,0,10,0,0,7,FORA
+Bahia,Palmeiras,0,12,0,13,0,18,0,2,12,0,0,3,0,7,0,3,0,2,2,0,EMPATE
+Fluminense,Atlético Mineiro,0,6,7,0,1,0,3,0,0,2,0,1,2,0,0,1,0,1,0,1,EMPATE
+Santos,São Paulo,0,8,0,4,0,5,14,0,0,10,0,2,6,0,1,0,0,1,0,12,EMPATE
+Flamengo,Vasco da Gama,18,0,40,0,19,0,4,0,0,2,0,0,3,0,0,5,1,0,0,3,EMPATE
+Botafogo,Avaí,0,8,0,7,1,0,0,6,1,0,0,1,0,0,0,0,0,0,6,0,CASA
+Fortaleza,Ceará,0,24,0,22,0,23,3,0,10,0,0,3,0,4,0,8,0,5,0,3,CASA
+Chapecoense,Grêmio,0,0,0,3,0,10,3,0,0,0,1,0,4,0,3,0,3,0,0,3,FORA
+CSA,Vasco da Gama,32,0,7,0,18,0,0,1,0,6,1,0,10,0,8,0,1,0,0,3,FORA
+Flamengo,Bahia,30,0,9,0,27,0,0,2,0,3,6,0,1,0,8,0,9,0,0,1,CASA
+Internacional,Fluminense,0,16,0,15,0,18,0,8,3,0,0,2,0,2,0,5,1,0,4,0,CASA
+Cruzeiro,Atlético Mineiro,16,0,9,0,2,0,3,0,0,1,1,0,0,2,0,4,0,4,0,4,EMPATE
+São Paulo,Athletico PR,14,0,0,4,0,1,4,0,0,3,7,0,4,0,7,0,3,0,0,8,FORA
+Palmeiras,Corinthians,22,0,5,0,20,0,0,0,0,15,1,0,9,0,14,0,7,0,0,3,EMPATE
+Goiás,Santos,0,12,0,15,0,10,0,2,0,6,0,7,3,0,0,2,1,0,2,0,FORA
+Grêmio,CSA,26,0,56,0,26,0,2,0,0,8,2,0,2,0,4,0,8,0,0,2,CASA
+Botafogo,Flamengo,0,38,0,0,0,17,0,1,12,0,0,0,0,9,0,6,0,9,1,0,FORA
+Ceará,Internacional,0,12,0,0,0,7,0,0,8,0,0,1,0,3,0,5,2,0,0,2,CASA
+São Paulo,Fluminense,16,0,20,0,27,0,11,0,0,10,3,0,6,0,1,0,0,0,0,9,FORA
+Vasco da Gama,Palmeiras,0,10,0,3,2,0,10,0,5,0,0,1,0,2,0,4,0,3,0,10,FORA
+Bahia,Chapecoense,28,0,30,0,42,0,0,6,0,5,8,0,2,0,5,0,2,0,4,0,EMPATE
+Athletico PR,Cruzeiro,16,0,0,1,19,0,1,0,0,0,6,0,0,0,3,0,1,0,1,0,EMPATE
+Avaí,Santos,8,0,6,0,4,0,0,7,2,0,3,0,0,0,0,4,2,0,11,0,FORA
+Atlético Mineiro,Goiás,6,0,13,0,8,0,0,2,0,9,5,0,6,0,0,2,2,0,1,0,CASA
+Corinthians,Fortaleza,12,0,17,0,21,0,0,9,0,2,1,0,0,1,8,0,0,3,8,0,CASA
+Goiás,Avaí,6,0,0,7,5,0,0,2,0,4,0,3,4,0,0,4,2,0,4,0,CASA
+Cruzeiro,Bahia,26,0,20,0,15,0,0,8,0,1,3,0,4,0,0,0,0,0,5,0,EMPATE
+Santos,Botafogo,18,0,18,0,19,0,0,8,0,1,3,0,1,0,7,0,1,0,7,0,CASA
+Grêmio,Internacional,24,0,29,0,16,0,0,1,0,2,8,0,2,0,6,0,2,0,0,0,CASA
+Athletico PR,CSA,28,0,1,0,37,0,1,0,0,19,0,0,10,0,5,0,5,0,0,0,CASA
+Flamengo,Corinthians,34,0,23,0,34,0,0,2,0,13,0,2,6,0,0,4,6,0,4,0,CASA
+Chapecoense,São Paulo,14,0,2,0,13,0,0,6,0,3,7,0,6,0,3,0,4,0,7,0,FORA
+Palmeiras,Ceará,10,0,10,0,9,0,5,0,0,0,0,1,0,1,7,0,2,0,0,5,CASA
+Fluminense,Vasco da Gama,28,0,27,0,19,0,4,0,0,4,2,0,4,0,0,0,6,0,0,4,EMPATE
+Fortaleza,Atlético Mineiro,8,0,3,0,0,0,2,0,0,0,1,0,1,0,0,3,0,0,0,0,EMPATE
+Internacional,Athletico PR,12,0,8,0,0,8,6,0,0,2,2,0,2,0,8,0,0,2,0,6,EMPATE
+Botafogo,Cruzeiro,22,0,0,2,23,0,1,0,0,12,4,0,11,0,0,0,8,0,0,3,FORA
+Goiás,Flamengo,0,14,0,5,4,0,0,4,1,0,1,0,5,0,0,5,0,6,1,0,EMPATE
+Santos,Bahia,30,0,2,0,21,0,5,0,0,13,2,0,6,0,6,0,4,0,0,7,CASA
+Ceará,Fluminense,0,28,0,25,0,25,0,2,11,0,0,3,0,4,0,0,0,6,3,0,CASA
+Vasco da Gama,Grêmio,0,6,0,10,5,0,5,0,0,5,1,0,5,0,0,3,6,0,0,5,FORA
+CSA,Corinthians,0,10,0,10,0,2,0,6,1,0,2,0,0,5,0,11,2,0,6,0,CASA
+Atlético Mineiro,Chapecoense,30,0,16,0,23,0,0,8,0,11,1,0,3,0,13,0,14,0,6,0,FORA
+Palmeiras,São Paulo,0,22,1,0,0,3,0,1,2,0,0,1,0,1,7,0,1,0,0,2,CASA
+Avaí,Fortaleza,0,0,7,0,16,0,0,8,0,5,0,0,5,0,13,0,0,1,9,0,FORA
+Flamengo,CSA,20,0,21,0,28,0,0,0,0,12,4,0,6,0,0,7,4,0,5,0,CASA
+Avaí,Palmeiras,0,12,0,21,0,18,2,0,7,0,4,0,0,3,1,0,0,0,3,0,FORA
+Grêmio,Botafogo,0,6,0,9,12,0,0,2,0,5,3,0,4,0,0,1,0,2,2,0,CASA
+São Paulo,Atlético Mineiro,16,0,0,10,8,0,4,0,0,4,5,0,0,1,0,1,0,0,0,2,CASA
+Athletico PR,Goiás,30,0,18,0,20,0,0,10,0,2,10,0,1,0,11,0,16,0,9,0,CASA
+Cruzeiro,Fortaleza,30,0,12,0,21,0,0,4,0,8,5,0,4,0,16,0,7,0,5,0,EMPATE
+Fluminense,Chapecoense,30,0,24,0,27,0,3,0,0,9,2,0,6,0,11,0,0,0,0,5,EMPATE
+Bahia,Internacional,14,0,0,8,1,0,0,4,0,0,0,0,1,0,1,0,2,0,4,0,FORA
+Ceará,Vasco da Gama,26,0,14,0,22,0,1,0,0,6,0,1,4,0,4,0,8,0,0,3,EMPATE
+Corinthians,Santos,0,12,20,0,13,0,0,2,9,0,3,0,0,6,8,0,0,0,7,0,EMPATE
+Botafogo,CSA,0,10,13,0,2,0,0,1,0,6,2,0,2,0,0,4,1,0,2,0,CASA
+Chapecoense,Goiás,0,0,0,8,0,13,0,8,3,0,0,3,0,1,0,0,0,3,9,0,EMPATE
+Athletico PR,Palmeiras,6,0,0,13,13,0,0,8,0,6,4,0,1,0,9,0,1,0,11,0,EMPATE
+Flamengo,Fluminense,14,0,33,0,21,0,0,5,0,7,4,0,2,0,2,0,4,0,4,0,CASA
+Internacional,Vasco da Gama,30,0,24,0,15,0,0,4,0,12,4,0,4,0,9,0,9,0,3,0,FORA
+Atlético Mineiro,Santos,0,28,0,18,0,1,0,10,3,0,0,3,0,3,0,9,0,4,11,0,CASA
+São Paulo,Avaí,44,0,39,0,51,0,0,14,0,11,6,0,4,0,11,0,12,0,11,0,CASA
+Corinthians,Cruzeiro,10,0,0,2,9,0,6,0,0,3,2,0,1,0,0,1,0,0,0,8,FORA
+Fortaleza,Grêmio,0,22,0,12,2,0,2,0,3,0,1,0,0,2,0,8,0,7,0,2,CASA
+Fluminense,Athletico PR,0,6,0,7,0,8,0,5,1,0,0,1,3,0,0,11,0,1,6,0,FORA
+Santos,Ceará,14,0,17,0,18,0,0,6,0,7,2,0,2,0,7,0,0,2,5,0,CASA
+Avaí,Internacional,0,20,0,18,0,25,11,0,9,0,0,1,0,3,7,0,0,2,0,8,FORA
+Vasco da Gama,Botafogo,0,14,0,4,0,3,0,3,5,0,3,0,0,0,2,0,0,4,4,0,CASA
+Goiás,Corinthians,0,8,0,9,2,0,5,0,0,1,0,3,0,1,6,0,0,0,0,7,EMPATE
+Cruzeiro,São Paulo,0,6,8,0,4,0,0,4,0,1,0,0,0,1,0,1,2,0,0,1,CASA
+Palmeiras,Chapecoense,26,0,16,0,41,0,0,5,0,12,5,0,11,0,2,0,8,0,0,0,CASA
+Fortaleza,Flamengo,0,28,0,36,0,17,8,0,1,0,0,1,0,1,0,1,0,8,0,8,FORA
+Grêmio,Bahia,18,0,0,0,15,0,2,0,0,4,0,0,0,0,9,0,4,0,0,3,FORA
+CSA,Atlético Mineiro,0,10,0,6,0,11,0,9,7,0,0,2,0,9,0,6,0,6,7,0,EMPATE
+Atlético Mineiro,Grêmio,0,12,0,16,0,4,0,9,0,3,0,0,4,0,8,0,0,0,10,0,FORA
+Chapecoense,Cruzeiro,22,0,19,0,13,0,0,0,0,3,0,1,0,2,10,0,2,0,2,0,EMPATE
+São Paulo,Corinthians,14,0,4,0,20,0,0,4,0,13,0,0,9,0,0,7,1,0,3,0,CASA
+Internacional,Santos,0,0,12,0,15,0,0,4,0,0,0,1,1,0,13,0,6,0,0,3,EMPATE
+Vasco da Gama,Fortaleza,30,0,28,0,26,0,4,0,0,7,0,0,2,0,3,0,7,0,0,4,CASA
+Athletico PR,Flamengo,4,0,0,7,0,6,12,0,3,0,4,0,0,0,0,4,3,0,0,9,FORA
+Palmeiras,Botafogo,4,0,6,0,21,0,0,9,0,0,7,0,5,0,0,8,5,0,8,0,CASA
+Fluminense,Bahia,0,2,0,6,0,3,3,0,5,0,0,5,0,2,3,0,0,3,0,4,CASA
+Goiás,CSA,6,0,21,0,17,0,2,0,0,8,0,2,4,0,2,0,2,0,0,0,CASA
+Flamengo,Atlético Mineiro,40,0,35,0,28,0,0,0,0,6,3,0,5,0,3,0,7,0,1,0,CASA
+Corinthians,Athletico PR,0,10,0,3,11,0,7,0,3,0,0,3,1,0,6,0,3,0,0,8,EMPATE
+Avaí,Vasco da Gama,0,4,0,11,0,1,0,5,2,0,0,2,2,0,0,2,1,0,5,0,EMPATE
+Cruzeiro,Fluminense,6,0,16,0,14,0,0,1,4,0,10,0,0,4,6,0,0,3,0,3,EMPATE
+Santos,Palmeiras,6,0,3,0,5,0,0,6,0,4,1,0,5,0,0,16,0,1,3,0,CASA
+Grêmio,Ceará,30,0,31,0,19,0,7,0,0,6,0,3,2,0,0,1,0,0,0,7,CASA
+Bahia,São Paulo,0,20,0,10,2,0,4,0,0,3,2,0,0,1,7,0,0,2,0,6,EMPATE
+Botafogo,Goiás,0,16,0,9,0,6,0,12,5,0,0,2,0,7,0,4,0,0,11,0,CASA
+CSA,Internacional,0,32,0,24,0,17,0,3,0,2,3,0,3,0,0,11,0,8,7,0,CASA
+CSA,Avaí,0,20,0,18,0,9,0,0,7,0,3,0,0,5,9,0,0,4,1,0,CASA
+Palmeiras,Atlético Mineiro,28,0,9,0,31,0,6,0,0,3,2,0,0,0,8,0,15,0,0,9,EMPATE
+Botafogo,Fluminense,0,2,10,0,5,0,0,0,3,0,1,0,0,2,7,0,3,0,1,0,FORA
+Chapecoense,Flamengo,0,28,0,34,0,32,5,0,12,0,0,5,0,7,0,17,0,7,0,7,FORA
+Cruzeiro,Internacional,12,0,15,0,4,0,0,4,3,0,4,0,0,3,5,0,0,0,6,0,EMPATE
+Grêmio,Corinthians,20,0,9,0,34,0,0,3,0,5,4,0,5,0,2,0,5,0,2,0,EMPATE
+Bahia,Athletico PR,0,8,6,0,0,0,5,0,2,0,0,0,0,1,5,0,0,0,0,4,FORA
+São Paulo,Fortaleza,16,0,18,0,9,0,1,0,0,6,4,0,4,0,0,0,6,0,0,1,CASA
+Vasco da Gama,Santos,2,0,0,0,3,0,0,0,0,7,0,3,8,0,11,0,6,0,0,0,FORA
+Atlético Mineiro,Vasco da Gama,0,0,0,4,0,1,4,0,0,3,1,0,3,0,0,14,0,2,0,3,FORA
+Chapecoense,Corinthians,4,0,7,0,9,0,0,3,0,5,4,0,0,2,0,6,2,0,3,0,FORA
+Fortaleza,Botafogo,0,0,0,21,8,0,0,3,0,8,2,0,5,0,6,0,4,0,4,0,CASA
+Avaí,Bahia,8,0,0,3,7,0,0,2,0,10,4,0,6,0,9,0,2,0,0,3,FORA
+Goiás,Cruzeiro,0,28,0,23,0,25,1,0,2,0,0,1,0,2,5,0,0,9,2,0,CASA
+Atlético Mineiro,Ceará,10,0,12,0,21,0,1,0,0,4,8,0,6,0,8,0,0,3,1,0,CASA
+Athletico PR,Chapecoense,36,0,18,0,37,0,0,6,0,13,6,0,8,0,5,0,6,0,3,0,EMPATE
+Internacional,Palmeiras,12,0,12,0,17,0,0,10,0,6,1,0,2,0,0,1,0,0,10,0,EMPATE
+Santos,CSA,20,0,14,0,16,0,0,1,0,5,0,0,0,0,0,7,6,0,2,0,CASA
+Fluminense,Grêmio,0,12,0,3,0,4,0,8,3,0,0,3,1,0,0,7,0,4,6,0,CASA
+Corinthians,Vasco da Gama,6,0,0,9,0,19,8,0,10,0,5,0,0,6,3,0,3,0,0,6,CASA
+Flamengo,São Paulo,16,0,15,0,19,0,10,0,0,2,10,0,3,0,9,0,7,0,0,7,EMPATE
+Athletico PR,Fortaleza,20,0,32,0,22,0,0,2,0,4,3,0,2,0,5,0,4,0,3,0,CASA
+Grêmio,Avaí,0,0,0,0,0,2,0,7,3,0,0,1,0,3,5,0,4,0,8,0,CASA
+Fluminense,Santos,0,10,0,1,0,4,1,0,5,0,0,3,0,2,0,5,0,4,0,3,EMPATE
+Palmeiras,CSA,26,0,48,0,15,0,0,1,1,0,4,0,0,1,0,14,3,0,2,0,CASA
+São Paulo,Goiás,36,0,7,0,28,0,0,2,0,8,2,0,4,0,10,0,10,0,0,4,FORA
+Flamengo,Internacional,28,0,42,0,38,0,0,10,0,12,6,0,10,0,4,0,5,0,12,0,CASA
+Bahia,Botafogo,12,0,16,0,27,0,0,7,0,10,2,0,10,0,0,2,4,0,8,0,CASA
+Ceará,Cruzeiro,0,0,11,0,0,2,0,3,0,2,8,0,0,3,6,0,5,0,2,0,EMPATE
+Avaí,Atlético Mineiro,0,22,0,27,0,16,0,0,5,0,0,0,0,4,0,6,0,6,0,1,CASA
+Goiás,Fluminense,0,30,0,19,0,11,0,5,5,0,0,1,0,3,0,5,0,4,5,0,CASA
+Fortaleza,Palmeiras,0,14,0,25,0,5,0,1,0,6,0,1,0,1,0,3,0,0,5,0,FORA
+Vasco da Gama,Athletico PR,0,0,12,0,8,0,0,4,0,3,4,0,2,0,9,0,4,0,5,0,EMPATE
+CSA,Ceará,0,8,0,3,0,10,0,15,0,0,0,5,0,2,10,0,0,5,11,0,CASA
+Internacional,Chapecoense,24,0,28,0,24,0,4,0,0,10,1,0,5,0,0,1,5,0,0,7,CASA
+Santos,Grêmio,16,0,0,2,14,0,2,0,0,10,1,0,5,0,0,4,7,0,0,3,FORA
+Corinthians,Bahia,0,4,0,13,1,0,1,0,2,0,0,0,1,0,14,0,1,0,0,1,CASA
+Cruzeiro,Flamengo,0,12,0,11,0,7,3,0,3,0,1,0,0,2,5,0,0,3,0,4,FORA
+Botafogo,São Paulo,2,0,3,0,0,6,9,0,0,0,0,2,0,0,0,14,0,10,0,11,FORA
+São Paulo,CSA,38,0,9,0,23,0,0,0,0,12,3,0,16,0,14,0,8,0,0,3,EMPATE
+Grêmio,Goiás,24,0,9,0,3,0,0,0,3,0,8,0,1,0,0,2,11,0,0,0,CASA
+Fluminense,Corinthians,0,10,0,6,0,11,0,7,0,1,0,2,0,0,0,8,0,3,6,0,CASA
+Bahia,Fortaleza,10,0,15,0,10,0,0,11,0,0,3,0,1,0,0,6,0,2,6,0,EMPATE
+Atlético Mineiro,Internacional,20,0,10,0,16,0,9,0,0,0,4,0,0,3,8,0,10,0,0,8,FORA
+Athletico PR,Avaí,32,0,19,0,25,0,0,1,0,2,2,0,0,0,12,0,7,0,2,0,FORA
+Ceará,Botafogo,0,10,9,0,27,0,0,13,0,6,12,0,2,0,12,0,18,0,8,0,EMPATE
+Palmeiras,Cruzeiro,10,0,28,0,14,0,0,2,4,0,3,0,2,0,6,0,0,0,0,0,CASA
+Chapecoense,Vasco da Gama,2,0,0,5,0,4,10,0,1,0,2,0,2,0,11,0,2,0,0,8,FORA
+Flamengo,Santos,2,0,11,0,9,0,7,0,0,2,0,1,2,0,0,4,2,0,0,7,CASA
+Palmeiras,Fluminense,0,14,10,0,0,3,0,0,5,0,4,0,0,3,12,0,0,4,1,0,CASA
+CSA,Chapecoense,0,8,0,1,0,5,0,11,4,0,0,4,0,7,0,7,0,4,6,0,CASA
+Santos,Athletico PR,28,0,27,0,20,0,7,0,0,7,8,0,6,0,3,0,8,0,0,7,EMPATE
+Botafogo,Atlético Mineiro,2,0,1,0,2,0,1,0,4,0,0,1,0,4,0,3,0,6,0,0,CASA
+Cruzeiro,Grêmio,12,0,11,0,6,0,0,2,0,4,5,0,0,0,0,2,5,0,1,0,FORA
+Goiás,Palmeiras,0,30,0,20,0,23,10,0,5,0,0,6,0,0,0,17,0,4,0,8,FORA
+Internacional,São Paulo,8,0,15,0,10,0,0,1,0,0,0,1,1,0,0,0,7,0,0,0,CASA
+Fortaleza,Fluminense,0,4,0,10,0,8,4,0,4,0,6,0,2,0,0,4,1,0,0,3,FORA
+Corinthians,Ceará,10,0,1,0,6,0,1,0,0,1,0,2,2,0,6,0,0,3,0,3,EMPATE
+Vasco da Gama,Bahia,14,0,10,0,20,0,3,0,0,16,2,0,11,0,10,0,1,0,0,4,FORA
+Fluminense,Avaí,10,0,2,0,14,0,2,0,0,5,11,0,1,0,0,11,10,0,0,3,FORA
+Cruzeiro,Vasco da Gama,4,0,8,0,0,5,1,0,0,2,1,0,2,0,0,8,0,8,0,2,CASA
+Corinthians,Atlético Mineiro,4,0,0,10,0,7,6,0,0,3,0,1,3,0,8,0,6,0,0,6,CASA
+Fortaleza,Goiás,0,2,0,18,3,0,0,1,0,0,1,0,0,2,0,11,2,0,4,0,CASA
+Flamengo,Palmeiras,28,0,25,0,16,0,4,0,0,0,1,0,4,0,7,0,0,0,0,0,CASA
+Internacional,Botafogo,4,0,12,0,2,0,0,3,0,1,1,0,0,0,1,0,7,0,3,0,CASA
+Chapecoense,Santos,2,0,29,0,14,0,4,0,2,0,1,0,0,3,0,4,0,0,0,3,FORA
+Athletico PR,Ceará,28,0,25,0,18,0,2,0,0,2,0,2,2,0,9,0,6,0,0,1,CASA
+Bahia,CSA,30,0,35,0,25,0,2,0,0,5,3,0,1,0,15,0,7,0,0,2,CASA
+São Paulo,Grêmio,14,0,7,0,28,0,0,1,0,13,1,0,5,0,2,0,0,0,1,0,EMPATE
+Botafogo,Chapecoense,22,0,28,0,19,0,4,0,0,10,0,4,5,0,8,0,1,0,0,2,EMPATE
+Ceará,Flamengo,4,0,0,0,22,0,2,0,0,3,3,0,1,0,0,3,7,0,0,3,FORA
+Avaí,Corinthians,0,6,15,0,12,0,0,6,0,8,0,2,3,0,0,7,2,0,6,0,EMPATE
+CSA,Cruzeiro,8,0,29,0,19,0,0,5,0,4,1,0,1,0,0,0,2,0,3,0,EMPATE
+Santos,Fortaleza,16,0,29,0,12,0,5,0,0,7,5,0,3,0,3,0,0,2,0,6,EMPATE
+Goiás,Internacional,0,26,0,13,0,15,9,0,1,0,0,3,0,0,9,0,0,0,0,6,CASA
+Grêmio,Athletico PR,0,2,5,0,0,4,0,2,6,0,1,0,0,3,0,2,0,5,0,1,CASA
+Atlético Mineiro,Bahia,20,0,2,0,27,0,0,2,0,8,3,0,6,0,2,0,3,0,1,0,FORA
+Athletico PR,São Paulo,22,0,14,0,26,0,0,6,0,14,2,0,6,0,5,0,5,0,9,0,FORA
+Chapecoense,Avaí,0,8,0,3,0,0,0,11,1,0,0,0,2,0,8,0,2,0,10,0,CASA
+Cruzeiro,Santos,24,0,31,0,26,0,0,9,0,2,3,0,3,0,0,5,4,0,8,0,CASA
+São Paulo,Ceará,8,0,7,0,14,0,0,0,0,5,0,2,0,0,0,2,0,6,0,5,CASA
+Fluminense,CSA,30,0,6,0,35,0,10,0,0,11,11,0,10,0,9,0,6,0,0,10,FORA
+Bahia,Goiás,0,2,0,13,0,6,8,0,0,1,0,1,2,0,4,0,0,0,0,5,EMPATE
+Grêmio,Palmeiras,26,0,24,0,5,0,3,0,0,3,0,4,2,0,14,0,1,0,0,2,EMPATE
+Vasco da Gama,Flamengo,0,8,0,21,0,15,3,0,5,0,0,0,1,0,1,0,0,0,0,5,FORA
+Athletico PR,Atlético Mineiro,4,0,11,0,11,0,5,0,1,0,0,6,0,0,0,15,0,2,0,3,CASA
+Corinthians,Botafogo,8,0,1,0,21,0,0,2,0,4,4,0,3,0,2,0,5,0,1,0,CASA
+CSA,Fortaleza,6,0,21,0,20,0,0,4,0,8,5,0,6,0,11,0,0,1,6,0,FORA
+Goiás,Vasco da Gama,10,0,10,0,8,0,7,0,0,3,0,1,2,0,0,9,0,1,0,7,FORA
+Palmeiras,Bahia,0,12,0,13,11,0,8,0,0,4,4,0,4,0,4,0,5,0,0,7,EMPATE
+Botafogo,Athletico PR,12,0,0,2,0,0,0,1,6,0,0,4,0,5,10,0,0,0,0,1,CASA
+Avaí,Cruzeiro,10,0,8,0,0,0,0,2,1,0,0,2,2,0,4,0,4,0,0,1,EMPATE
+Internacional,Corinthians,16,0,15,0,21,0,0,11,0,4,1,0,0,2,2,0,6,0,9,0,EMPATE
+Atlético Mineiro,Fluminense,0,12,6,0,0,0,0,4,3,0,1,0,0,2,0,15,0,2,3,0,CASA
+Flamengo,Grêmio,12,0,23,0,21,0,4,0,0,4,3,0,3,0,9,0,1,0,0,3,CASA
+São Paulo,Santos,6,0,16,0,12,0,0,7,0,3,2,0,4,0,0,3,3,0,6,0,CASA
+Corinthians,Goiás,30,0,18,0,12,0,0,0,0,5,2,0,3,0,9,0,1,0,5,0,CASA
+Grêmio,Chapecoense,22,0,21,0,30,0,0,5,0,3,5,0,0,0,0,3,8,0,2,0,EMPATE
+Atlético Mineiro,Cruzeiro,0,16,0,22,0,10,0,3,0,3,1,0,1,0,0,6,0,0,8,0,CASA
+Corinthians,Palmeiras,4,0,0,2,0,4,15,0,2,0,0,0,1,0,9,0,0,2,0,12,EMPATE
+Avaí,Botafogo,28,0,15,0,30,0,0,4,0,7,0,0,10,0,15,0,15,0,0,1,FORA
+Bahia,Flamengo,0,28,0,25,0,18,0,6,6,0,3,0,0,4,0,4,0,3,5,0,CASA
+Santos,Goiás,6,0,6,0,0,4,0,10,6,0,2,0,0,4,0,4,0,0,7,0,CASA
+Ceará,Fortaleza,0,18,0,11,0,12,0,2,1,0,0,2,0,0,0,9,4,0,0,0,CASA
+Fluminense,Internacional,16,0,7,0,21,0,5,0,0,9,3,0,6,0,6,0,3,0,0,5,CASA
+CSA,Grêmio,0,16,0,6,0,18,2,0,3,0,3,0,0,2,0,1,0,4,0,1,EMPATE
+Fortaleza,Corinthians,0,2,0,8,0,1,0,2,2,0,2,0,3,0,0,2,0,0,2,0,FORA
+Goiás,Atlético Mineiro,0,6,0,0,8,0,0,3,0,4,4,0,4,0,0,8,3,0,5,0,EMPATE
+Santos,Avaí,24,0,14,0,12,0,0,1,0,5,7,0,0,1,10,0,11,0,0,2,CASA
+Flamengo,Botafogo,18,0,19,0,17,0,0,4,0,2,0,0,0,4,0,12,1,0,7,0,CASA
+Chapecoense,Bahia,0,2,0,5,2,0,1,0,0,1,0,7,1,0,7,0,5,0,1,0,EMPATE
+Internacional,Ceará,10,0,1,0,1,0,0,1,0,0,5,0,0,0,0,6,0,0,1,0,CASA
+Cruzeiro,Athletico PR,0,18,0,13,0,8,0,1,5,0,0,4,0,7,6,0,0,4,1,0,FORA
+Fluminense,São Paulo,24,0,32,0,17,0,0,6,1,0,1,0,0,3,0,4,2,0,3,0,FORA
+Palmeiras,Vasco da Gama,10,0,11,0,11,0,0,1,0,7,3,0,5,0,0,3,0,1,2,0,EMPATE
+São Paulo,Chapecoense,0,2,0,3,12,0,0,9,0,3,1,0,3,0,1,0,2,0,9,0,CASA
+Avaí,Goiás,8,0,7,0,8,0,0,0,0,0,2,0,4,0,0,6,2,0,1,0,EMPATE
+Atlético Mineiro,Fortaleza,0,2,14,0,11,0,0,5,0,11,1,0,3,0,0,1,1,0,2,0,EMPATE
+Botafogo,Santos,0,2,0,6,0,8,2,0,3,0,0,5,1,0,1,0,7,0,1,0,FORA
+Internacional,Grêmio,0,8,0,16,0,5,0,1,2,0,5,0,0,3,0,5,0,1,0,0,EMPATE
+Ceará,Palmeiras,0,10,0,16,0,1,0,12,7,0,0,2,0,10,0,7,0,6,12,0,CASA
+CSA,Athletico PR,14,0,13,0,13,0,14,0,0,4,0,3,6,0,14,0,0,3,0,18,FORA
+Bahia,Cruzeiro,8,0,11,0,6,0,0,6,0,9,0,1,3,0,0,2,0,1,7,0,EMPATE
+Vasco da Gama,Fluminense,0,2,16,0,9,0,0,6,0,4,2,0,5,0,4,0,1,0,3,0,CASA
+Fluminense,Ceará,24,0,23,0,21,0,5,0,0,8,2,0,4,0,2,0,9,0,0,3,EMPATE
+Chapecoense,Atlético Mineiro,0,26,0,14,0,11,0,2,4,0,0,0,0,1,7,0,0,5,1,0,FORA
+Cruzeiro,Botafogo,0,10,0,4,15,0,0,6,0,0,2,0,0,0,4,0,2,0,2,0,EMPATE
+Corinthians,CSA,38,0,40,0,32,0,13,0,0,6,5,0,9,0,8,0,15,0,0,14,CASA
+Athletico PR,Internacional,26,0,17,0,22,0,2,0,0,2,1,0,3,0,2,0,4,0,0,1,CASA
+Flamengo,Goiás,32,0,24,0,23,0,4,0,0,6,10,0,6,0,0,4,11,0,0,0,CASA
+São Paulo,Palmeiras,0,10,0,14,0,18,2,0,2,0,2,0,0,2,0,8,3,0,2,0,EMPATE
+Bahia,Santos,0,16,0,21,0,10,0,0,9,0,0,2,0,1,0,0,0,2,1,0,FORA
+Grêmio,Vasco da Gama,16,0,31,0,28,0,0,5,0,3,0,1,0,0,7,0,0,2,3,0,CASA
+Fortaleza,Avaí,0,20,0,20,0,14,0,3,3,0,0,1,0,2,0,7,0,6,3,0,CASA
+Atlético Mineiro,São Paulo,34,0,49,0,25,0,4,0,0,10,5,0,7,0,11,0,7,0,0,4,EMPATE
+Palmeiras,Avaí,12,0,0,1,5,0,9,0,5,0,1,0,0,1,0,4,8,0,0,7,CASA
+Chapecoense,Fluminense,0,26,0,6,0,3,10,0,0,4,2,0,4,0,0,0,2,0,0,5,EMPATE
+Goiás,Athletico PR,0,30,0,36,0,22,0,3,0,0,0,4,2,0,0,5,0,4,4,0,CASA
+Vasco da Gama,Ceará,10,0,21,0,15,0,3,0,0,1,6,0,1,0,2,0,4,0,0,2,CASA
+Internacional,Bahia,0,6,0,4,0,4,0,3,3,0,3,0,0,7,0,8,0,0,1,0,CASA
+Santos,Corinthians,4,0,8,0,7,0,0,2,0,9,7,0,4,0,0,9,0,1,2,0,CASA
+CSA,Flamengo,0,34,0,11,0,25,0,1,17,0,0,6,0,9,0,4,0,9,2,0,FORA
+Fortaleza,Cruzeiro,4,0,3,0,7,0,6,0,2,0,0,2,0,1,0,7,1,0,0,5,CASA
+Botafogo,Grêmio,0,8,0,6,0,9,4,0,2,0,0,1,0,0,1,0,0,3,0,1,FORA
+Goiás,Chapecoense,10,0,16,0,19,0,1,0,0,8,3,0,3,0,2,0,0,0,0,3,CASA
+Santos,Atlético Mineiro,8,0,17,0,12,0,1,0,0,7,1,0,5,0,0,7,0,1,0,1,CASA
+Fluminense,Flamengo,14,0,0,6,0,6,2,0,0,2,4,0,3,0,0,2,3,0,0,3,EMPATE
+CSA,Botafogo,0,6,0,7,3,0,0,13,0,4,3,0,5,0,0,5,6,0,9,0,FORA
+Avaí,São Paulo,0,20,0,8,0,5,0,0,4,0,1,0,0,5,0,10,0,6,2,0,EMPATE
+Grêmio,Fortaleza,32,0,13,0,36,0,0,2,0,11,3,0,7,0,10,0,9,0,0,0,CASA
+Cruzeiro,Corinthians,0,10,0,1,12,0,3,0,0,5,5,0,8,0,0,4,6,0,0,0,EMPATE
+Palmeiras,Athletico PR,2,0,11,0,17,0,10,0,0,12,1,0,11,0,7,0,0,0,0,11,CASA
+Vasco da Gama,Internacional,0,28,0,20,0,18,7,0,5,0,0,3,0,3,0,2,0,10,0,3,CASA
+Internacional,Avaí,16,0,12,0,4,0,0,1,0,4,2,0,0,1,1,0,0,2,0,0,CASA
+Atlético Mineiro,CSA,28,0,16,0,14,0,6,0,0,13,4,0,9,0,7,0,9,0,0,7,CASA
+Chapecoense,Palmeiras,2,0,0,1,0,1,5,0,0,4,0,0,2,0,0,4,0,2,0,6,FORA
+Ceará,Santos,0,6,4,0,2,0,8,0,2,0,0,0,0,0,0,0,2,0,0,6,FORA
+São Paulo,Cruzeiro,0,6,0,10,0,8,1,0,0,0,0,1,0,2,7,0,0,4,3,0,EMPATE
+Athletico PR,Fluminense,2,0,8,0,16,0,0,4,0,2,2,0,0,3,0,5,2,0,3,0,CASA
+Botafogo,Vasco da Gama,2,0,6,0,0,3,1,0,0,1,0,3,0,5,0,2,0,5,0,0,CASA
+Bahia,Grêmio,8,0,1,0,12,0,7,0,0,2,3,0,4,0,19,0,6,0,0,2,CASA
+Flamengo,Fortaleza,16,0,27,0,16,0,0,12,0,2,2,0,8,0,0,9,6,0,10,0,CASA
+Avaí,Ceará,0,4,9,0,12,0,0,11,0,1,3,0,3,0,5,0,3,0,9,0,FORA
+CSA,Goiás,0,10,0,11,0,8,0,10,0,0,0,1,0,0,0,13,0,6,7,0,CASA
+Cruzeiro,Chapecoense,22,0,3,0,5,0,0,1,0,2,0,1,4,0,3,0,3,0,0,0,FORA
+Corinthians,São Paulo,0,10,0,4,0,11,0,2,2,0,0,0,0,1,0,1,0,1,4,0,CASA
+Bahia,Fluminense,0,14,0,10,0,3,5,0,2,0,2,0,0,3,0,6,0,0,0,2,CASA
+Santos,Internacional,14,0,0,4,0,8,4,0,4,0,0,1,0,5,2,0,3,0,0,1,EMPATE
+Flamengo,Athletico PR,18,0,2,0,1,0,4,0,0,1,0,2,5,0,0,2,7,0,0,6,CASA
+Grêmio,Atlético Mineiro,12,0,19,0,21,0,3,0,0,10,2,0,8,0,0,7,9,0,0,3,CASA
+Vasco da Gama,Avaí,0,2,0,1,0,5,0,0,3,0,0,5,1,0,0,9,0,5,2,0,EMPATE
+Internacional,CSA,22,0,27,0,27,0,0,4,0,2,3,0,0,0,0,0,1,0,4,0,CASA
+Chapecoense,Fortaleza,8,0,8,0,14,0,0,2,0,5,0,2,10,0,0,13,5,0,5,0,FORA
+Goiás,Botafogo,0,18,5,0,20,0,0,11,0,11,4,0,8,0,2,0,6,0,3,0,CASA
+Athletico PR,Corinthians,22,0,11,0,22,0,0,4,0,11,3,0,7,0,9,0,8,0,5,0,FORA
+São Paulo,Bahia,18,0,9,0,21,0,8,0,3,0,1,0,0,7,0,3,0,2,0,10,EMPATE
+Atlético Mineiro,Flamengo,0,34,0,17,0,12,0,3,5,0,0,3,0,3,2,0,0,16,3,0,CASA
+Palmeiras,Santos,0,18,0,2,0,7,0,4,2,0,0,1,0,0,0,0,0,0,3,0,CASA
+Fluminense,Cruzeiro,14,0,10,0,15,0,0,7,0,3,6,0,2,0,8,0,8,0,7,0,CASA
+Fortaleza,São Paulo,4,0,0,1,0,2,1,0,0,3,2,0,1,0,0,0,2,0,0,3,FORA
+Avaí,CSA,30,0,19,0,22,0,0,1,0,2,3,0,1,0,8,0,6,0,0,5,EMPATE
+Athletico PR,Bahia,18,0,14,0,10,0,0,0,0,0,4,0,2,0,4,0,2,0,0,1,CASA
+Internacional,Cruzeiro,12,0,6,0,4,0,3,0,0,4,0,5,0,0,0,4,1,0,0,2,CASA
+Santos,Vasco da Gama,16,0,16,0,11,0,0,3,0,11,1,0,3,0,6,0,3,0,7,0,CASA
+Flamengo,Chapecoense,8,0,1,0,6,0,0,7,4,0,0,1,0,4,6,0,3,0,6,0,CASA
+Goiás,Ceará,0,20,0,18,0,14,0,7,0,0,2,0,0,2,0,6,0,5,7,0,CASA
+Corinthians,Grêmio,0,8,0,0,0,7,7,0,0,1,3,0,0,0,4,0,1,0,0,7,EMPATE
+Fluminense,Botafogo,12,0,22,0,20,0,0,3,0,7,4,0,8,0,10,0,5,0,5,0,FORA
+Grêmio,Fluminense,0,4,11,0,10,0,3,0,0,2,0,3,3,0,4,0,0,0,0,2,FORA
+Bahia,Avaí,14,0,15,0,23,0,0,11,0,1,8,0,1,0,0,11,8,0,11,0,CASA
+Cruzeiro,Goiás,12,0,22,0,20,0,0,3,0,3,4,0,2,0,5,0,1,0,4,0,CASA
+São Paulo,Flamengo,32,0,19,0,20,0,1,0,0,9,8,0,4,0,3,0,4,0,1,0,EMPATE
+Botafogo,Fortaleza,2,0,4,0,0,1,7,0,1,0,0,1,0,2,2,0,3,0,0,6,CASA
+CSA,Santos,0,30,0,17,0,24,2,0,5,0,0,5,0,1,0,5,0,10,0,1,EMPATE
+Chapecoense,Athletico PR,4,0,9,0,9,0,2,0,2,0,0,4,0,0,0,6,5,0,0,5,EMPATE
+Ceará,Atlético Mineiro,0,2,34,0,23,0,0,4,3,0,0,3,0,1,1,0,2,0,3,0,FORA
+Palmeiras,Internacional,0,26,0,1,0,7,3,0,1,0,3,0,0,1,0,5,0,1,0,3,CASA
+Vasco da Gama,Corinthians,10,0,2,0,6,0,0,13,1,0,2,0,0,2,2,0,6,0,13,0,EMPATE
+Botafogo,Bahia,0,4,0,5,0,7,8,0,6,0,0,1,0,5,0,4,0,3,0,3,CASA
+Santos,Fluminense,0,2,11,0,21,0,0,8,0,9,2,0,4,0,12,0,5,0,9,0,CASA
+Fortaleza,Athletico PR,0,14,0,34,0,15,5,0,8,0,0,1,3,0,10,0,0,5,0,6,CASA
+Vasco da Gama,Atlético Mineiro,12,0,12,0,17,0,0,2,0,6,1,0,7,0,9,0,4,0,1,0,FORA
+Goiás,São Paulo,0,4,4,0,6,0,0,2,0,4,0,2,0,1,2,0,0,5,3,0,FORA
+Cruzeiro,Ceará,10,0,31,0,20,0,5,0,0,6,0,2,1,0,4,0,0,1,0,3,CASA
+Avaí,Grêmio,0,2,0,2,0,4,3,0,0,4,4,0,7,0,5,0,7,0,0,2,EMPATE
+Internacional,Flamengo,0,10,1,0,0,2,3,0,0,3,1,0,3,0,9,0,0,1,0,0,CASA
+Corinthians,Chapecoense,8,0,10,0,13,0,0,4,1,0,0,1,0,4,0,3,5,0,4,0,CASA
+CSA,Palmeiras,0,10,0,7,0,14,1,0,10,0,0,3,0,4,0,1,0,4,0,1,EMPATE
+Palmeiras,Fortaleza,4,0,15,0,22,0,2,0,0,9,0,2,3,0,0,1,5,0,0,1,CASA
+Fluminense,Goiás,34,0,23,0,16,0,0,7,0,0,1,0,1,0,4,0,0,0,5,0,FORA
+Ceará,CSA,8,0,38,0,28,0,0,12,0,2,1,0,1,0,0,4,0,3,11,0,CASA
+Bahia,Corinthians,0,16,6,0,17,0,0,13,0,6,2,0,0,0,2,0,0,0,15,0,CASA
+Athletico PR,Vasco da Gama,12,0,0,4,6,0,4,0,0,1,3,0,0,1,4,0,4,0,0,5,CASA
+Grêmio,Santos,24,0,19,0,23,0,5,0,0,6,8,0,3,0,1,0,10,0,0,6,FORA
+Flamengo,Cruzeiro,14,0,12,0,20,0,5,0,0,4,2,0,6,0,11,0,4,0,0,3,CASA
+Atlético Mineiro,Avaí,16,0,19,0,10,0,7,0,0,3,1,0,4,0,5,0,0,0,0,4,CASA
+Chapecoense,Internacional,0,10,0,14,0,17,0,2,8,0,0,2,0,6,4,0,0,2,4,0,CASA
+São Paulo,Botafogo,0,22,0,24,0,5,0,17,0,2,1,0,0,1,4,0,1,0,15,0,CASA
+Paraná,Internacional,0,6,0,1,1,0,2,0,0,4,3,0,5,0,7,0,0,1,0,1,EMPATE
+Chapecoense,São Paulo,0,6,11,0,4,0,13,0,0,3,2,0,1,0,8,0,4,0,0,10,CASA
+Bahia,Cruzeiro,0,12,8,0,10,0,0,0,0,9,0,7,5,0,0,6,0,1,5,0,EMPATE
+Fluminense,América Mineiro,0,14,0,14,0,9,2,0,10,0,0,4,0,6,0,3,0,4,0,5,CASA
+Ceará,Vasco da Gama,0,2,9,0,12,0,0,3,0,6,2,0,6,0,5,0,3,0,6,0,EMPATE
+Sport Recife,Santos,0,2,0,3,3,0,0,5,0,0,0,2,0,4,0,7,0,0,0,2,CASA
+Palmeiras,Vitória,8,0,15,0,18,0,0,6,0,5,4,0,6,0,0,8,8,0,3,0,CASA
+Grêmio,Corinthians,6,0,2,0,18,0,5,0,0,4,0,0,3,0,0,7,2,0,0,6,CASA
+Atlético Mineiro,Botafogo,6,0,0,4,0,0,5,0,2,0,4,0,3,0,0,9,0,3,0,4,CASA
+Flamengo,Athletico PR,4,0,5,0,8,0,0,3,2,0,3,0,0,0,0,1,5,0,1,0,FORA
+Botafogo,Paraná,8,0,17,0,3,0,1,0,0,2,1,0,2,0,0,2,1,0,0,3,CASA
+São Paulo,Sport Recife,38,0,59,0,41,0,1,0,0,15,3,0,5,0,9,0,2,0,0,6,EMPATE
+América Mineiro,Bahia,0,8,1,0,0,4,1,0,8,0,1,0,0,4,0,10,0,3,0,2,CASA
+Corinthians,Chapecoense,26,0,19,0,17,0,0,0,8,0,0,3,0,2,14,0,5,0,0,0,EMPATE
+Internacional,Fluminense,20,0,24,0,20,0,5,0,0,9,0,2,8,0,4,0,4,0,0,5,CASA
+Cruzeiro,Flamengo,6,0,16,0,21,0,0,1,0,8,6,0,8,0,2,0,2,0,4,0,FORA
+Athletico PR,Ceará,18,0,10,0,16,0,0,2,0,2,0,1,3,0,9,0,6,0,0,0,EMPATE
+Vitória,Grêmio,0,8,0,19,0,20,6,0,2,0,0,4,5,0,0,10,0,2,0,6,EMPATE
+Vasco da Gama,Palmeiras,0,6,0,2,0,7,2,0,8,0,2,0,0,7,0,0,0,9,0,0,FORA
+Santos,Atlético Mineiro,0,6,0,7,0,7,0,6,0,0,3,0,0,0,0,4,1,0,6,0,CASA
+Chapecoense,Sport Recife,0,16,0,8,0,7,0,12,0,2,2,0,0,1,0,5,1,0,7,0,CASA
+Bahia,Fluminense,10,0,18,0,11,0,0,13,0,4,4,0,3,0,0,0,2,0,12,0,CASA
+Vasco da Gama,São Paulo,0,24,0,18,0,8,4,0,1,0,0,3,0,2,7,0,0,4,0,4,CASA
+Cruzeiro,Vitória,2,0,1,0,2,0,0,1,5,0,5,0,0,7,0,0,0,2,7,0,CASA
+Athletico PR,Corinthians,2,0,0,0,7,0,0,5,0,6,5,0,3,0,3,0,3,0,5,0,CASA
+Flamengo,Grêmio,0,10,0,10,0,0,0,3,3,0,2,0,0,2,0,10,4,0,3,0,CASA
+Palmeiras,América Mineiro,0,2,11,0,21,0,4,0,0,12,6,0,12,0,1,0,7,0,0,6,CASA
+Santos,Botafogo,0,4,0,9,8,0,0,2,0,1,2,0,1,0,3,0,4,0,2,0,EMPATE
+Internacional,Atlético Mineiro,12,0,14,0,18,0,2,0,0,6,2,0,2,0,18,0,7,0,0,4,FORA
+Fluminense,Ceará,16,0,16,0,9,0,4,0,2,0,0,2,2,0,0,5,0,2,0,11,EMPATE
+São Paulo,Cruzeiro,10,0,28,0,13,0,5,0,0,2,2,0,1,0,0,7,2,0,0,6,CASA
+Grêmio,Chapecoense,30,0,29,0,19,0,6,0,2,0,5,0,1,0,7,0,2,0,0,9,CASA
+Paraná,Palmeiras,0,28,0,32,0,21,0,7,0,0,0,3,0,1,0,11,0,7,12,0,EMPATE
+América Mineiro,Santos,2,0,6,0,11,0,0,6,2,0,3,0,1,0,0,1,0,2,8,0,CASA
+Botafogo,Internacional,0,20,1,0,1,0,7,0,0,0,2,0,4,0,0,11,0,8,0,6,CASA
+Sport Recife,Flamengo,14,0,7,0,10,0,1,0,0,6,0,1,2,0,0,7,0,2,0,2,FORA
+Atlético Mineiro,Bahia,2,0,3,0,0,0,7,0,0,1,4,0,2,0,0,11,6,0,0,8,CASA
+Vitória,Athletico PR,12,0,9,0,9,0,10,0,0,1,0,1,2,0,0,13,0,1,0,8,FORA
+Corinthians,Vasco da Gama,0,14,0,10,0,5,0,8,0,6,0,3,1,0,2,0,0,1,10,0,CASA
+Internacional,América Mineiro,0,0,0,5,0,0,1,0,0,0,1,0,0,3,8,0,3,0,0,0,CASA
+São Paulo,Grêmio,22,0,19,0,23,0,0,3,0,11,3,0,4,0,10,0,0,1,2,0,EMPATE
+Chapecoense,Botafogo,0,0,7,0,11,0,4,0,0,9,1,0,4,0,3,0,5,0,0,3,FORA
+Flamengo,Santos,18,0,9,0,6,0,0,4,0,6,0,0,8,0,0,4,6,0,5,0,CASA
+Cruzeiro,Corinthians,0,10,5,0,3,0,0,7,0,4,0,1,1,0,0,7,0,4,6,0,CASA
+Sport Recife,Vitória,6,0,9,0,0,1,0,2,0,3,0,4,4,0,2,0,0,1,2,0,EMPATE
+Palmeiras,Fluminense,2,0,1,0,0,0,5,0,5,0,3,0,1,0,2,0,2,0,0,3,CASA
+Paraná,Atlético Mineiro,0,38,0,13,0,31,0,2,14,0,0,2,0,5,0,1,0,5,4,0,FORA
+Bahia,Ceará,22,0,22,0,27,0,6,0,0,6,8,0,5,0,0,10,10,0,0,3,CASA
+Vasco da Gama,Athletico PR,0,18,0,3,0,0,0,1,7,0,2,0,0,1,0,18,0,2,3,0,EMPATE
+Santos,Chapecoense,14,0,3,0,0,3,9,0,0,11,0,0,9,0,27,0,0,0,0,6,FORA
+Fluminense,Sport Recife,14,0,18,0,17,0,0,4,0,3,9,0,4,0,6,0,0,1,3,0,EMPATE
+Atlético Mineiro,Palmeiras,4,0,12,0,8,0,0,4,0,3,5,0,4,0,1,0,2,0,7,0,EMPATE
+Vitória,Bahia,8,0,5,0,0,4,9,0,3,0,1,0,0,5,10,0,0,1,0,10,EMPATE
+Ceará,Internacional,0,4,0,4,2,0,3,0,0,6,3,0,8,0,3,0,1,0,0,4,EMPATE
+Grêmio,Vasco da Gama,26,0,30,0,29,0,5,0,0,6,6,0,2,0,7,0,5,0,0,7,CASA
+Athletico PR,Cruzeiro,0,6,0,8,0,7,2,0,0,2,0,3,3,0,0,12,0,0,0,0,CASA
+Botafogo,Flamengo,0,18,0,14,0,9,0,16,6,0,0,1,0,3,0,2,1,0,14,0,CASA
+América Mineiro,Paraná,22,0,30,0,27,0,0,5,0,9,0,2,9,0,7,0,7,0,0,2,FORA
+Corinthians,São Paulo,0,2,0,1,0,4,11,0,4,0,2,0,2,0,4,0,5,0,0,8,EMPATE
+Sport Recife,Ceará,12,0,18,0,6,0,1,0,1,0,0,2,0,0,8,0,5,0,0,1,CASA
+Bahia,Chapecoense,26,0,18,0,11,0,11,0,0,3,4,0,0,1,7,0,2,0,0,9,CASA
+Internacional,Athletico PR,28,0,19,0,21,0,10,0,0,11,3,0,0,0,13,0,7,0,0,8,CASA
+Paraná,Vitória,0,10,0,4,0,8,3,0,4,0,0,4,0,1,0,5,0,3,0,1,EMPATE
+América Mineiro,Cruzeiro,14,0,16,0,21,0,0,8,5,0,5,0,0,1,3,0,6,0,9,0,FORA
+Botafogo,Corinthians,0,14,0,12,0,4,0,5,0,4,0,0,6,0,0,4,2,0,6,0,CASA
+São Paulo,Flamengo,0,10,0,4,0,6,0,6,8,0,0,2,0,5,5,0,1,0,5,0,EMPATE
+Palmeiras,Santos,0,18,0,17,0,2,0,3,2,0,0,0,3,0,0,4,0,2,3,0,CASA
+Atlético Mineiro,Grêmio,10,0,0,5,2,0,4,0,0,5,0,5,2,0,7,0,5,0,0,0,FORA
+Fluminense,Vasco da Gama,22,0,18,0,14,0,0,1,0,14,0,0,8,0,8,0,7,0,2,0,FORA
+Ceará,Atlético Mineiro,0,10,0,14,0,10,9,0,3,0,2,0,0,3,11,0,0,3,0,8,CASA
+Cruzeiro,Paraná,12,0,0,3,11,0,1,0,1,0,1,0,2,0,3,0,9,0,0,3,CASA
+Athletico PR,Botafogo,26,0,16,0,26,0,12,0,0,12,2,0,4,0,0,0,3,0,0,13,CASA
+Chapecoense,América Mineiro,0,2,6,0,4,0,12,0,2,0,3,0,2,0,0,7,0,0,0,10,CASA
+Flamengo,Palmeiras,30,0,19,0,19,0,0,0,0,11,2,0,8,0,8,0,11,0,2,0,EMPATE
+Corinthians,Bahia,0,0,7,0,0,3,3,0,6,0,0,0,0,1,0,3,0,0,0,4,CASA
+Santos,Fluminense,32,0,18,0,12,0,0,0,0,5,5,0,3,0,3,0,10,0,0,4,CASA
+Grêmio,Sport Recife,34,0,37,0,24,0,5,0,0,3,4,0,2,0,10,0,10,0,0,5,FORA
+Vasco da Gama,Internacional,14,0,7,0,3,0,5,0,0,3,5,0,3,0,0,4,2,0,0,2,EMPATE
+Vitória,São Paulo,28,0,15,0,17,0,16,0,0,1,0,3,1,0,0,0,0,2,0,16,FORA
+Cruzeiro,Ceará,14,0,18,0,18,0,10,0,0,8,9,0,8,0,9,0,9,0,0,11,FORA
+Internacional,Santos,0,2,13,0,8,0,1,0,0,3,4,0,0,2,1,0,0,2,1,0,EMPATE
+Cruzeiro,Chapecoense,6,0,0,0,0,3,6,0,2,0,0,1,0,5,2,0,0,0,0,6,CASA
+Paraná,Flamengo,0,26,0,16,0,17,0,3,3,0,0,0,0,1,0,15,3,0,5,0,FORA
+Vitória,Corinthians,0,10,4,0,0,0,3,0,0,7,4,0,1,0,0,3,0,0,0,2,EMPATE
+Fluminense,Atlético Mineiro,14,0,6,0,0,0,3,0,2,0,0,0,0,2,5,0,0,3,0,5,CASA
+Palmeiras,Ceará,0,12,0,4,0,14,0,1,3,0,0,1,0,5,3,0,0,8,1,0,CASA
+São Paulo,Athletico PR,0,22,0,7,8,0,0,8,0,3,3,0,0,1,0,1,0,3,6,0,EMPATE
+Sport Recife,Vasco da Gama,8,0,6,0,7,0,0,0,0,6,0,0,0,1,0,9,0,3,0,1,CASA
+América Mineiro,Grêmio,6,0,0,4,10,0,0,8,6,0,0,2,0,2,15,0,1,0,9,0,EMPATE
+Botafogo,Bahia,22,0,12,0,6,0,11,0,0,0,5,0,0,3,9,0,6,0,0,12,FORA
+Ceará,Botafogo,12,0,39,0,27,0,0,3,0,3,7,0,0,1,2,0,3,0,3,0,EMPATE
+Atlético Mineiro,América Mineiro,18,0,8,0,5,0,0,0,0,3,0,6,6,0,2,0,13,0,1,0,EMPATE
+Athletico PR,Sport Recife,36,0,9,0,30,0,0,0,0,9,2,0,10,0,3,0,7,0,3,0,CASA
+Vasco da Gama,Cruzeiro,6,0,5,0,11,0,1,0,0,1,0,2,2,0,0,2,1,0,0,1,CASA
+Palmeiras,Grêmio,0,22,0,29,0,5,1,0,0,2,3,0,0,0,4,0,0,1,0,1,CASA
+Internacional,São Paulo,10,0,0,3,0,2,2,0,0,2,6,0,0,0,0,10,2,0,0,5,CASA
+Chapecoense,Vitória,16,0,36,0,20,0,5,0,0,4,3,0,0,2,14,0,4,0,0,5,FORA
+Bahia,Paraná,36,0,40,0,26,0,3,0,0,13,0,0,10,0,12,0,11,0,0,5,CASA
+Santos,Corinthians,0,2,0,7,17,0,0,2,0,3,1,0,1,0,9,0,3,0,0,1,CASA
+Flamengo,Fluminense,0,4,0,6,0,10,1,0,0,1,0,2,3,0,0,4,1,0,0,1,CASA
+Botafogo,Vasco da Gama,2,0,4,0,0,1,0,1,0,8,2,0,7,0,0,4,1,0,0,0,EMPATE
+Fluminense,Paraná,28,0,29,0,16,0,7,0,0,2,5,0,1,0,0,2,6,0,0,10,CASA
+Grêmio,Bahia,40,0,31,0,34,0,6,0,0,4,3,0,2,0,12,0,4,0,0,11,EMPATE
+São Paulo,Palmeiras,10,0,12,0,8,0,0,4,0,6,0,0,2,0,4,0,1,0,4,0,FORA
+Athletico PR,América Mineiro,18,0,10,0,13,0,5,0,0,5,0,4,2,0,3,0,4,0,0,2,CASA
+Chapecoense,Atlético Mineiro,0,18,1,0,0,1,0,5,0,3,0,2,0,1,1,0,0,4,5,0,CASA
+Vitória,Santos,20,0,15,0,7,0,10,0,0,6,1,0,5,0,0,0,6,0,0,8,FORA
+Corinthians,Flamengo,0,8,0,4,0,17,8,0,0,3,0,0,1,0,0,2,0,6,0,8,FORA
+Sport Recife,Internacional,0,8,0,15,0,11,0,3,2,0,0,0,0,0,3,0,4,0,3,0,CASA
+Paraná,Vasco da Gama,0,12,0,19,0,5,0,3,0,1,0,0,4,0,0,0,6,0,3,0,EMPATE
+Ceará,Chapecoense,0,2,4,0,3,0,4,0,1,0,0,0,2,0,1,0,0,3,0,3,CASA
+Atlético Mineiro,Sport Recife,22,0,20,0,21,0,0,4,0,0,5,0,5,0,12,0,0,0,2,0,CASA
+Botafogo,São Paulo,0,10,0,12,0,10,0,3,0,1,0,2,2,0,8,0,0,0,0,0,EMPATE
+Santos,Athletico PR,26,0,28,0,18,0,8,0,1,0,0,0,0,2,0,11,7,0,0,8,CASA
+Internacional,Vitória,30,0,34,0,33,0,0,4,0,6,3,0,2,0,0,1,7,0,2,0,CASA
+Palmeiras,Cruzeiro,6,0,0,2,11,0,1,0,0,7,1,0,6,0,1,0,5,0,0,3,CASA
+Bahia,Flamengo,0,12,0,29,0,7,2,0,3,0,0,1,2,0,0,14,1,0,0,3,EMPATE
+América Mineiro,Corinthians,0,20,0,4,0,9,0,2,3,0,0,5,0,3,0,16,0,4,4,0,EMPATE
+Fluminense,Grêmio,12,0,1,0,5,0,4,0,0,8,0,2,3,0,0,6,5,0,0,3,FORA
+Santos,Vasco da Gama,10,0,12,0,7,0,3,0,0,0,0,0,0,0,0,9,4,0,0,4,EMPATE
+Chapecoense,Fluminense,14,0,12,0,14,0,0,0,0,11,0,0,4,0,6,0,5,0,0,1,FORA
+Vasco da Gama,Bahia,18,0,16,0,9,0,0,2,0,5,0,0,0,2,13,0,0,4,0,1,CASA
+Cruzeiro,Santos,0,2,7,0,2,0,0,6,4,0,0,4,0,3,1,0,0,2,6,0,CASA
+Vitória,Botafogo,24,0,16,0,13,0,2,0,0,7,0,5,4,0,4,0,2,0,0,1,FORA
+Sport Recife,Palmeiras,0,4,0,0,7,0,0,6,0,3,1,0,3,0,0,3,0,0,4,0,FORA
+Athletico PR,Paraná,4,0,0,3,8,0,0,6,6,0,2,0,0,1,0,4,3,0,5,0,CASA
+Flamengo,Atlético Mineiro,0,2,0,3,0,4,0,13,0,0,0,3,0,0,0,3,0,2,11,0,CASA
+Corinthians,Internacional,0,0,0,3,0,7,0,2,4,0,5,0,0,2,0,6,0,1,3,0,EMPATE
+Grêmio,Ceará,20,0,13,0,14,0,0,4,0,12,7,0,7,0,0,5,17,0,3,0,CASA
+São Paulo,América Mineiro,16,0,6,0,30,0,0,4,0,4,1,0,5,0,2,0,4,0,4,0,EMPATE
+Chapecoense,Internacional,2,0,7,0,6,0,5,0,0,2,0,0,1,0,0,5,2,0,0,1,CASA
+Corinthians,Sport Recife,30,0,20,0,9,0,1,0,3,0,0,2,0,1,7,0,0,1,0,4,CASA
+Cruzeiro,Atlético Mineiro,0,8,2,0,10,0,0,3,0,2,1,0,0,0,0,5,3,0,3,0,EMPATE
+Athletico PR,Fluminense,2,0,0,5,9,0,0,5,0,2,1,0,0,2,7,0,2,0,2,0,CASA
+Bahia,Palmeiras,0,4,0,13,0,3,0,3,1,0,2,0,0,1,0,6,3,0,4,0,EMPATE
+Santos,São Paulo,0,2,0,4,2,0,0,4,0,10,3,0,2,0,13,0,0,0,0,1,EMPATE
+Botafogo,América Mineiro,10,0,9,0,17,0,9,0,0,0,3,0,2,0,0,4,4,0,0,4,CASA
+Vasco da Gama,Flamengo,0,22,0,6,0,17,0,5,3,0,0,1,0,7,0,9,0,7,6,0,EMPATE
+Ceará,Vitória,0,8,0,6,6,0,0,0,0,2,1,0,5,0,0,3,1,0,1,0,CASA
+Grêmio,Paraná,22,0,0,1,19,0,0,4,0,10,1,0,6,0,7,0,1,0,0,1,CASA
+Chapecoense,Athletico PR,4,0,6,0,12,0,0,3,0,0,0,1,2,0,5,0,4,0,1,0,CASA
+Atlético Mineiro,Athletico PR,0,6,0,15,0,10,0,2,2,0,0,0,0,0,1,0,0,0,0,1,CASA
+Paraná,Santos,0,6,0,6,0,1,3,0,0,1,4,0,3,0,3,0,1,0,0,3,FORA
+Vitória,Vasco da Gama,10,0,17,0,9,0,2,0,0,8,0,7,3,0,2,0,0,3,0,3,CASA
+América Mineiro,Ceará,10,0,9,0,6,0,0,7,0,2,0,2,0,2,0,6,0,1,5,0,EMPATE
+Fluminense,Botafogo,0,12,0,10,2,0,0,5,4,0,2,0,0,4,0,8,0,1,4,0,CASA
+Palmeiras,Corinthians,10,0,10,0,15,0,0,4,0,0,2,0,1,0,0,0,5,0,0,2,CASA
+Internacional,Grêmio,0,4,3,0,2,0,0,1,0,1,0,2,0,1,8,0,1,0,1,0,CASA
+Flamengo,Chapecoense,22,0,11,0,20,0,0,6,0,6,3,0,3,0,7,0,5,0,7,0,CASA
+São Paulo,Bahia,6,0,7,0,11,0,2,0,0,7,0,1,3,0,1,0,7,0,0,0,CASA
+Sport Recife,Cruzeiro,8,0,0,0,9,0,0,0,0,2,3,0,0,2,0,9,4,0,0,3,EMPATE
+América Mineiro,Vasco da Gama,0,16,0,8,0,7,0,8,3,0,2,0,0,0,0,15,0,1,8,0,CASA
+Santos,Grêmio,4,0,0,1,4,0,0,6,0,1,0,1,0,0,1,0,4,0,6,0,EMPATE
+Atlético Mineiro,São Paulo,0,16,0,9,0,13,3,0,4,0,0,3,0,2,0,17,0,7,0,1,CASA
+Internacional,Flamengo,0,16,0,7,0,6,1,0,5,0,0,2,0,4,8,0,1,0,0,1,CASA
+Paraná,Chapecoense,0,18,0,8,0,0,0,6,0,4,0,0,5,0,1,0,8,0,5,0,EMPATE
+Palmeiras,Athletico PR,0,2,16,0,8,0,1,0,1,0,1,0,1,0,5,0,0,0,0,3,CASA
+Ceará,Corinthians,0,20,0,23,0,12,0,0,0,1,4,0,2,0,0,3,3,0,1,0,CASA
+Bahia,Sport Recife,0,2,0,2,1,0,0,0,0,0,4,0,0,3,0,7,4,0,0,1,CASA
+Botafogo,Cruzeiro,0,4,0,13,0,4,4,0,0,3,5,0,0,0,2,0,3,0,0,3,EMPATE
+Cruzeiro,Internacional,8,0,27,0,6,0,0,6,0,2,2,0,4,0,6,0,3,0,1,0,EMPATE
+Chapecoense,Palmeiras,12,0,13,0,7,0,8,0,0,7,0,2,1,0,0,1,0,2,0,7,FORA
+Athletico PR,Bahia,16,0,0,3,17,0,0,6,0,8,5,0,5,0,14,0,2,0,4,0,CASA
+São Paulo,Fluminense,0,6,7,0,3,0,2,0,2,0,3,0,0,2,9,0,0,0,0,2,EMPATE
+Sport Recife,Paraná,4,0,0,6,0,6,0,4,3,0,5,0,0,2,0,2,8,0,6,0,CASA
+Flamengo,Ceará,24,0,26,0,29,0,0,4,0,7,6,0,8,0,11,0,11,0,3,0,FORA
+Corinthians,Atlético Mineiro,14,0,14,0,12,0,8,0,0,1,0,0,0,1,0,1,3,0,0,6,EMPATE
+Vasco da Gama,Santos,20,0,25,0,18,0,0,2,0,1,2,0,6,0,3,0,5,0,1,0,FORA
+Vitória,América Mineiro,10,0,8,0,11,0,0,8,0,6,5,0,4,0,0,19,2,0,10,0,CASA
+Grêmio,Botafogo,14,0,16,0,7,0,4,0,0,3,2,0,0,3,0,11,0,1,0,5,CASA
+Athletico PR,Vasco da Gama,10,0,0,8,10,0,0,2,5,0,0,2,0,6,5,0,3,0,3,0,CASA
+Ceará,Bahia,22,0,30,0,30,0,10,0,0,13,5,0,8,0,11,0,9,0,0,9,FORA
+Vasco da Gama,Chapecoense,4,0,1,0,0,2,3,0,3,0,0,0,1,0,0,0,2,0,0,2,CASA
+América Mineiro,Flamengo,0,4,13,0,4,0,0,2,0,8,0,4,5,0,14,0,0,3,2,0,EMPATE
+Vitória,Atlético Mineiro,0,14,0,14,0,9,0,7,5,0,0,2,0,4,0,13,2,0,4,0,CASA
+Internacional,Palmeiras,14,0,0,9,0,18,10,0,4,0,4,0,0,9,4,0,1,0,0,9,EMPATE
+São Paulo,Ceará,18,0,25,0,19,0,11,0,0,6,2,0,7,0,0,18,3,0,0,9,CASA
+Cruzeiro,Fluminense,0,6,12,0,14,0,0,5,0,8,0,1,3,0,0,4,1,0,5,0,CASA
+Botafogo,Sport Recife,0,8,0,6,0,15,0,13,2,0,3,0,6,0,12,0,7,0,8,0,CASA
+Athletico PR,Grêmio,6,0,4,0,5,0,0,0,0,2,4,0,3,0,0,7,7,0,1,0,CASA
+Corinthians,Paraná,2,0,12,0,8,0,1,0,0,0,2,0,1,0,9,0,1,0,0,1,CASA
+Santos,Bahia,0,8,0,13,0,0,0,7,2,0,0,2,0,4,0,8,2,0,8,0,CASA
+Atlético Mineiro,Vasco da Gama,36,0,32,0,22,0,0,1,0,11,1,0,7,0,18,0,11,0,0,0,EMPATE
+Flamengo,Vitória,30,0,8,0,14,0,0,0,2,0,4,0,3,0,0,1,3,0,1,0,CASA
+Fluminense,Corinthians,0,0,36,0,25,0,0,10,0,6,2,0,6,0,1,0,5,0,6,0,CASA
+Grêmio,Cruzeiro,40,0,38,0,36,0,2,0,0,7,0,0,3,0,17,0,4,0,0,3,EMPATE
+Sport Recife,América Mineiro,24,0,16,0,13,0,11,0,0,6,5,0,4,0,7,0,0,0,0,12,FORA
+Palmeiras,Botafogo,30,0,15,0,23,0,0,0,0,5,0,0,4,0,6,0,8,0,0,2,CASA
+Paraná,São Paulo,0,8,0,2,4,0,0,1,0,7,0,1,3,0,0,4,0,5,2,0,EMPATE
+Bahia,Internacional,20,0,28,0,30,0,4,0,0,8,0,2,4,0,8,0,0,2,0,3,FORA
+Vasco da Gama,Ceará,16,0,7,0,2,0,6,0,0,4,4,0,0,1,0,2,0,2,0,6,EMPATE
+América Mineiro,Fluminense,4,0,0,0,11,0,0,6,0,4,0,3,3,0,7,0,0,0,4,0,EMPATE
+São Paulo,Chapecoense,0,12,0,3,0,8,4,0,1,0,0,1,0,1,4,0,0,4,0,4,CASA
+Cruzeiro,Bahia,2,0,0,8,13,0,0,2,0,6,1,0,2,0,11,0,0,2,2,0,EMPATE
+Vitória,Palmeiras,2,0,2,0,4,0,0,7,4,0,0,5,0,2,7,0,0,0,5,0,FORA
+Botafogo,Atlético Mineiro,8,0,15,0,17,0,0,2,1,0,0,0,0,4,4,0,1,0,2,0,FORA
+Athletico PR,Flamengo,0,24,0,9,0,17,0,5,4,0,0,4,0,5,4,0,0,0,3,0,CASA
+Internacional,Paraná,40,0,23,0,32,0,0,1,0,6,5,0,0,1,5,0,12,0,0,0,CASA
+Corinthians,Grêmio,8,0,0,2,0,6,3,0,0,4,0,5,2,0,0,8,0,2,0,0,FORA
+Santos,Sport Recife,0,4,2,0,8,0,0,4,1,0,0,2,0,2,8,0,0,0,1,0,CASA
+Fluminense,Internacional,14,0,8,0,5,0,9,0,0,2,0,0,3,0,0,0,0,0,0,9,FORA
+Palmeiras,Vasco da Gama,8,0,15,0,29,0,0,2,0,2,3,0,0,1,0,4,2,0,0,0,CASA
+Grêmio,Vitória,4,0,10,0,14,0,0,1,1,0,0,1,0,1,1,0,0,0,0,2,CASA
+Chapecoense,Corinthians,0,10,0,7,1,0,2,0,0,5,0,1,3,0,5,0,2,0,0,1,CASA
+Flamengo,Cruzeiro,6,0,3,0,5,0,0,8,0,4,0,0,0,0,0,10,3,0,7,0,CASA
+Sport Recife,São Paulo,0,4,3,0,4,0,9,0,0,1,2,0,1,0,0,3,0,1,0,6,FORA
+Atlético Mineiro,Santos,0,16,0,0,5,0,0,9,0,2,0,1,2,0,0,0,0,1,9,0,CASA
+Paraná,Botafogo,2,0,17,0,22,0,1,0,0,11,0,3,5,0,4,0,0,0,0,1,EMPATE
+Bahia,América Mineiro,10,0,4,0,12,0,1,0,1,0,3,0,4,0,0,4,7,0,0,2,CASA
+Ceará,Athletico PR,0,2,0,0,8,0,0,0,4,0,3,0,0,2,9,0,0,6,0,2,EMPATE
+Ceará,Santos,4,0,1,0,11,0,3,0,0,7,6,0,8,0,2,0,5,0,0,2,EMPATE
+Atlético Mineiro,Internacional,14,0,12,0,10,0,2,0,0,7,0,0,3,0,0,1,4,0,0,1,FORA
+Fluminense,Bahia,0,0,0,12,0,3,6,0,5,0,1,0,0,2,4,0,0,2,0,7,EMPATE
+Sport Recife,Chapecoense,28,0,13,0,23,0,7,0,0,8,1,0,8,0,17,0,3,0,0,6,EMPATE
+Paraná,Ceará,32,0,6,0,16,0,12,0,0,8,9,0,8,0,13,0,11,0,0,8,FORA
+América Mineiro,Palmeiras,2,0,0,6,0,13,3,0,9,0,0,1,0,1,0,3,0,7,0,3,EMPATE
+Vitória,Cruzeiro,12,0,7,0,0,0,1,0,0,4,2,0,1,0,0,3,0,0,0,2,EMPATE
+São Paulo,Vasco da Gama,0,4,0,6,8,0,0,16,0,0,0,0,1,0,5,0,3,0,18,0,CASA
+Corinthians,Athletico PR,6,0,5,0,0,1,12,0,2,0,0,2,2,0,0,10,0,7,0,7,EMPATE
+Grêmio,Flamengo,0,22,0,15,0,5,0,4,0,0,0,0,0,0,2,0,2,0,5,0,CASA
+Botafogo,Santos,2,0,5,0,14,0,10,0,0,6,0,1,7,0,0,4,3,0,0,7,EMPATE
+Bahia,Atlético Mineiro,22,0,23,0,22,0,6,0,0,7,6,0,5,0,28,0,3,0,0,5,EMPATE
+Chapecoense,Grêmio,0,0,20,0,11,0,3,0,0,10,0,0,7,0,12,0,7,0,0,2,EMPATE
+Santos,América Mineiro,0,0,51,0,41,0,5,0,0,18,4,0,15,0,7,0,12,0,0,6,FORA
+Cruzeiro,São Paulo,0,0,16,0,28,0,0,2,0,6,3,0,6,0,13,0,2,0,1,0,FORA
+Athletico PR,Vitória,0,0,23,0,9,0,0,3,4,0,0,0,0,0,9,0,5,0,5,0,CASA
+Flamengo,Sport Recife,0,0,18,0,15,0,0,1,0,4,2,0,7,0,0,19,6,0,1,0,CASA
+Internacional,Botafogo,0,0,0,3,2,0,1,0,3,0,3,0,0,0,7,0,1,0,0,1,CASA
+Vasco da Gama,Corinthians,0,0,7,0,11,0,0,4,0,3,2,0,7,0,0,10,3,0,7,0,FORA
+Palmeiras,Paraná,0,0,18,0,29,0,0,5,0,6,6,0,3,0,1,0,4,0,5,0,CASA
+Ceará,Fluminense,0,0,1,0,9,0,0,12,0,1,1,0,0,2,6,0,6,0,10,0,CASA
+América Mineiro,Internacional,0,0,0,13,0,23,0,0,10,0,0,3,0,3,2,0,0,8,2,0,CASA
+Vitória,Sport Recife,0,0,0,1,3,0,0,3,3,0,1,0,2,0,3,0,0,2,3,0,CASA
+Botafogo,Chapecoense,0,0,1,0,6,0,0,4,2,0,3,0,0,2,0,0,0,2,4,0,CASA
+Grêmio,São Paulo,0,0,15,0,18,0,0,6,0,3,0,1,4,0,0,1,6,0,3,0,CASA
+Santos,Flamengo,0,0,7,0,2,0,0,4,0,2,0,3,1,0,0,4,2,0,4,0,EMPATE
+Corinthians,Cruzeiro,0,0,0,17,0,11,4,0,0,0,0,3,0,1,0,3,0,1,0,1,CASA
+Atlético Mineiro,Paraná,0,0,2,0,0,4,0,0,4,0,0,6,0,5,0,7,0,2,0,0,CASA
+Fluminense,Palmeiras,0,0,0,5,0,6,0,3,6,0,0,2,0,1,1,0,0,1,2,0,CASA
+Internacional,Ceará,0,0,24,0,28,0,2,0,0,4,0,2,0,1,10,0,4,0,0,2,CASA
+Cruzeiro,Athletico PR,0,0,19,0,14,0,7,0,0,2,5,0,3,0,3,0,6,0,0,8,CASA
+Chapecoense,Santos,0,0,14,0,23,0,4,0,0,3,1,0,1,0,6,0,12,0,0,2,EMPATE
+Paraná,América Mineiro,0,0,7,0,2,0,0,16,0,1,4,0,0,3,3,0,0,0,13,0,CASA
+Bahia,Vitória,0,0,12,0,5,0,5,0,0,4,0,1,1,0,5,0,0,2,0,7,CASA
+Vasco da Gama,Grêmio,0,0,0,25,0,20,7,0,7,0,0,4,0,4,0,3,0,2,0,5,CASA
+Sport Recife,Fluminense,0,0,16,0,9,0,5,0,0,7,1,0,2,0,14,0,7,0,0,6,FORA
+Palmeiras,Atlético Mineiro,0,0,0,0,4,0,0,3,0,4,0,4,1,0,2,0,0,5,3,0,CASA
+São Paulo,Corinthians,0,0,19,0,5,0,11,0,0,0,3,0,0,1,3,0,3,0,0,12,CASA
+Flamengo,Botafogo,0,0,0,8,0,13,1,0,4,0,0,2,0,8,0,7,0,5,0,0,CASA
+Athletico PR,Internacional,0,0,0,1,10,0,4,0,0,8,4,0,2,0,0,9,0,2,0,5,EMPATE
+Vasco da Gama,Fluminense,0,0,10,0,3,0,3,0,0,6,0,5,8,0,0,3,0,2,0,3,EMPATE
+Santos,Palmeiras,0,0,2,0,9,0,0,1,0,9,0,1,6,0,5,0,6,0,0,0,EMPATE
+Cruzeiro,América Mineiro,0,0,11,0,20,0,0,5,4,0,2,0,0,0,4,0,0,2,4,0,CASA
+Chapecoense,Bahia,0,0,2,0,0,4,5,0,1,0,0,2,0,4,0,8,2,0,0,5,EMPATE
+Flamengo,São Paulo,0,0,37,0,30,0,6,0,0,0,11,0,0,1,5,0,4,0,0,3,FORA
+Corinthians,Botafogo,0,0,0,4,0,17,0,5,4,0,0,9,0,6,0,29,0,7,5,0,CASA
+Grêmio,Atlético Mineiro,0,0,24,0,25,0,9,0,0,8,4,0,9,0,1,0,3,0,0,9,CASA
+Vitória,Paraná,0,0,9,0,12,0,1,0,0,6,2,0,1,0,5,0,0,0,1,0,CASA
+Ceará,Sport Recife,0,0,0,13,0,10,0,2,0,3,0,1,3,0,0,4,1,0,4,0,CASA
+Atlético Mineiro,Ceará,26,0,21,0,21,0,1,0,0,9,2,0,6,0,11,0,3,0,0,0,CASA
+Bahia,Corinthians,0,4,3,0,6,0,0,7,0,2,10,0,0,1,0,1,0,1,8,0,CASA
+Internacional,Vasco da Gama,8,0,24,0,20,0,0,4,0,5,0,1,3,0,10,0,0,3,1,0,CASA
+Botafogo,Athletico PR,0,12,1,0,2,0,0,2,0,0,2,0,0,0,0,2,0,1,2,0,CASA
+Palmeiras,Flamengo,6,0,6,0,0,3,0,3,0,5,0,3,4,0,10,0,0,2,4,0,EMPATE
+Paraná,Cruzeiro,0,14,0,9,0,15,4,0,6,0,0,1,0,0,0,0,0,1,0,2,EMPATE
+Sport Recife,Grêmio,2,0,18,0,11,0,2,0,0,3,0,2,2,0,0,0,2,0,1,0,EMPATE
+Fluminense,Santos,2,0,0,3,0,1,0,2,4,0,0,0,2,0,0,4,0,5,4,0,FORA
+América Mineiro,Chapecoense,4,0,2,0,0,2,1,0,0,0,1,0,0,1,10,0,0,5,0,4,EMPATE
+São Paulo,Vitória,14,0,5,0,13,0,0,12,0,4,0,3,7,0,0,3,5,0,8,0,CASA
+Flamengo,Paraná,14,0,5,0,7,0,0,1,1,0,3,0,0,3,8,0,4,0,1,0,CASA
+Santos,Internacional,16,0,12,0,5,0,10,0,0,1,2,0,0,3,15,0,5,0,0,10,FORA
+Atlético Mineiro,Fluminense,0,4,0,1,8,0,0,8,7,0,2,0,0,3,2,0,0,3,4,0,CASA
+Bahia,Botafogo,26,0,28,0,29,0,0,19,0,4,5,0,0,1,5,0,12,0,16,0,EMPATE
+Ceará,Palmeiras,0,12,0,15,2,0,0,1,0,0,3,0,3,0,2,0,0,0,2,0,EMPATE
+Grêmio,América Mineiro,22,0,12,0,11,0,0,3,1,0,1,0,0,3,0,12,3,0,3,0,CASA
+Corinthians,Vitória,18,0,11,0,7,0,1,0,2,0,0,2,0,0,17,0,4,0,0,4,EMPATE
+Chapecoense,Cruzeiro,0,6,0,3,0,3,0,4,0,1,2,0,0,2,16,0,0,3,5,0,CASA
+Vasco da Gama,Sport Recife,0,18,0,21,0,4,0,16,5,0,2,0,1,0,0,1,0,1,19,0,CASA
+Athletico PR,São Paulo,12,0,0,0,5,0,6,0,2,0,4,0,0,2,7,0,2,0,0,4,FORA
+América Mineiro,Atlético Mineiro,6,0,9,0,23,0,0,8,0,5,0,0,3,0,8,0,5,0,6,0,FORA
+Paraná,Bahia,0,8,0,3,0,16,2,0,0,4,0,4,3,0,3,0,0,3,0,2,CASA
+Fluminense,Flamengo,2,0,9,0,11,0,0,5,0,3,0,2,3,0,0,2,3,0,6,0,FORA
+Cruzeiro,Vasco da Gama,32,0,17,0,26,0,7,0,0,9,4,0,11,0,0,0,11,0,0,6,EMPATE
+Grêmio,Palmeiras,0,2,0,4,3,0,19,0,0,4,8,0,1,0,0,10,0,2,0,18,FORA
+Sport Recife,Athletico PR,0,28,0,17,0,15,10,0,0,7,0,2,6,0,0,6,0,5,0,6,CASA
+Corinthians,Santos,0,6,2,0,5,0,4,0,6,0,0,1,0,2,0,4,0,3,0,4,EMPATE
+Vitória,Chapecoense,0,0,0,0,3,0,0,6,0,0,3,0,0,0,0,7,0,2,4,0,CASA
+Botafogo,Ceará,14,0,7,0,7,0,0,0,0,6,1,0,3,0,5,0,0,0,0,0,EMPATE
+São Paulo,Internacional,8,0,10,0,17,0,0,21,0,0,0,0,0,3,10,0,3,0,21,0,EMPATE
+Paraná,Fluminense,0,8,0,5,0,9,2,0,0,2,0,1,1,0,0,2,0,3,0,1,CASA
+América Mineiro,Athletico PR,0,8,0,1,0,0,9,0,1,0,4,0,3,0,0,0,4,0,0,5,CASA
+Bahia,Grêmio,18,0,17,0,15,0,3,0,0,5,0,0,6,0,10,0,4,0,1,0,FORA
+Flamengo,Corinthians,6,0,18,0,2,0,2,0,0,2,1,0,3,0,2,0,1,0,0,2,CASA
+Santos,Vitória,4,0,21,0,17,0,0,0,0,8,3,0,2,0,0,5,0,3,0,5,CASA
+Palmeiras,São Paulo,2,0,4,0,8,0,0,0,7,0,0,2,0,3,0,11,0,4,0,3,CASA
+Vasco da Gama,Botafogo,30,0,33,0,29,0,3,0,0,13,0,0,4,0,7,0,0,3,0,3,FORA
+Atlético Mineiro,Chapecoense,22,0,12,0,22,0,10,0,0,11,3,0,10,0,2,0,3,0,0,1,EMPATE
+Internacional,Sport Recife,18,0,3,0,9,0,1,0,0,10,1,0,3,0,9,0,11,0,0,2,EMPATE
+Athletico PR,Santos,0,8,0,2,0,15,0,10,11,0,2,0,0,7,6,0,0,3,9,0,CASA
+Corinthians,América Mineiro,6,0,10,0,18,0,0,1,2,0,0,4,0,1,5,0,0,3,0,0,CASA
+Flamengo,Bahia,12,0,0,7,0,3,0,2,0,0,0,4,0,1,0,4,0,1,2,0,CASA
+Cruzeiro,Palmeiras,0,8,0,2,8,0,0,10,0,1,0,1,4,0,6,0,0,0,8,0,CASA
+Grêmio,Fluminense,30,0,27,0,41,0,0,8,0,10,5,0,8,0,9,0,8,0,8,0,EMPATE
+Chapecoense,Ceará,6,0,19,0,21,0,0,2,0,11,0,1,7,0,2,0,7,0,1,0,CASA
+São Paulo,Botafogo,0,6,0,10,0,18,0,6,6,0,2,0,0,3,0,9,0,0,6,0,CASA
+Vitória,Internacional,0,0,0,1,8,0,0,1,0,8,2,0,7,0,0,12,6,0,0,0,FORA
+Vasco da Gama,Paraná,0,6,7,0,13,0,0,2,0,5,1,0,5,0,7,0,2,0,5,0,CASA
+Sport Recife,Atlético Mineiro,0,8,3,0,8,0,0,3,0,2,0,2,0,1,0,1,0,2,5,0,CASA
+América Mineiro,São Paulo,0,4,4,0,5,0,0,0,0,3,0,0,0,1,0,1,2,0,3,0,FORA
+Ceará,Grêmio,0,18,0,27,0,25,0,3,0,3,0,2,4,0,0,4,3,0,2,0,FORA
+Bahia,Vasco da Gama,12,0,3,0,3,0,0,5,0,1,3,0,2,0,0,3,2,0,3,0,CASA
+Botafogo,Vitória,14,0,4,0,15,0,4,0,0,2,3,0,2,0,3,0,5,0,0,8,EMPATE
+Santos,Cruzeiro,2,0,5,0,5,0,1,0,4,0,2,0,0,2,4,0,0,2,0,1,FORA
+Internacional,Corinthians,18,0,30,0,27,0,0,5,0,11,6,0,6,0,0,5,10,0,3,0,CASA
+Paraná,Athletico PR,0,16,0,4,0,7,6,0,5,0,4,0,2,0,0,4,6,0,0,6,EMPATE
+Atlético Mineiro,Flamengo,36,0,20,0,22,0,2,0,0,5,2,0,5,0,21,0,13,0,2,0,FORA
+Palmeiras,Sport Recife,24,0,25,0,23,0,0,11,0,11,0,3,3,0,9,0,6,0,7,0,FORA
+Fluminense,Chapecoense,0,20,0,11,0,16,0,7,0,0,0,4,0,0,0,12,0,5,7,0,CASA
+Internacional,Chapecoense,4,0,5,0,15,0,0,1,0,1,0,0,2,0,0,1,0,0,0,0,CASA
+Fluminense,Athletico PR,0,26,0,32,0,25,2,0,10,0,1,0,0,4,4,0,0,3,0,3,CASA
+Paraná,Grêmio,0,38,0,8,0,23,3,0,0,0,0,1,0,1,3,0,0,8,0,1,EMPATE
+América Mineiro,Botafogo,0,12,0,4,3,0,0,5,0,0,1,0,0,1,0,7,3,0,9,0,CASA
+São Paulo,Santos,0,14,0,0,6,0,0,8,0,1,0,3,6,0,0,16,2,0,6,0,CASA
+Sport Recife,Corinthians,0,8,5,0,11,0,0,3,0,4,3,0,5,0,1,0,0,2,5,0,EMPATE
+Vitória,Ceará,0,6,0,11,0,9,5,0,0,0,0,4,2,0,0,6,3,0,0,5,CASA
+Palmeiras,Bahia,8,0,17,0,15,0,0,8,0,3,0,2,0,0,0,0,1,0,4,0,CASA
+Flamengo,Vasco da Gama,16,0,14,0,10,0,6,0,0,3,0,5,0,2,9,0,0,5,0,9,EMPATE
+Atlético Mineiro,Cruzeiro,20,0,11,0,16,0,5,0,0,2,4,0,0,0,0,4,0,3,0,4,CASA
+Botafogo,Fluminense,0,22,0,10,0,10,0,1,4,0,0,3,0,6,0,3,0,4,0,0,CASA
+Ceará,América Mineiro,20,0,27,0,25,0,2,0,0,8,7,0,5,0,15,0,6,0,0,2,EMPATE
+Santos,Paraná,10,0,6,0,0,3,0,1,3,0,0,1,0,6,1,0,1,0,0,2,CASA
+Athletico PR,Atlético Mineiro,20,0,5,0,0,5,0,0,4,0,0,5,0,2,0,1,0,4,0,1,FORA
+Chapecoense,Flamengo,0,10,0,15,0,11,1,0,2,0,0,3,0,2,0,4,0,4,1,0,CASA
+Bahia,São Paulo,0,8,0,2,0,5,0,8,0,2,0,1,0,1,0,9,0,0,7,0,EMPATE
+Vasco da Gama,Vitória,30,0,11,0,19,0,1,0,0,4,4,0,5,0,7,0,5,0,0,2,FORA
+Corinthians,Palmeiras,2,0,0,12,0,4,7,0,2,0,0,0,2,0,5,0,7,0,0,5,CASA
+Cruzeiro,Sport Recife,18,0,17,0,11,0,0,4,0,7,0,3,3,0,0,0,3,0,1,0,CASA
+Grêmio,Internacional,42,0,34,0,33,0,11,0,0,9,0,0,10,0,4,0,10,0,0,11,EMPATE
+Chapecoense,Paraná,0,10,0,14,0,13,7,0,3,0,0,1,0,3,0,20,2,0,0,6,EMPATE
+Sport Recife,Bahia,0,4,6,0,9,0,3,0,0,2,6,0,5,0,0,3,2,0,0,4,CASA
+Grêmio,Santos,24,0,36,0,31,0,7,0,0,6,2,0,2,0,0,6,7,0,0,7,CASA
+Cruzeiro,Botafogo,6,0,4,0,15,0,0,11,0,3,5,0,5,0,8,0,2,0,6,0,CASA
+Athletico PR,Palmeiras,12,0,0,3,9,0,3,0,0,3,2,0,0,4,3,0,0,3,0,5,FORA
+Vitória,Fluminense,0,24,0,6,0,11,0,14,6,0,0,2,0,5,0,14,0,6,11,0,FORA
+Flamengo,Internacional,12,0,14,0,9,0,2,0,0,2,0,2,2,0,5,0,0,0,0,1,CASA
+Corinthians,Ceará,22,0,33,0,24,0,10,0,0,12,1,0,6,0,11,0,10,0,0,9,EMPATE
+Vasco da Gama,América Mineiro,22,0,16,0,17,0,5,0,0,4,2,0,4,0,5,0,0,0,0,9,CASA
+São Paulo,Atlético Mineiro,0,10,2,0,3,0,0,2,6,0,0,3,0,0,0,2,0,1,3,0,EMPATE
+América Mineiro,Vitória,0,18,0,0,0,9,0,0,0,0,4,0,0,1,0,16,1,0,3,0,CASA
+Internacional,Cruzeiro,26,0,6,0,19,0,0,5,0,1,8,0,4,0,6,0,14,0,1,0,EMPATE
+Atlético Mineiro,Corinthians,14,0,22,0,26,0,0,13,0,6,3,0,4,0,3,0,10,0,11,0,CASA
+Paraná,Sport Recife,34,0,5,0,19,0,2,0,0,5,9,0,3,0,17,0,7,0,0,1,FORA
+Bahia,Athletico PR,0,14,0,2,10,0,0,12,0,5,6,0,6,0,4,0,6,0,11,0,EMPATE
+Fluminense,São Paulo,14,0,11,0,0,0,0,3,2,0,2,0,0,2,0,1,0,1,0,0,EMPATE
+Ceará,Flamengo,0,10,0,7,0,9,0,2,2,0,0,6,0,2,1,0,0,3,3,0,FORA
+Palmeiras,Chapecoense,44,0,33,0,27,0,0,2,0,8,5,0,3,0,13,0,13,0,3,0,EMPATE
+Botafogo,Grêmio,16,0,3,0,2,0,0,0,0,1,4,0,2,0,0,2,6,0,2,0,CASA
+Sport Recife,Botafogo,8,0,14,0,8,0,0,1,0,1,10,0,0,2,6,0,3,0,0,1,EMPATE
+Grêmio,Athletico PR,8,0,19,0,25,0,4,0,0,6,8,0,7,0,0,3,3,0,0,6,EMPATE
+Atlético Mineiro,Vitória,18,0,7,0,12,0,0,8,4,0,0,3,0,3,4,0,1,0,3,0,CASA
+Chapecoense,Vasco da Gama,0,16,0,8,0,16,0,5,0,5,0,6,0,0,0,2,0,0,5,0,EMPATE
+Fluminense,Cruzeiro,0,28,0,18,0,27,9,0,5,0,0,4,0,5,2,0,0,6,0,6,CASA
+Ceará,São Paulo,10,0,5,0,10,0,0,5,1,0,0,0,0,4,14,0,0,0,5,0,EMPATE
+Palmeiras,Internacional,0,10,1,0,1,0,3,0,0,6,0,0,4,0,0,5,0,1,0,1,CASA
+Paraná,Corinthians,14,0,4,0,14,0,0,1,0,8,8,0,2,0,13,0,3,0,0,0,FORA
+Flamengo,América Mineiro,4,0,0,7,0,6,0,0,3,0,0,4,2,0,0,19,0,6,0,1,CASA
+Bahia,Santos,0,0,21,0,15,0,0,5,0,2,1,0,2,0,1,0,1,0,6,0,CASA
+Botafogo,Palmeiras,0,4,0,9,0,10,16,0,0,4,0,0,5,0,0,4,5,0,0,16,EMPATE
+São Paulo,Paraná,10,0,26,0,29,0,0,5,0,2,4,0,0,3,0,3,0,0,4,0,CASA
+Athletico PR,Chapecoense,28,0,4,0,8,0,4,0,0,0,4,0,0,1,1,0,0,6,0,6,CASA
+Vasco da Gama,Atlético Mineiro,34,0,20,0,17,0,6,0,0,2,1,0,1,0,9,0,6,0,0,7,CASA
+Corinthians,Fluminense,24,0,5,0,1,0,1,0,0,2,0,5,0,1,0,4,4,0,0,1,CASA
+Internacional,Bahia,0,12,0,11,0,10,3,0,0,2,0,0,1,0,0,9,1,0,0,3,CASA
+América Mineiro,Sport Recife,0,22,0,3,0,11,0,1,1,0,0,3,2,0,0,7,0,4,0,0,CASA
+Santos,Ceará,4,0,16,0,17,0,0,4,0,9,0,1,9,0,0,0,2,0,3,0,CASA
+Vitória,Flamengo,26,0,10,0,11,0,0,14,0,7,0,1,6,0,0,1,0,1,14,0,EMPATE
+Cruzeiro,Grêmio,0,16,0,3,14,0,0,3,0,2,5,0,3,0,1,0,3,0,5,0,FORA

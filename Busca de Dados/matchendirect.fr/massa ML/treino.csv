@@ -1,0 +1,964 @@
+"CONFRONTO_CASA","CONFRONTO_FORA","posse_casa","posse_fora","ataques_casa","ataques_fora","ataques_perigosos_casa","ataques_perigosos_fora","ResultFT"
+Grêmio,Atlético GO,"44","56","80","72","32","33",CASA
+Athletico PR,Vasco da Gama,"53","47","68","67","33","29",CASA
+Palmeiras,Bragantino,"42","58","64","94","34","56",CASA
+Santos,Ceará,"65","35","87","72","40","36",EMPATE
+Botafogo,Corinthians,"47","53","75","73","47","55",FORA
+Bahia,Internacional,"49","51","56","62","30","33",FORA
+Fluminense,São Paulo,"46","54","71","79","37","51",FORA
+Fortaleza,Flamengo,"41","59","50","60","25","30",EMPATE
+Goiás,Sport Recife,"40","60","77","88","29","40",CASA
+Atlético Mineiro,Coritiba,"66","34","90","60","54","33",CASA
+Corinthians,Goiás,"59","41","99","85","55","48",CASA
+Fortaleza,Ceará,"51","49","53","53","30","12",FORA
+Flamengo,Bahia,"46","54","69","61","29","29",CASA
+Vasco da Gama,Santos,"33","67","49","73","19","37",CASA
+Bragantino,Athletico PR,"59","41","95","68","51","17",FORA
+Coritiba,Botafogo,"42","58","65","77","29","33",FORA
+Internacional,Palmeiras,"43","57","79","92","28","52",CASA
+Sport Recife,Grêmio,"40","60","70","78","27","35",EMPATE
+Atlético GO,Fluminense,"48","52","79","78","34","28",CASA
+São Paulo,Atlético Mineiro,"49","51","94","87","54","46",CASA
+Vasco da Gama,Fluminense,"48","52","58","53","33","21",EMPATE
+Corinthians,São Paulo,"40","60","67","80","35","42",CASA
+Sport Recife,Coritiba,"55","45","87","78","40","33",CASA
+Flamengo,Santos,"56","44","81","56","52","28",CASA
+Goiás,Grêmio,"34","66","73","85","23","40",EMPATE
+Ceará,Atlético GO,"38","62","64","74","24","32",FORA
+Internacional,Botafogo,"50","50","87","84","27","28",CASA
+Palmeiras,Bahia,"58","42","68","51","28","30",CASA
+Athletico PR,Atlético Mineiro,"47","53","75","86","34","41",FORA
+Bragantino,Fortaleza,"48","52","94","83","58","48",CASA
+São Paulo,Botafogo,"65","35","65","79","46","23",CASA
+Atlético GO,Goiás,"63","37","75","65","36","23",FORA
+Atlético Mineiro,Internacional,"55","45","77","70","27","26",EMPATE
+Grêmio,Vasco da Gama,"55","45","86","70","38","28",CASA
+São Paulo,Sport Recife,"64","36","98","80","51","30",CASA
+Coritiba,Bragantino,"43","57","81","101","30","54",EMPATE
+Fluminense,Athletico PR,"67","33","73","56","41","23",CASA
+Bahia,Ceará,"54","46","81","68","30","36",FORA
+Botafogo,Flamengo,"40","60","63","67","30","43",FORA
+Santos,Palmeiras,"56","44","70","62","50","36",EMPATE
+Goiás,São Paulo,"36","64","51","73","21","34",FORA
+Fortaleza,Corinthians,"42","58","62","62","31","23",EMPATE
+Fluminense,Bragantino,"49","51","60","96","28","48",EMPATE
+Grêmio,Goiás,"65","35","89","58","42","17",CASA
+Vasco da Gama,Ceará,"66","34","78","48","37","25",FORA
+Atlético GO,Internacional,"47","53","76","79","35","34",EMPATE
+Bahia,São Paulo,"38","62","45","62","28","30",FORA
+Santos,Sport Recife,"58","42","75","65","40","40",CASA
+Palmeiras,Athletico PR,"58","42","101","66","49","23",CASA
+Fortaleza,Goiás,"59","41","73","64","36","17",EMPATE
+Atlético Mineiro,Botafogo,"59","41","90","71","39","27",CASA
+Coritiba,Corinthians,"50","50","84","83","42","33",FORA
+Ceará,São Paulo,"39","61","69","58","25","24",EMPATE
+Sport Recife,Atlético GO,"54","46","78","68","41","34",FORA
+Corinthians,Grêmio,"34","66","79","106","41","57",EMPATE
+Internacional,Fluminense,"54","46","84","74","31","22",FORA
+Botafogo,Fortaleza,"62","38","66","51","51","27",FORA
+São Paulo,Vasco da Gama,"65","35","93","77","50","26",EMPATE
+Ceará,Atlético Mineiro,"46","54","61","67","27","31",EMPATE
+Goiás,Palmeiras,"55","45","90","96","44","34",CASA
+Athletico PR,Santos,"61","39","98","67","45","25",CASA
+Flamengo,Coritiba,"57","43","83","70","47","29",CASA
+Bragantino,Bahia,"49","51","89","77","31","30",CASA
+Vasco da Gama,Fortaleza,"48","52","72","68","47","44",EMPATE
+Atlético Mineiro,Athletico PR,"64","36","93","68","47","38",FORA
+Botafogo,Bragantino,"55","45","76","63","47","40",FORA
+Coritiba,Bahia,"52","48","77","87","35","39",FORA
+Palmeiras,Fluminense,"47","53","92","88","40","40",CASA
+Flamengo,Atlético GO,"62","38","74","67","45","38",EMPATE
+Fortaleza,São Paulo,"49","51","63","69","17","33",FORA
+Corinthians,Atlético Mineiro,"35","65","72","112","32","53",FORA
+Grêmio,Ceará,"57","43","108","80","34","34",CASA
+Goiás,Athletico PR,"50","50","87","71","35","36",FORA
+Sport Recife,Vasco da Gama,"55","45","86","89","38","31",FORA
+Santos,Internacional,"45","55","73","88","48","46",CASA
+Bahia,Fortaleza,"37","63","57","88","26","42",CASA
+Fluminense,Grêmio,"59","41","86","85","41","40",FORA
+Ceará,Sport Recife,"56","44","83","63","40","15",EMPATE
+Atlético Mineiro,Flamengo,"32","68","71","97","31","42",CASA
+Bahia,Botafogo,"59","41","63","62","39","25",CASA
+Bragantino,Santos,"53","47","94","77","32","24",EMPATE
+Vasco da Gama,Palmeiras,"40","60","77","88","38","62",FORA
+Internacional,Coritiba,"62","38","102","64","40","28",EMPATE
+Atlético GO,Corinthians,"48","52","83","84","40","33",EMPATE
+São Paulo,Goiás,"65","35","76","66","45","26",CASA
+Athletico PR,Fortaleza,"61","39","81","78","40","28",CASA
+Grêmio,Bragantino,"52","48","100","86","33","32",CASA
+Palmeiras,Atlético Mineiro,"37","63","77","88","35","45",CASA
+Goiás,Vasco da Gama,"45","55","70","89","33","36",EMPATE
+Santos,Bahia,"49","51","72","64","44","46",CASA
+Flamengo,São Paulo,"59","41","79","63","53","40",FORA
+Sport Recife,Athletico PR,"41","59","92","91","31","40",CASA
+Fortaleza,Fluminense,"41","59","44","81","9","23",FORA
+Corinthians,Internacional,"36","64","79","106","29","40",CASA
+Coritiba,Atlético GO,"36","64","57","80","23","41",CASA
+Botafogo,Ceará,"59","41","77","72","50","42",EMPATE
+Vasco da Gama,Corinthians,"61","39","68","56","39","34",FORA
+Botafogo,Goiás,"61","39","89","58","70","32",EMPATE
+Bahia,Atlético Mineiro,"30","70","60","89","31","59",CASA
+Bragantino,Sport Recife,"54","46","103","86","47","23",CASA
+Fortaleza,Palmeiras,"51","49","61","67","17","32",CASA
+Internacional,Vasco da Gama,"56","44","84","75","32","26",CASA
+Corinthians,Flamengo,"43","57","78","96","39","43",FORA
+São Paulo,Grêmio,"53","47","72","72","33","33",EMPATE
+Fluminense,Ceará,"55","45","90","88","46","51",EMPATE
+Coritiba,Santos,"52","48","82","68","39","34",FORA
+Atlético GO,Athletico PR,"42","58","78","80","25","46",EMPATE
+Goiás,Bahia,"47","53","95","87","23","44",EMPATE
+Flamengo,Bragantino,"63","37","101","85","60","42",EMPATE
+Atlético Mineiro,Fluminense,"62","38","79","55","47","29",EMPATE
+Sport Recife,Internacional,"46","54","78","106","27","37",FORA
+Athletico PR,Corinthians,"62","38","107","77","49","31",FORA
+Santos,Atlético GO,"53","47","72","64","48","42",FORA
+Grêmio,Botafogo,"51","49","85","74","29","37",CASA
+Palmeiras,Coritiba,"54","46","97","71","44","31",FORA
+Flamengo,Goiás,"63","37","96","68","65","31",CASA
+Internacional,Athletico PR,"47","53","94","97","26","37",CASA
+Ceará,Corinthians,"47","53","62","57","27","23",CASA
+Sport Recife,Botafogo,"52","48","96","72","38","24",FORA
+Atlético GO,Bragantino,"54","46","80","75","41","36",CASA
+Fluminense,Bahia,"50","50","86","84","45","43",CASA
+Santos,Grêmio,"53","47","73","63","43","45",CASA
+Atlético Mineiro,Goiás,"67","33","97","73","60","25",CASA
+Palmeiras,São Paulo,"47","53","79","77","42","37",FORA
+Coritiba,Fortaleza,"44","56","70","84","35","28",EMPATE
+Vasco da Gama,Flamengo,"43","57","54","71","25","43",FORA
+Bragantino,Internacional,"51","49","82","88","28","24",FORA
+Athletico PR,Ceará,"58","42","86","76","43","35",EMPATE
+Botafogo,Palmeiras,"39","61","73","87","45","56",CASA
+Fortaleza,Atlético Mineiro,"36","64","49","69","19","41",CASA
+São Paulo,Atlético GO,"49","51","64","92","35","38",CASA
+Goiás,Fluminense,"48","52","79","90","29","37",FORA
+Flamengo,Sport Recife,"60","40","83","63","53","29",CASA
+Grêmio,Coritiba,"46","54","81","75","30","38",CASA
+Bahia,Vasco da Gama,"45","55","77","83","36","39",CASA
+Corinthians,Santos,"58","42","106","85","51","30",EMPATE
+Atlético Mineiro,Vasco da Gama,"58","42","72","60","51","23",CASA
+Bahia,Sport Recife,"62","38","76","62","47","25",FORA
+Fortaleza,Atlético GO,"56","44","67","57","28","26",EMPATE
+Goiás,Santos,"52","48","77","65","35","26",FORA
+Flamengo,Athletico PR,"47","53","76","79","51","42",CASA
+Coritiba,São Paulo,"31","69","59","88","19","54",EMPATE
+Botafogo,Fluminense,"54","46","79","64","49","35",EMPATE
+Bragantino,Corinthians,"47","53","89","80","34","35",EMPATE
+Palmeiras,Ceará,"60","40","79","81","42","34",CASA
+Grêmio,Internacional,"49","51","63","76","26","30",EMPATE
+Botafogo,Bahia,"60","40","85","64","55","37",FORA
+Corinthians,Atlético GO,"46","54","79","87","34","53",EMPATE
+Fluminense,Coritiba,"46","54","76","93","40","42",CASA
+Santos,Fortaleza,"52","48","67","74","42","37",EMPATE
+Ceará,Goiás,"58","42","65","45","35","21",EMPATE
+Atlético GO,Botafogo,"49","51","71","78","39","34",EMPATE
+Palmeiras,Flamengo,"54","46","69","76","51","31",EMPATE
+Vasco da Gama,Bragantino,"55","45","81","58","40","29",EMPATE
+Atlético Mineiro,Grêmio,"56","44","72","71","37","19",CASA
+Internacional,São Paulo,"42","58","99","78","31","35",EMPATE
+Athletico PR,Bahia,"49","51","97","83","33","34",CASA
+Sport Recife,Corinthians,"45","55","91","89","26","41",CASA
+Sport Recife,Fluminense,"32","68","61","143","19","52",CASA
+Botafogo,Santos,"47","53","74","76","42","52",EMPATE
+Grêmio,Palmeiras,"62","38","93","77","44","31",EMPATE
+Coritiba,Vasco da Gama,"54","46","81","72","31","33",CASA
+Atlético GO,Atlético Mineiro,"44","56","80","95","43","44",FORA
+Bragantino,Ceará,"40","60","81","94","35","32",CASA
+Fortaleza,Internacional,"38","62","47","79","20","35",CASA
+Corinthians,Bahia,"34","66","62","74","19","47",CASA
+Botafogo,Vasco da Gama,"53","47","69","72","48","41",FORA
+Palmeiras,Sport Recife,"60","40","94","77","49","20",EMPATE
+Atlético Mineiro,Bragantino,"62","38","85","62","39","21",CASA
+Bahia,Atlético GO,"47","53","70","68","38","42",FORA
+Ceará,Flamengo,"41","59","55","64","24","42",CASA
+Goiás,Internacional,"21","79","44","73","10","55",CASA
+Fluminense,Corinthians,"51","49","75","60","34","27",CASA
+Grêmio,Fortaleza,"59","41","73","81","38","23",EMPATE
+Santos,São Paulo,"54","46","93","84","55","60",EMPATE
+Athletico PR,Coritiba,"48","52","78","85","40","35",CASA
+Vasco da Gama,Atlético GO,"54","46","62","64","33","36",FORA
+Corinthians,Palmeiras,"49","51","82","84","32","42",FORA
+Internacional,Ceará,"61","39","102","83","45","44",CASA
+Bahia,Grêmio,"54","46","72","88","40","37",FORA
+Fluminense,Flamengo,"53","47","91","73","47","38",FORA
+Santos,Atlético Mineiro,"48","52","69","86","45","54",CASA
+São Paulo,Bragantino,"56","44","97","81","55","31",EMPATE
+Fortaleza,Sport Recife,"59","41","51","61","30","16",CASA
+Goiás,Coritiba,"52","48","79","82","35","29",EMPATE
+Athletico PR,Botafogo,"60","40","90","67","44","23",EMPATE
+Sport Recife,Goiás,"52","48","95","87","39","25",CASA
+Coritiba,Atlético Mineiro,"43","57","75","87","34","50",FORA
+Atlético GO,Grêmio,"53","47","81","92","37","39",EMPATE
+Vasco da Gama,Athletico PR,"37","63","57","63","25","41",CASA
+São Paulo,Fluminense,"53","47","99","88","44","33",CASA
+Internacional,Bahia,"64","36","98","53","44","24",EMPATE
+Bragantino,Palmeiras,"43","57","91","93","37","34",FORA
+Ceará,Santos,"58","42","72","47","35","18",FORA
+Corinthians,Botafogo,"58","42","91","75","43","41",EMPATE
+Flamengo,Fortaleza,"65","35","93","60","60","14",CASA
+Atlético Mineiro,São Paulo,"46","54","81","67","40","30",CASA
+Grêmio,Sport Recife,"68","32","107","74","58","18",FORA
+Palmeiras,Internacional,"46","54","75","79","28","33",EMPATE
+Santos,Vasco da Gama,"59","41","68","59","44","35",EMPATE
+Botafogo,Coritiba,"56","44","85","58","55","34",EMPATE
+Bahia,Flamengo,"43","57","91","94","37","54",FORA
+Athletico PR,Bragantino,"51","49","89","84","32","44",EMPATE
+Fluminense,Atlético GO,"41","59","70","81","30","59",EMPATE
+Goiás,Corinthians,"44","56","71","83","31","37",FORA
+Ceará,Fortaleza,"35","65","52","81","22","31",CASA
+Atlético GO,Ceará,"51","49","71","80","35","32",FORA
+Santos,Flamengo,"60","40","90","57","50","40",FORA
+Coritiba,Sport Recife,"61","39","88","71","30","41",CASA
+São Paulo,Corinthians,"58","42","104","65","41","23",CASA
+Fortaleza,Bragantino,"56","44","64","60","23","25",CASA
+Fluminense,Vasco da Gama,"44","56","73","94","32","48",CASA
+Bahia,Palmeiras,"49","51","71","93","37","46",EMPATE
+Botafogo,Internacional,"51","49","73","87","47","49",FORA
+São Paulo,Athletico PR,"55","45","87","90","48","39",CASA
+Ceará,Bahia,"45","55","78","84","41","35",CASA
+Vasco da Gama,Grêmio,"46","54","57","57","24","28",EMPATE
+Palmeiras,Santos,"51","49","70","64","36","24",CASA
+Bragantino,Coritiba,"51","49","94","62","35","24",FORA
+Flamengo,Botafogo,"65","35","96","67","50","31",EMPATE
+Goiás,Atlético GO,"33","67","67","106","28","48",CASA
+Internacional,Atlético Mineiro,"40","60","78","117","20","48",CASA
+Athletico PR,Fluminense,"67","33","100","59","45","23",FORA
+São Paulo,Bahia,"65","35","108","68","58","26",EMPATE
+Ceará,Vasco da Gama,"58","42","81","50","48","15",FORA
+Sport Recife,Santos,"38","62","94","107","30","31",FORA
+Botafogo,Atlético Mineiro,"33","67","72","87","39","71",CASA
+Corinthians,Coritiba,"61","39","103","69","57","33",CASA
+Internacional,Atlético GO,"63","37","102","56","41","22",CASA
+Goiás,Fortaleza,"47","53","90","79","36","29",FORA
+Athletico PR,Palmeiras,"54","46","94","88","37","32",FORA
+Flamengo,Grêmio,"58","42","79","79","45","33",EMPATE
+Bragantino,Fluminense,"53","47","90","96","37","31",CASA
+Santos,Athletico PR,"31","69","66","87","40","62",CASA
+Fortaleza,Botafogo,"56","44","76","60","37","30",EMPATE
+Atlético GO,Sport Recife,"34","66","70","75","24","43",EMPATE
+Fluminense,Internacional,"46","54","63","76","35","43",CASA
+Vasco da Gama,São Paulo,"43","57","56","69","27","36",CASA
+Bahia,Bragantino,"36","64","68","96","28","51",CASA
+Atlético Mineiro,Ceará,"59","41","68","70","39","32",CASA
+Palmeiras,Goiás,"61","39","93","79","40","31",EMPATE
+Coritiba,Flamengo,"36","64","55","91","25","37",FORA
+Grêmio,Corinthians,"57","43","83","92","45","23",EMPATE
+Vasco da Gama,Sport Recife,"44","56","60","59","23","30",CASA
+Internacional,Santos,"60","40","91","52","48","18",CASA
+São Paulo,Fortaleza,"50","50","73","75","36","34",CASA
+Fluminense,Palmeiras,"56","44","90","89","47","50",EMPATE
+Ceará,Grêmio,"44","56","62","74","24","27",EMPATE
+Bahia,Coritiba,"41","59","75","83","38","44",CASA
+Atlético GO,Flamengo,"41","59","59","93","28","41",CASA
+Bragantino,Botafogo,"54","46","106","88","59","29",EMPATE
+Atlético Mineiro,Corinthians,"58","42","87","67","56","18",CASA
+Athletico PR,Goiás,"70","30","98","55","42","17",CASA
+Grêmio,Fluminense,"52","48","105","98","35","34",CASA
+Flamengo,Atlético Mineiro,"58","42","100","87","47","44",FORA
+Santos,Bragantino,"48","52","80","82","46","64",EMPATE
+Sport Recife,Ceará,"45","55","91","102","31","33",CASA
+Coritiba,Internacional,"42","58","72","87","24","39",FORA
+Fortaleza,Athletico PR,"42","58","63","68","30","21",FORA
+Internacional,Atlético Mineiro,"64","36","69","68","39","21",CASA
+Cruzeiro,Palmeiras,"60","40","77","73","27","36",FORA
+Fortaleza,Bahia,"58","42","69","61","23","33",CASA
+Corinthians,Fluminense,"58","42","105","81","58","30",FORA
+Santos,Flamengo,"53","47","65","70","45","40",CASA
+Vasco da Gama,Chapecoense,"51","49","56","44","37","22",EMPATE
+Botafogo,Ceará,"49","51","73","68","41","47",EMPATE
+Avaí,Athletico PR,"44","56","82","70","35","38",EMPATE
+Goiás,Grêmio,"48","52","77","77","40","28",CASA
+CSA,São Paulo,"50","50","78","78","37","27",FORA
+Flamengo,Avaí,"61","39","78","76","41","21",CASA
+Grêmio,Cruzeiro,"57","43","75","65","31","31",CASA
+Palmeiras,Goiás,"44","56","78","83","47","49",CASA
+Bahia,Vasco da Gama,"51","49","74","62","44","33",EMPATE
+São Paulo,Internacional,"48","52","84","104","41","38",CASA
+Fluminense,Fortaleza,"56","44","89","77","42","22",EMPATE
+Chapecoense,CSA,"54","46","98","72","40","21",CASA
+Atlético Mineiro,Botafogo,"46","54","69","68","43","35",CASA
+Ceará,Corinthians,"40","60","41","52","21","23",FORA
+Athletico PR,Santos,"51","49","81","74","41","28",CASA
+Vasco da Gama,Cruzeiro,"45","55","56","61","24","33",CASA
+Grêmio,São Paulo,"51","49","83","64","39","32",CASA
+Santos,Chapecoense,"68","32","90","46","58","31",CASA
+Atlético Mineiro,Corinthians,"47","53","55","56","30","32",CASA
+CSA,Bahia,"46","54","79","76","33","34",FORA
+Palmeiras,Flamengo,"47","53","70","87","32","32",FORA
+Avaí,Fluminense,"46","54","72","69","21","26",EMPATE
+Goiás,Fortaleza,"59","41","93","78","51","26",FORA
+Botafogo,Internacional,"48","52","81","69","51","49",FORA
+Cruzeiro,CSA,"72","28","82","55","50","16",FORA
+São Paulo,Vasco da Gama,"55","45","79","65","43","25",CASA
+Fortaleza,Santos,"37","63","49","72","18","39",CASA
+Fluminense,Palmeiras,"49","51","61","75","34","45",CASA
+Corinthians,Avaí,"65","35","94","65","49","22",CASA
+Flamengo,Ceará,"67","33","90","57","59","19",CASA
+Athletico PR,Grêmio,"54","46","81","74","37","20",CASA
+Bahia,Atlético Mineiro,"57","43","76","74","52","37",EMPATE
+Internacional,Goiás,"64","36","87","80","48","34",FORA
+Chapecoense,Botafogo,"58","42","69","65","39","22",FORA
+CSA,Fluminense,"46","54","91","91","35","43",FORA
+Internacional,Fortaleza,"57","43","84","71","47","28",EMPATE
+Ceará,São Paulo,"54","46","68","48","38","20",EMPATE
+Avaí,Chapecoense,"60","40","82","65","28","24",FORA
+Botafogo,Corinthians,"32","68","76","76","40","57",CASA
+Atlético Mineiro,Athletico PR,"44","56","70","70","49","33",FORA
+Palmeiras,Grêmio,"44","56","79","109","40","30",FORA
+Goiás,Bahia,"47","53","87","87","38","40",CASA
+Santos,Cruzeiro,"57","43","85","79","46","31",CASA
+Cruzeiro,Avaí,"73","27","91","52","55","23",EMPATE
+Vasco da Gama,Goiás,"47","53","63","57","39","28",EMPATE
+Fortaleza,CSA,"64","36","65","53","26","19",CASA
+Corinthians,Internacional,"46","54","77","86","29","34",EMPATE
+Chapecoense,Ceará,"43","57","59","83","22","36",CASA
+Athletico PR,Botafogo,"58","42","81","74","38","28",CASA
+Grêmio,Flamengo,"66","34","95","61","50","18",FORA
+Bahia,Palmeiras,"44","56","63","76","29","47",EMPATE
+Fluminense,Atlético Mineiro,"47","53","78","71","32","31",EMPATE
+Santos,São Paulo,"46","54","83","87","44","49",EMPATE
+Flamengo,Vasco da Gama,"59","41","101","61","39","20",EMPATE
+Botafogo,Avaí,"46","54","67","74","47","46",CASA
+Fortaleza,Ceará,"38","62","45","67","12","35",CASA
+Chapecoense,Grêmio,"50","50","74","77","31","41",FORA
+CSA,Vasco da Gama,"66","34","78","71","37","19",FORA
+Flamengo,Bahia,"65","35","79","70","43","16",CASA
+Internacional,Fluminense,"42","58","72","87","39","57",CASA
+Cruzeiro,Atlético Mineiro,"58","42","78","69","36","34",EMPATE
+São Paulo,Athletico PR,"57","43","82","86","42","43",FORA
+Palmeiras,Corinthians,"61","39","67","62","40","20",EMPATE
+Goiás,Santos,"44","56","79","94","29","39",FORA
+Grêmio,CSA,"63","37","111","55","46","20",CASA
+Botafogo,Flamengo,"31","69","70","70","38","55",FORA
+Ceará,Internacional,"44","56","63","63","26","33",CASA
+São Paulo,Fluminense,"58","42","92","72","53","26",FORA
+Vasco da Gama,Palmeiras,"45","55","52","55","30","28",FORA
+Bahia,Chapecoense,"64","36","107","77","58","16",EMPATE
+Athletico PR,Cruzeiro,"58","42","74","75","46","27",EMPATE
+Avaí,Santos,"54","46","81","75","35","31",FORA
+Atlético Mineiro,Goiás,"53","47","74","61","41","33",CASA
+Corinthians,Fortaleza,"56","44","84","67","44","23",CASA
+Goiás,Avaí,"53","47","86","93","40","35",CASA
+Cruzeiro,Bahia,"63","37","75","55","41","26",EMPATE
+Santos,Botafogo,"59","41","76","58","52","33",CASA
+Grêmio,Internacional,"62","38","87","58","35","19",CASA
+Athletico PR,CSA,"64","36","74","73","58","21",CASA
+Flamengo,Corinthians,"67","33","89","66","49","15",CASA
+Chapecoense,São Paulo,"57","43","105","103","75","62",FORA
+Palmeiras,Ceará,"55","45","75","65","33","24",CASA
+Fluminense,Vasco da Gama,"64","36","88","61","50","31",EMPATE
+Fortaleza,Atlético Mineiro,"54","46","65","62","29","29",EMPATE
+Internacional,Athletico PR,"56","44","87","79","29","37",EMPATE
+Botafogo,Cruzeiro,"61","39","91","93","65","42",FORA
+Goiás,Flamengo,"43","57","71","76","40","36",EMPATE
+Santos,Bahia,"65","35","70","68","56","35",CASA
+Ceará,Fluminense,"36","64","55","80","21","46",CASA
+Vasco da Gama,Grêmio,"47","53","60","70","33","28",FORA
+CSA,Corinthians,"45","55","84","94","33","35",CASA
+Atlético Mineiro,Chapecoense,"65","35","73","57","43","20",FORA
+Palmeiras,São Paulo,"39","61","68","67","30","33",CASA
+Avaí,Fortaleza,"50","50","88","81","39","23",FORA
+Flamengo,CSA,"60","40","96","75","43","15",CASA
+Avaí,Palmeiras,"44","56","53","74","18","36",FORA
+Grêmio,Botafogo,"47","53","70","79","33","21",CASA
+São Paulo,Atlético Mineiro,"58","42","68","78","38","30",CASA
+Athletico PR,Goiás,"65","35","85","67","46","26",CASA
+Cruzeiro,Fortaleza,"65","35","75","63","42","21",EMPATE
+Fluminense,Chapecoense,"65","35","100","76","65","38",EMPATE
+Bahia,Internacional,"57","43","69","77","34","33",FORA
+Ceará,Vasco da Gama,"63","37","73","59","36","14",EMPATE
+Corinthians,Santos,"44","56","95","75","57","44",EMPATE
+Botafogo,CSA,"45","55","83","70","46","44",CASA
+Chapecoense,Goiás,"50","50","70","78","29","42",EMPATE
+Athletico PR,Palmeiras,"53","47","77","90","44","31",EMPATE
+Flamengo,Fluminense,"57","43","69","36","40","19",CASA
+Internacional,Vasco da Gama,"65","35","88","64","46","31",FORA
+Atlético Mineiro,Santos,"36","64","60","78","32","33",CASA
+São Paulo,Avaí,"72","28","101","62","64","13",CASA
+Corinthians,Cruzeiro,"55","45","83","85","41","32",FORA
+Fortaleza,Grêmio,"39","61","68","80","35","33",CASA
+Fluminense,Athletico PR,"47","53","73","80","28","36",FORA
+Santos,Ceará,"57","43","76","59","57","39",CASA
+Avaí,Internacional,"40","60","71","89","25","50",FORA
+Vasco da Gama,Botafogo,"43","57","53","57","32","35",CASA
+Goiás,Corinthians,"46","54","65","74","36","34",EMPATE
+Cruzeiro,São Paulo,"47","53","78","70","34","30",CASA
+Palmeiras,Chapecoense,"63","37","90","74","60","19",CASA
+Fortaleza,Flamengo,"36","64","42","78","17","34",FORA
+Grêmio,Bahia,"59","41","80","80","47","32",FORA
+CSA,Atlético Mineiro,"45","55","77","83","35","46",EMPATE
+Atlético Mineiro,Grêmio,"44","56","71","87","39","43",FORA
+Chapecoense,Cruzeiro,"61","39","90","71","43","30",EMPATE
+São Paulo,Corinthians,"57","43","87","83","47","27",CASA
+Internacional,Santos,"50","50","87","75","56","41",EMPATE
+Vasco da Gama,Fortaleza,"65","35","71","43","43","17",CASA
+Athletico PR,Flamengo,"52","48","67","74","31","37",FORA
+Palmeiras,Botafogo,"52","48","76","70","47","26",CASA
+Fluminense,Bahia,"49","51","72","78","33","36",CASA
+Goiás,CSA,"53","47","94","73","42","25",CASA
+Flamengo,Atlético Mineiro,"70","30","89","54","53","25",CASA
+Corinthians,Athletico PR,"45","55","86","89","41","30",EMPATE
+Avaí,Vasco da Gama,"48","52","84","95","30","31",EMPATE
+Cruzeiro,Fluminense,"53","47","90","74","44","30",EMPATE
+Santos,Palmeiras,"53","47","76","73","46","41",CASA
+Grêmio,Ceará,"65","35","100","69","51","32",CASA
+Bahia,São Paulo,"40","60","74","84","33","31",EMPATE
+Botafogo,Goiás,"42","58","74","83","37","43",CASA
+CSA,Internacional,"34","66","67","91","28","45",CASA
+CSA,Avaí,"40","60","74","92","34","43",CASA
+Palmeiras,Atlético Mineiro,"64","36","77","68","52","21",EMPATE
+Botafogo,Fluminense,"49","51","83","73","58","53",FORA
+Chapecoense,Flamengo,"36","64","68","102","22","54",FORA
+Cruzeiro,Internacional,"56","44","87","72","38","34",EMPATE
+Grêmio,Corinthians,"60","40","85","76","57","23",EMPATE
+Bahia,Athletico PR,"46","54","89","83","49","49",FORA
+São Paulo,Fortaleza,"58","42","69","51","28","19",CASA
+Vasco da Gama,Santos,"51","49","62","62","31","28",FORA
+Atlético Mineiro,Vasco da Gama,"50","50","74","78","42","43",FORA
+Chapecoense,Corinthians,"52","48","96","89","41","32",FORA
+Fortaleza,Botafogo,"50","50","51","72","38","30",CASA
+Avaí,Bahia,"54","46","74","77","31","24",FORA
+Goiás,Cruzeiro,"36","64","72","95","22","47",CASA
+Atlético Mineiro,Ceará,"55","45","82","70","55","34",CASA
+Athletico PR,Chapecoense,"68","32","86","68","62","25",EMPATE
+Internacional,Palmeiras,"56","44","84","72","45","28",EMPATE
+Santos,CSA,"60","40","91","77","63","47",CASA
+Fluminense,Grêmio,"44","56","68","71","42","46",CASA
+Corinthians,Vasco da Gama,"53","47","77","86","30","49",CASA
+Flamengo,São Paulo,"58","42","85","70","44","25",EMPATE
+Athletico PR,Fortaleza,"60","40","84","52","48","26",CASA
+Grêmio,Avaí,"50","50","82","82","26","28",CASA
+Fluminense,Santos,"45","55","71","72","32","36",EMPATE
+Palmeiras,CSA,"63","37","97","49","40","25",CASA
+São Paulo,Goiás,"68","32","65","58","47","19",FORA
+Flamengo,Internacional,"64","36","86","44","52","14",CASA
+Bahia,Botafogo,"56","44","63","47","42","15",CASA
+Ceará,Cruzeiro,"50","50","84","73","34","36",EMPATE
+Avaí,Atlético Mineiro,"39","61","70","97","36","52",CASA
+Goiás,Fluminense,"35","65","63","82","28","39",CASA
+Fortaleza,Palmeiras,"43","57","60","85","29","34",FORA
+Vasco da Gama,Athletico PR,"50","50","77","65","48","40",EMPATE
+CSA,Ceará,"46","54","85","88","30","40",CASA
+Internacional,Chapecoense,"62","38","88","60","46","22",CASA
+Santos,Grêmio,"58","42","86","88","47","33",FORA
+Corinthians,Bahia,"48","52","70","83","34","33",CASA
+Cruzeiro,Flamengo,"44","56","68","79","31","38",FORA
+Botafogo,São Paulo,"51","49","82","79","49","55",FORA
+São Paulo,CSA,"69","31","78","69","45","22",EMPATE
+Grêmio,Goiás,"62","38","83","74","43","40",CASA
+Fluminense,Corinthians,"45","55","77","83","32","43",CASA
+Bahia,Fortaleza,"55","45","60","45","30","20",EMPATE
+Atlético Mineiro,Internacional,"60","40","88","78","54","38",FORA
+Athletico PR,Avaí,"66","34","91","72","55","30",FORA
+Ceará,Botafogo,"45","55","63","54","39","12",EMPATE
+Palmeiras,Cruzeiro,"55","45","95","67","47","33",CASA
+Chapecoense,Vasco da Gama,"51","49","84","89","35","39",FORA
+Flamengo,Santos,"51","49","80","69","36","27",CASA
+Palmeiras,Fluminense,"43","57","79","69","41","44",CASA
+CSA,Chapecoense,"46","54","83","84","31","36",CASA
+Santos,Athletico PR,"64","36","89","62","59","39",EMPATE
+Botafogo,Atlético Mineiro,"51","49","75","74","51","49",CASA
+Cruzeiro,Grêmio,"56","44","92","81","37","31",FORA
+Goiás,Palmeiras,"35","65","66","86","26","49",FORA
+Internacional,São Paulo,"54","46","96","81","46","36",CASA
+Fortaleza,Fluminense,"48","52","70","80","33","41",FORA
+Corinthians,Ceará,"55","45","63","62","41","35",EMPATE
+Vasco da Gama,Bahia,"57","43","57","47","42","22",FORA
+Fluminense,Avaí,"55","45","82","80","39","25",FORA
+Cruzeiro,Vasco da Gama,"52","48","80","72","28","33",CASA
+Corinthians,Atlético Mineiro,"52","48","74","84","45","52",CASA
+Fortaleza,Goiás,"49","51","57","75","30","27",CASA
+Flamengo,Palmeiras,"64","36","94","69","39","23",CASA
+Internacional,Botafogo,"52","48","80","68","38","36",CASA
+Chapecoense,Santos,"51","49","97","68","44","30",FORA
+Athletico PR,Ceará,"64","36","94","69","48","30",CASA
+Bahia,CSA,"65","35","68","33","40","15",CASA
+São Paulo,Grêmio,"57","43","84","77","47","19",EMPATE
+Botafogo,Chapecoense,"61","39","99","71","64","45",EMPATE
+Ceará,Flamengo,"52","48","80","80","48","26",FORA
+Avaí,Corinthians,"47","53","59","44","37","25",EMPATE
+CSA,Cruzeiro,"54","46","99","70","45","26",EMPATE
+Santos,Fortaleza,"58","42","97","68","55","43",EMPATE
+Goiás,Internacional,"37","63","72","85","26","41",CASA
+Grêmio,Athletico PR,"49","51","70","65","40","44",CASA
+Atlético Mineiro,Bahia,"60","40","79","77","58","31",FORA
+Athletico PR,São Paulo,"61","39","85","71","43","17",FORA
+Chapecoense,Avaí,"46","54","87","90","34","34",CASA
+Cruzeiro,Santos,"62","38","80","49","42","16",CASA
+São Paulo,Ceará,"54","46","77","70","45","31",CASA
+Fluminense,CSA,"65","35","83","77","53","18",FORA
+Bahia,Goiás,"49","51","47","60","27","33",EMPATE
+Grêmio,Palmeiras,"63","37","91","67","31","26",EMPATE
+Vasco da Gama,Flamengo,"46","54","59","80","24","39",FORA
+Athletico PR,Atlético Mineiro,"52","48","88","77","43","32",CASA
+Corinthians,Botafogo,"54","46","63","62","46","25",CASA
+CSA,Fortaleza,"53","47","103","82","57","37",FORA
+Goiás,Vasco da Gama,"55","45","82","72","39","31",FORA
+Palmeiras,Bahia,"44","56","73","86","35","24",EMPATE
+Botafogo,Athletico PR,"56","44","62","64","54","54",CASA
+Avaí,Cruzeiro,"55","45","64","56","37","37",EMPATE
+Internacional,Corinthians,"58","42","96","81","49","28",EMPATE
+Atlético Mineiro,Fluminense,"44","56","78","72","43","43",CASA
+Flamengo,Grêmio,"56","44","65","42","49","28",CASA
+São Paulo,Santos,"53","47","82","66","40","28",CASA
+Corinthians,Goiás,"65","35","61","43","37","25",CASA
+Grêmio,Chapecoense,"61","39","77","56","48","18",EMPATE
+Atlético Mineiro,Cruzeiro,"42","58","62","84","41","51",CASA
+Corinthians,Palmeiras,"52","48","60","62","26","30",EMPATE
+Avaí,Botafogo,"64","36","55","40","48","18",FORA
+Bahia,Flamengo,"36","64","34","59","15","33",CASA
+Santos,Goiás,"53","47","59","53","35","39",CASA
+Ceará,Fortaleza,"41","59","42","53","25","37",CASA
+Fluminense,Internacional,"58","42","69","62","48","27",CASA
+CSA,Grêmio,"42","58","81","87","31","49",EMPATE
+Fortaleza,Corinthians,"49","51","49","57","40","41",FORA
+Goiás,Atlético Mineiro,"47","53","63","63","41","33",EMPATE
+Santos,Avaí,"62","38","71","57","51","39",CASA
+Flamengo,Botafogo,"59","41","56","37","42","25",CASA
+Chapecoense,Bahia,"49","51","82","87","45","43",EMPATE
+Internacional,Ceará,"55","45","63","62","45","44",CASA
+Cruzeiro,Athletico PR,"41","59","52","65","29","37",FORA
+Fluminense,São Paulo,"62","38","70","38","42","25",FORA
+Palmeiras,Vasco da Gama,"55","45","70","59","35","24",EMPATE
+São Paulo,Chapecoense,"49","51","62","65","37","25",CASA
+Avaí,Goiás,"54","46","68","61","31","23",EMPATE
+Atlético Mineiro,Fortaleza,"49","51","78","64","47","36",EMPATE
+Botafogo,Santos,"49","51","69","75","57","65",FORA
+Internacional,Grêmio,"46","54","69","85","48","53",EMPATE
+Ceará,Palmeiras,"45","55","43","59","33","34",CASA
+CSA,Athletico PR,"57","43","88","75","48","35",FORA
+Bahia,Cruzeiro,"54","46","52","41","33","27",EMPATE
+Vasco da Gama,Fluminense,"49","51","52","36","31","22",CASA
+Fluminense,Ceará,"62","38","72","49","49","28",EMPATE
+Chapecoense,Atlético Mineiro,"37","63","62","76","34","45",FORA
+Cruzeiro,Botafogo,"45","55","60","64","37","22",EMPATE
+Corinthians,CSA,"69","31","77","37","47","15",CASA
+Athletico PR,Internacional,"63","37","81","64","50","28",CASA
+Flamengo,Goiás,"66","34","63","39","48","25",CASA
+São Paulo,Palmeiras,"45","55","65","79","31","49",EMPATE
+Bahia,Santos,"42","58","41","62","20","30",FORA
+Grêmio,Vasco da Gama,"58","42","65","34","51","23",CASA
+Fortaleza,Avaí,"40","60","36","56","19","33",CASA
+Atlético Mineiro,São Paulo,"67","33","104","55","59","34",EMPATE
+Palmeiras,Avaí,"56","44","76","77","60","55",CASA
+Chapecoense,Fluminense,"37","63","62","68","34","37",EMPATE
+Goiás,Athletico PR,"35","65","52","88","32","54",CASA
+Vasco da Gama,Ceará,"55","45","68","47","42","27",CASA
+Internacional,Bahia,"47","53","51","55","38","42",CASA
+Santos,Corinthians,"52","48","67","59","47","40",CASA
+CSA,Flamengo,"33","67","49","60","27","52",FORA
+Fortaleza,Cruzeiro,"52","48","51","48","37","30",CASA
+Botafogo,Grêmio,"46","54","64","70","49","58",FORA
+Goiás,Chapecoense,"55","45","66","50","42","23",CASA
+Santos,Atlético Mineiro,"54","46","68","51","45","33",CASA
+Fluminense,Flamengo,"57","43","59","65","36","42",EMPATE
+CSA,Botafogo,"47","53","78","85","46","43",FORA
+Avaí,São Paulo,"40","60","62","70","42","47",EMPATE
+Grêmio,Fortaleza,"66","34","81","68","66","30",CASA
+Cruzeiro,Corinthians,"45","55","52","53","39","27",EMPATE
+Palmeiras,Athletico PR,"51","49","61","50","41","24",CASA
+Vasco da Gama,Internacional,"36","64","41","61","20","38",CASA
+Internacional,Avaí,"58","42","66","54","46","42",CASA
+Atlético Mineiro,CSA,"64","36","60","44","40","26",CASA
+Chapecoense,Palmeiras,"51","49","73","74","34","35",FORA
+Ceará,Santos,"47","53","56","52","36","34",FORA
+São Paulo,Cruzeiro,"47","53","74","84","35","43",EMPATE
+Athletico PR,Fluminense,"51","49","64","56","43","27",CASA
+Botafogo,Vasco da Gama,"51","49","72","66","55","58",CASA
+Bahia,Grêmio,"54","46","50","49","32","20",CASA
+Flamengo,Fortaleza,"58","42","64","37","38","22",CASA
+Avaí,Ceará,"48","52","65","56","38","26",FORA
+CSA,Goiás,"45","55","84","95","38","46",CASA
+Cruzeiro,Chapecoense,"61","39","16","13","9","4",FORA
+Corinthians,São Paulo,"45","55","48","52","29","40",CASA
+Bahia,Fluminense,"43","57","45","55","23","26",CASA
+Santos,Internacional,"57","43","63","67","36","44",EMPATE
+Flamengo,Athletico PR,"59","41","49","47","34","33",CASA
+Grêmio,Atlético Mineiro,"56","44","61","42","53","32",CASA
+Vasco da Gama,Avaí,"49","51","40","41","24","29",EMPATE
+Internacional,CSA,"61","39","71","44","60","33",CASA
+Chapecoense,Fortaleza,"54","46","77","69","45","31",FORA
+Goiás,Botafogo,"41","59","56","51","46","26",CASA
+Athletico PR,Corinthians,"61","39","62","51","46","24",FORA
+São Paulo,Bahia,"59","41","77","68","49","28",EMPATE
+Atlético Mineiro,Flamengo,"33","67","49","66","36","48",CASA
+Palmeiras,Santos,"41","59","65","67","27","34",CASA
+Fluminense,Cruzeiro,"57","43","63","53","38","23",CASA
+Fortaleza,São Paulo,"52","48","58","59","32","34",FORA
+Avaí,CSA,"65","35","74","55","53","31",EMPATE
+Athletico PR,Bahia,"59","41","62","48","40","30",CASA
+Internacional,Cruzeiro,"56","44","57","51","45","41",CASA
+Santos,Vasco da Gama,"58","42","75","59","51","40",CASA
+Flamengo,Chapecoense,"54","46","46","45","34","28",CASA
+Goiás,Ceará,"40","60","58","76","35","49",CASA
+Corinthians,Grêmio,"46","54","75","75","29","36",EMPATE
+Fluminense,Botafogo,"56","44","58","36","49","29",FORA
+Grêmio,Fluminense,"48","52","63","52","49","39",FORA
+Bahia,Avaí,"57","43","60","45","41","18",CASA
+Cruzeiro,Goiás,"56","44","65","43","46","26",CASA
+São Paulo,Flamengo,"66","34","70","51","48","28",EMPATE
+Botafogo,Fortaleza,"51","49","65","61","49","50",CASA
+CSA,Santos,"35","65","71","88","34","58",EMPATE
+Chapecoense,Athletico PR,"52","48","69","60","44","35",EMPATE
+Ceará,Atlético Mineiro,"49","51","74","40","50","27",FORA
+Palmeiras,Internacional,"37","63","63","64","33","40",CASA
+Vasco da Gama,Corinthians,"55","45","43","41","29","23",EMPATE
+Botafogo,Bahia,"48","52","71","76","60","67",CASA
+Santos,Fluminense,"49","51","69","58","53","32",CASA
+Fortaleza,Athletico PR,"43","57","43","77","32","47",CASA
+Vasco da Gama,Atlético Mineiro,"56","44","81","69","68","51",FORA
+Goiás,São Paulo,"48","52","67","63","40","34",FORA
+Cruzeiro,Ceará,"55","45","85","54","44","24",CASA
+Avaí,Grêmio,"49","51","66","68","35","39",EMPATE
+Internacional,Flamengo,"45","55","52","51","37","39",CASA
+Corinthians,Chapecoense,"54","46","67","57","39","26",CASA
+CSA,Palmeiras,"45","55","74","81","35","49",EMPATE
+Palmeiras,Fortaleza,"52","48","80","65","55","33",CASA
+Fluminense,Goiás,"67","33","57","34","38","22",FORA
+Ceará,CSA,"54","46","76","38","49","21",CASA
+Bahia,Corinthians,"42","58","57","51","37","20",CASA
+Athletico PR,Vasco da Gama,"56","44","51","55","38","32",CASA
+Grêmio,Santos,"62","38","61","42","53","30",FORA
+Flamengo,Cruzeiro,"57","43","56","44","40","20",CASA
+Atlético Mineiro,Avaí,"58","42","83","64","41","31",CASA
+Chapecoense,Internacional,"45","55","75","89","28","45",CASA
+São Paulo,Botafogo,"39","61","75","99","58","63",CASA
+Paraná,Internacional,"47","53","73","74","40","39",EMPATE
+Chapecoense,São Paulo,"47","53","77","66","36","32",CASA
+Bahia,Cruzeiro,"44","56","59","51","37","27",EMPATE
+Fluminense,América Mineiro,"43","57","61","75","31","40",CASA
+Ceará,Vasco da Gama,"49","51","63","54","42","30",EMPATE
+Sport Recife,Santos,"49","51","60","63","32","29",CASA
+Palmeiras,Vitória,"54","46","69","54","49","31",CASA
+Grêmio,Corinthians,"53","47","69","67","49","31",CASA
+Atlético Mineiro,Botafogo,"53","47","39","43","23","23",CASA
+Flamengo,Athletico PR,"52","48","60","55","38","30",FORA
+Botafogo,Paraná,"54","46","72","55","38","35",CASA
+São Paulo,Sport Recife,"69","31","106","47","64","23",EMPATE
+América Mineiro,Bahia,"46","54","71","70","41","45",CASA
+Corinthians,Chapecoense,"63","37","106","87","79","62",EMPATE
+Internacional,Fluminense,"60","40","68","44","51","31",CASA
+Cruzeiro,Flamengo,"53","47","64","48","46","25",FORA
+Athletico PR,Ceará,"59","41","76","66","44","28",EMPATE
+Vitória,Grêmio,"46","54","44","63","28","48",EMPATE
+Vasco da Gama,Palmeiras,"47","53","49","51","27","34",FORA
+Santos,Atlético Mineiro,"47","53","76","83","52","59",CASA
+Chapecoense,Sport Recife,"42","58","66","74","36","43",CASA
+Bahia,Fluminense,"55","45","56","38","32","21",CASA
+Vasco da Gama,São Paulo,"38","62","42","60","25","33",CASA
+Cruzeiro,Vitória,"51","49","50","49","33","31",CASA
+Athletico PR,Corinthians,"51","49","69","69","34","27",CASA
+Flamengo,Grêmio,"45","55","52","62","39","39",CASA
+Palmeiras,América Mineiro,"49","51","82","71","57","36",CASA
+Santos,Botafogo,"48","52","67","76","44","36",EMPATE
+Internacional,Atlético Mineiro,"56","44","72","58","55","37",FORA
+Fluminense,Ceará,"58","42","63","47","39","30",EMPATE
+São Paulo,Cruzeiro,"55","45","86","58","43","30",CASA
+Grêmio,Chapecoense,"65","35","75","46","50","31",CASA
+Paraná,Palmeiras,"36","64","51","83","30","51",EMPATE
+América Mineiro,Santos,"51","49","61","55","38","27",CASA
+Botafogo,Internacional,"40","60","77","76","55","54",CASA
+Sport Recife,Flamengo,"57","43","65","58","40","30",FORA
+Atlético Mineiro,Bahia,"51","49","68","65","36","36",CASA
+Vitória,Athletico PR,"56","44","50","41","39","30",FORA
+Corinthians,Vasco da Gama,"43","57","48","58","27","32",CASA
+Internacional,América Mineiro,"50","50","62","67","45","45",CASA
+São Paulo,Grêmio,"61","39","76","57","50","27",EMPATE
+Chapecoense,Botafogo,"50","50","70","63","38","27",FORA
+Flamengo,Santos,"59","41","43","34","28","22",CASA
+Cruzeiro,Corinthians,"45","55","56","51","28","25",CASA
+Sport Recife,Vitória,"53","47","65","56","35","36",EMPATE
+Palmeiras,Fluminense,"51","49","67","66","34","34",CASA
+Paraná,Atlético Mineiro,"31","69","58","71","19","50",FORA
+Bahia,Ceará,"61","39","70","48","52","25",CASA
+Vasco da Gama,Athletico PR,"41","59","50","53","28","28",EMPATE
+Santos,Chapecoense,"57","43","84","81","59","62",FORA
+Fluminense,Sport Recife,"57","43","70","52","44","27",EMPATE
+Atlético Mineiro,Palmeiras,"52","48","66","54","40","32",EMPATE
+Vitória,Bahia,"54","46","49","44","32","36",EMPATE
+Ceará,Internacional,"48","52","62","66","43","41",EMPATE
+Grêmio,Vasco da Gama,"63","37","74","44","60","31",CASA
+Athletico PR,Cruzeiro,"47","53","55","63","23","30",CASA
+Botafogo,Flamengo,"41","59","42","56","24","33",CASA
+América Mineiro,Paraná,"61","39","71","41","47","20",FORA
+Corinthians,São Paulo,"49","51","52","53","36","40",EMPATE
+Sport Recife,Ceará,"56","44","73","55","34","28",CASA
+Bahia,Chapecoense,"63","37","71","53","37","26",CASA
+Internacional,Athletico PR,"64","36","87","68","63","42",CASA
+Paraná,Vitória,"45","55","67","71","31","39",EMPATE
+América Mineiro,Cruzeiro,"57","43","83","67","52","31",FORA
+Botafogo,Corinthians,"43","57","72","84","56","60",CASA
+São Paulo,Flamengo,"45","55","74","78","40","46",EMPATE
+Palmeiras,Santos,"41","59","57","74","26","28",CASA
+Atlético Mineiro,Grêmio,"55","45","75","80","49","47",FORA
+Fluminense,Vasco da Gama,"61","39","52","34","34","20",FORA
+Ceará,Atlético Mineiro,"45","55","51","65","32","42",CASA
+Cruzeiro,Paraná,"56","44","66","69","43","32",CASA
+Athletico PR,Botafogo,"63","37","79","63","49","23",CASA
+Chapecoense,América Mineiro,"49","51","78","72","47","43",CASA
+Flamengo,Palmeiras,"65","35","67","48","47","28",EMPATE
+Corinthians,Bahia,"50","50","71","64","36","39",CASA
+Santos,Fluminense,"66","34","82","64","63","51",CASA
+Grêmio,Sport Recife,"67","33","84","47","57","33",FORA
+Vasco da Gama,Internacional,"57","43","60","53","36","33",EMPATE
+Vitória,São Paulo,"64","36","56","41","45","28",FORA
+Cruzeiro,Ceará,"57","43","82","64","50","32",FORA
+Internacional,Santos,"49","51","69","56","46","38",EMPATE
+Cruzeiro,Chapecoense,"53","47","50","50","30","33",CASA
+Paraná,Flamengo,"37","63","65","81","32","49",FORA
+Vitória,Corinthians,"45","55","47","43","29","29",EMPATE
+Fluminense,Atlético Mineiro,"57","43","72","66","36","36",CASA
+Palmeiras,Ceará,"44","56","65","69","30","44",CASA
+São Paulo,Athletico PR,"39","61","70","77","46","38",EMPATE
+Sport Recife,Vasco da Gama,"54","46","72","66","39","32",CASA
+América Mineiro,Grêmio,"53","47","72","76","51","41",EMPATE
+Botafogo,Bahia,"61","39","84","72","60","54",FORA
+Ceará,Botafogo,"56","44","88","49","58","31",EMPATE
+Atlético Mineiro,América Mineiro,"59","41","64","56","37","32",EMPATE
+Athletico PR,Sport Recife,"68","32","62","53","47","17",CASA
+Vasco da Gama,Cruzeiro,"53","47","47","42","33","22",CASA
+Palmeiras,Grêmio,"39","61","64","93","32","37",CASA
+Internacional,São Paulo,"55","45","58","61","43","45",CASA
+Chapecoense,Vitória,"58","42","94","58","45","25",FORA
+Bahia,Paraná,"68","32","80","40","46","20",CASA
+Santos,Corinthians,"49","51","60","67","40","23",CASA
+Flamengo,Fluminense,"48","52","45","51","24","34",CASA
+Botafogo,Vasco da Gama,"51","49","70","66","50","51",EMPATE
+Fluminense,Paraná,"64","36","84","55","43","27",CASA
+Grêmio,Bahia,"70","30","75","44","65","31",EMPATE
+São Paulo,Palmeiras,"55","45","74","62","41","33",FORA
+Athletico PR,América Mineiro,"59","41","75","65","42","29",CASA
+Chapecoense,Atlético Mineiro,"41","59","65","64","40","41",CASA
+Vitória,Santos,"60","40","55","40","34","27",FORA
+Corinthians,Flamengo,"46","54","66","70","27","44",FORA
+Sport Recife,Internacional,"46","54","59","74","29","40",CASA
+Paraná,Vasco da Gama,"44","56","64","83","44","49",EMPATE
+Ceará,Chapecoense,"49","51","54","50","37","34",CASA
+Atlético Mineiro,Sport Recife,"61","39","73","53","50","29",CASA
+Botafogo,São Paulo,"45","55","63","75","46","56",EMPATE
+Santos,Athletico PR,"63","37","84","56","50","32",CASA
+Internacional,Vitória,"65","35","82","48","61","28",CASA
+Palmeiras,Cruzeiro,"53","47","80","82","60","49",CASA
+Bahia,Flamengo,"44","56","51","80","28","35",EMPATE
+América Mineiro,Corinthians,"40","60","64","68","28","37",EMPATE
+Fluminense,Grêmio,"56","44","52","51","30","25",FORA
+Santos,Vasco da Gama,"55","45","73","61","42","35",EMPATE
+Chapecoense,Fluminense,"57","43","63","51","47","33",FORA
+Vasco da Gama,Bahia,"59","41","66","50","41","32",CASA
+Cruzeiro,Santos,"49","51","59","52","28","26",CASA
+Vitória,Botafogo,"62","38","65","49","42","29",FORA
+Sport Recife,Palmeiras,"48","52","59","59","31","24",FORA
+Athletico PR,Paraná,"52","48","66","69","49","41",CASA
+Flamengo,Atlético Mineiro,"49","51","52","55","33","37",CASA
+Corinthians,Internacional,"50","50","75","78","40","47",EMPATE
+Grêmio,Ceará,"60","40","65","52","56","42",CASA
+São Paulo,América Mineiro,"58","42","78","72","58","28",EMPATE
+Chapecoense,Internacional,"51","49","70","63","42","36",CASA
+Corinthians,Sport Recife,"65","35","84","64","45","36",CASA
+Cruzeiro,Atlético Mineiro,"46","54","57","55","37","27",EMPATE
+Athletico PR,Fluminense,"51","49","70","75","47","38",CASA
+Bahia,Palmeiras,"48","52","67","80","35","38",EMPATE
+Santos,São Paulo,"49","51","90","94","70","68",EMPATE
+Botafogo,América Mineiro,"55","45","83","74","67","50",CASA
+Vasco da Gama,Flamengo,"39","61","63","69","31","48",EMPATE
+Ceará,Vitória,"46","54","64","70","39","33",CASA
+Grêmio,Paraná,"61","39","70","71","57","38",CASA
+Chapecoense,Athletico PR,"52","48","70","64","44","32",CASA
+Atlético Mineiro,Athletico PR,"47","53","49","64","34","44",CASA
+Paraná,Santos,"47","53","58","64","38","39",FORA
+Vitória,Vasco da Gama,"55","45","54","37","36","27",CASA
+América Mineiro,Ceará,"55","45","61","52","43","37",EMPATE
+Fluminense,Botafogo,"44","56","60","70","35","33",CASA
+Palmeiras,Corinthians,"55","45","70","60","46","31",CASA
+Internacional,Grêmio,"48","52","66","63","44","42",CASA
+Flamengo,Chapecoense,"61","39","60","49","44","24",CASA
+São Paulo,Bahia,"53","47","83","76","49","38",CASA
+Sport Recife,Cruzeiro,"54","46","54","54","31","22",EMPATE
+América Mineiro,Vasco da Gama,"42","58","45","53","22","29",CASA
+Santos,Grêmio,"52","48","98","99","69","65",EMPATE
+Atlético Mineiro,São Paulo,"42","58","70","79","32","45",CASA
+Internacional,Flamengo,"42","58","62","69","43","49",CASA
+Paraná,Chapecoense,"41","59","52","60","32","32",EMPATE
+Palmeiras,Athletico PR,"49","51","81","65","49","41",CASA
+Ceará,Corinthians,"40","60","46","69","34","46",CASA
+Bahia,Sport Recife,"49","51","55","57","40","39",CASA
+Botafogo,Cruzeiro,"48","52","57","70","43","47",EMPATE
+Cruzeiro,Internacional,"54","46","64","37","34","28",EMPATE
+Chapecoense,Palmeiras,"56","44","79","66","43","36",FORA
+Athletico PR,Bahia,"58","42","55","58","45","28",CASA
+São Paulo,Fluminense,"47","53","63","56","41","38",EMPATE
+Sport Recife,Paraná,"52","48","54","60","31","37",CASA
+Flamengo,Ceará,"62","38","66","40","54","25",FORA
+Corinthians,Atlético Mineiro,"57","43","67","53","45","33",EMPATE
+Vasco da Gama,Santos,"60","40","68","43","41","23",FORA
+Vitória,América Mineiro,"55","45","60","52","45","34",CASA
+Grêmio,Botafogo,"57","43","69","53","47","40",CASA
+Athletico PR,Vasco da Gama,"55","45","64","72","36","26",CASA
+Ceará,Bahia,"61","39","74","44","52","22",FORA
+Vasco da Gama,Chapecoense,"52","48","59","58","33","35",CASA
+América Mineiro,Flamengo,"48","52","60","47","31","27",EMPATE
+Vitória,Atlético Mineiro,"43","57","46","60","33","42",CASA
+Internacional,Palmeiras,"57","43","62","71","40","58",EMPATE
+São Paulo,Ceará,"59","41","70","45","38","19",CASA
+Cruzeiro,Fluminense,"47","53","60","48","36","22",CASA
+Botafogo,Sport Recife,"46","54","74","80","49","64",CASA
+Athletico PR,Grêmio,"53","47","57","53","33","28",CASA
+Corinthians,Paraná,"51","49","76","64","50","42",CASA
+Santos,Bahia,"46","54","61","74","31","31",CASA
+Atlético Mineiro,Vasco da Gama,"68","32","62","30","40","18",EMPATE
+Flamengo,Vitória,"65","35","56","48","40","26",CASA
+Fluminense,Corinthians,"50","50","87","51","52","27",CASA
+Grêmio,Cruzeiro,"70","30","78","40","63","27",EMPATE
+Sport Recife,América Mineiro,"62","38","63","47","39","26",FORA
+Palmeiras,Botafogo,"65","35","64","49","48","25",CASA
+Paraná,São Paulo,"46","54","69","71","45","41",EMPATE
+Bahia,Internacional,"60","40","66","38","50","20",FORA
+Vasco da Gama,Ceará,"58","42","55","48","32","30",EMPATE
+América Mineiro,Fluminense,"52","48","76","76","47","36",EMPATE
+São Paulo,Chapecoense,"44","56","71","74","44","52",CASA
+Cruzeiro,Bahia,"51","49","90","98","53","40",EMPATE
+Vitória,Palmeiras,"51","49","60","58","32","28",FORA
+Botafogo,Atlético Mineiro,"54","46","79","64","71","54",FORA
+Athletico PR,Flamengo,"38","62","56","65","32","49",CASA
+Internacional,Paraná,"70","30","67","44","60","28",CASA
+Corinthians,Grêmio,"54","46","72","74","47","53",FORA
+Santos,Sport Recife,"48","52","75","73","57","49",CASA
+Fluminense,Internacional,"57","43","81","73","47","42",FORA
+Palmeiras,Vasco da Gama,"54","46","85","70","55","26",CASA
+Grêmio,Vitória,"52","48","60","50","48","34",CASA
+Chapecoense,Corinthians,"45","55","67","74","42","41",CASA
+Flamengo,Cruzeiro,"53","47","52","49","29","24",CASA
+Sport Recife,São Paulo,"48","52","51","48","38","34",FORA
+Atlético Mineiro,Santos,"42","58","43","43","26","21",CASA
+Paraná,Botafogo,"51","49","64","47","51","29",EMPATE
+Bahia,América Mineiro,"55","45","55","51","35","23",CASA
+Ceará,Athletico PR,"49","51","60","60","43","35",EMPATE
+Ceará,Santos,"52","48","71","70","49","38",EMPATE
+Atlético Mineiro,Internacional,"57","43","53","41","31","21",FORA
+Fluminense,Bahia,"50","50","61","73","36","39",EMPATE
+Sport Recife,Chapecoense,"64","36","64","51","48","25",EMPATE
+Paraná,Ceará,"66","34","71","65","48","32",FORA
+América Mineiro,Palmeiras,"51","49","52","58","18","31",EMPATE
+Vitória,Cruzeiro,"56","44","47","40","29","29",EMPATE
+São Paulo,Vasco da Gama,"48","52","65","71","47","39",CASA
+Corinthians,Athletico PR,"53","47","76","71","55","56",EMPATE
+Grêmio,Flamengo,"39","61","50","65","39","44",CASA
+Botafogo,Santos,"51","49","77","72","63","49",EMPATE
+Bahia,Atlético Mineiro,"61","39","68","45","54","32",EMPATE
+Atlético Mineiro,Ceará,"63","37","82","61","60","39",CASA
+Bahia,Corinthians,"48","52","60","57","34","28",CASA
+Internacional,Vasco da Gama,"54","46","78","54","57","37",CASA
+Botafogo,Athletico PR,"44","56","62","61","53","51",CASA
+Palmeiras,Flamengo,"53","47","51","45","28","31",EMPATE
+Paraná,Cruzeiro,"43","57","60","69","30","45",EMPATE
+Sport Recife,Grêmio,"51","49","98","80","45","34",EMPATE
+Fluminense,Santos,"51","49","42","45","28","29",FORA
+América Mineiro,Chapecoense,"52","48","51","49","33","35",EMPATE
+São Paulo,Vitória,"57","43","63","58","45","32",CASA
+Flamengo,Paraná,"57","43","41","36","30","23",CASA
+Santos,Internacional,"58","42","81","69","39","34",FORA
+Atlético Mineiro,Fluminense,"48","52","54","55","36","28",CASA
+Bahia,Botafogo,"63","37","65","37","47","18",EMPATE
+Ceará,Palmeiras,"44","56","40","55","33","31",EMPATE
+Grêmio,América Mineiro,"61","39","67","55","48","37",CASA
+Corinthians,Vitória,"59","41","66","55","45","38",EMPATE
+Chapecoense,Cruzeiro,"47","53","72","75","35","38",CASA
+Vasco da Gama,Sport Recife,"41","59","56","77","31","35",CASA
+Athletico PR,São Paulo,"56","44","56","56","36","31",FORA
+América Mineiro,Atlético Mineiro,"53","47","75","66","58","35",FORA
+Paraná,Bahia,"46","54","62","65","33","49",CASA
+Fluminense,Flamengo,"51","49","70","61","44","33",FORA
+Cruzeiro,Vasco da Gama,"66","34","58","41","43","17",EMPATE
+Grêmio,Palmeiras,"49","51","59","63","46","43",FORA
+Sport Recife,Athletico PR,"36","64","70","87","30","45",CASA
+Corinthians,Santos,"47","53","47","45","40","35",EMPATE
+Vitória,Chapecoense,"50","50","48","48","36","33",CASA
+Botafogo,Ceará,"57","43","78","71","62","55",EMPATE
+São Paulo,Internacional,"54","46","72","62","55","38",EMPATE
+Paraná,Fluminense,"46","54","55","60","34","43",CASA
+América Mineiro,Athletico PR,"46","54","42","43","24","24",CASA
+Bahia,Grêmio,"59","41","57","40","36","21",FORA
+Flamengo,Corinthians,"53","47","60","42","37","35",CASA
+Santos,Vitória,"52","48","75","54","38","21",CASA
+Palmeiras,São Paulo,"51","49","43","39","32","24",CASA
+Vasco da Gama,Botafogo,"65","35","87","54","64","35",FORA
+Atlético Mineiro,Chapecoense,"61","39","53","41","39","17",EMPATE
+Internacional,Sport Recife,"59","41","63","60","50","41",EMPATE
+Athletico PR,Santos,"46","54","60","62","34","49",CASA
+Corinthians,América Mineiro,"53","47","46","36","36","18",CASA
+Flamengo,Bahia,"56","44","53","60","33","36",CASA
+Cruzeiro,Palmeiras,"46","54","78","80","38","30",CASA
+Grêmio,Fluminense,"65","35","74","47","69","28",EMPATE
+Chapecoense,Ceará,"53","47","75","56","43","22",CASA
+São Paulo,Botafogo,"47","53","72","82","28","46",CASA
+Vitória,Internacional,"50","50","46","47","37","29",FORA
+Vasco da Gama,Paraná,"47","53","56","49","39","26",CASA
+Sport Recife,Atlético Mineiro,"46","54","61","58","44","36",CASA
+América Mineiro,São Paulo,"48","52","66","62","41","36",FORA
+Ceará,Grêmio,"41","59","44","71","24","49",FORA
+Bahia,Vasco da Gama,"56","44","55","52","29","26",CASA
+Botafogo,Vitória,"57","43","63","59","59","44",EMPATE
+Santos,Cruzeiro,"51","49","63","58","43","38",FORA
+Internacional,Corinthians,"59","41","74","44","57","30",CASA
+Paraná,Athletico PR,"42","58","55","59","32","39",EMPATE
+Atlético Mineiro,Flamengo,"68","32","80","60","56","34",FORA
+Palmeiras,Sport Recife,"62","38","69","44","51","28",FORA
+Fluminense,Chapecoense,"40","60","53","64","22","38",CASA
+Internacional,Chapecoense,"52","48","68","63","56","41",CASA
+Fluminense,Athletico PR,"37","63","46","78","23","48",CASA
+Paraná,Grêmio,"31","69","55","63","25","48",EMPATE
+América Mineiro,Botafogo,"44","56","51","55","32","29",CASA
+São Paulo,Santos,"43","57","72","72","54","48",CASA
+Sport Recife,Corinthians,"46","54","56","51","42","31",EMPATE
+Vitória,Ceará,"47","53","50","61","39","48",CASA
+Palmeiras,Bahia,"54","46","58","41","41","26",CASA
+Flamengo,Vasco da Gama,"58","42","62","48","37","27",EMPATE
+Atlético Mineiro,Cruzeiro,"60","40","56","45","44","28",CASA
+Botafogo,Fluminense,"39","61","52","62","38","48",CASA
+Ceará,América Mineiro,"60","40","71","44","49","24",EMPATE
+Santos,Paraná,"55","45","76","70","41","44",CASA
+Athletico PR,Atlético Mineiro,"60","40","56","51","32","37",FORA
+Chapecoense,Flamengo,"45","55","64","79","21","32",CASA
+Bahia,São Paulo,"46","54","54","56","33","38",EMPATE
+Vasco da Gama,Vitória,"65","35","56","45","42","23",FORA
+Corinthians,Palmeiras,"51","49","37","49","25","29",CASA
+Cruzeiro,Sport Recife,"59","41","55","38","37","26",CASA
+Grêmio,Internacional,"71","29","80","46","62","29",EMPATE
+Chapecoense,Paraná,"45","55","65","79","36","49",EMPATE
+Sport Recife,Bahia,"48","52","49","43","33","24",CASA
+Grêmio,Santos,"62","38","70","34","55","24",CASA
+Cruzeiro,Botafogo,"53","47","50","46","37","22",CASA
+Athletico PR,Palmeiras,"56","44","63","66","44","35",FORA
+Vitória,Fluminense,"38","62","41","47","28","39",FORA
+Flamengo,Internacional,"56","44","55","41","37","28",CASA
+Corinthians,Ceará,"61","39","94","61","52","28",EMPATE
+Vasco da Gama,América Mineiro,"61","39","63","47","43","26",CASA
+São Paulo,Atlético Mineiro,"45","55","61","59","44","41",EMPATE
+América Mineiro,Vitória,"41","59","61","61","40","49",CASA
+Internacional,Cruzeiro,"63","37","68","62","54","35",EMPATE
+Atlético Mineiro,Corinthians,"57","43","70","48","52","26",CASA
+Paraná,Sport Recife,"67","33","66","61","45","26",FORA
+Bahia,Athletico PR,"43","57","47","49","38","28",EMPATE
+Fluminense,São Paulo,"57","43","56","45","32","32",EMPATE
+Ceará,Flamengo,"45","55","41","48","30","39",FORA
+Palmeiras,Chapecoense,"72","28","64","31","44","17",EMPATE
+Botafogo,Grêmio,"58","42","59","56","43","41",CASA
+Sport Recife,Botafogo,"54","46","64","50","38","30",EMPATE
+Grêmio,Athletico PR,"54","46","76","57","66","41",EMPATE
+Atlético Mineiro,Vitória,"59","41","60","53","45","33",CASA
+Chapecoense,Vasco da Gama,"42","58","68","76","23","39",EMPATE
+Fluminense,Cruzeiro,"36","64","47","65","23","50",CASA
+Ceará,São Paulo,"55","45","70","65","47","37",EMPATE
+Palmeiras,Internacional,"45","55","73","72","49","48",CASA
+Paraná,Corinthians,"57","43","68","64","40","26",FORA
+Flamengo,América Mineiro,"52","48","42","49","27","33",CASA
+Bahia,Santos,"50","50","64","43","38","23",CASA
+Botafogo,Palmeiras,"48","52","58","67","43","53",EMPATE
+São Paulo,Paraná,"55","45","101","75","58","29",CASA
+Athletico PR,Chapecoense,"64","36","52","48","39","31",CASA
+Vasco da Gama,Atlético Mineiro,"67","33","56","36","39","22",CASA
+Corinthians,Fluminense,"62","38","54","49","34","33",CASA
+Internacional,Bahia,"44","56","59","70","39","49",CASA
+América Mineiro,Sport Recife,"39","61","53","56","22","33",CASA
+Santos,Ceará,"52","48","69","53","53","36",CASA
+Vitória,Flamengo,"63","37","48","38","41","30",EMPATE
+Cruzeiro,Grêmio,"42","58","54","57","44","30",FORA
